@@ -15,7 +15,9 @@ import torch.nn.functional as F
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 import keras
 from keras.utils import to_categorical
-
+import os
+from sklearn.preprocessing import OneHotEncoder
+from collections import Counter
 
 def metrics(loss, logits, labels, class_weights, emo_dict,focus_emo, args):
     
@@ -51,8 +53,7 @@ def metrics(loss, logits, labels, class_weights, emo_dict,focus_emo, args):
         fp = preds_per_class-tp
         fn = gt_labels_per_class- tp
              
-    
-
+      
     return {'val_loss': loss, 
             'tp': tp, 
             'fp': fp, 
@@ -216,7 +217,7 @@ class EmotionModel(pl.LightningModule):
     PyTorch Lightning module for the Contextual Emotion Detection in Text Challenge
     """
 
-    def __init__(self, emo_dict, focus_dict, args, df_train, df_val, df_test):
+    def __init__(self, emo_dict, focus_dict, args, df_train, df_val, df_test,  verbosity = 1):
         """
         pass in parsed HyperOptArgumentParser to the model
         """
@@ -234,15 +235,18 @@ class EmotionModel(pl.LightningModule):
         self.df_train = df_train
         self.df_val = df_val
         self.df_test = df_test
-        self.loop_count = 0
+        self.verbosity = verbosity
         if args.speaker_embedding:
             print('Speaker Embedding is Enabled')
-            self.max_number_of_speakers_in_dialogue = self.get_max_number_of_speakers_in_dialogue()
+            self.encoder, self.max_number_of_speakers_in_dialogue = self.get_speakers_encoder()
+            if 0:
+                self.max_number_of_speakers_in_dialogue = self.get_max_number_of_speakers_in_dialogue()
             print('Max number of speakers in a dialgue = {}'.format(self.max_number_of_speakers_in_dialogue))
             
         else:
             print('Speaker Embedding is Disabled')
             self.max_number_of_speakers_in_dialogue =0
+            self.encoder = 0
         if not self.args.emoset == 'semeval':
             self.max_number_of_utter_in_dialogue = self.get_max_utterance_length_in_dialogue()
         else:
@@ -270,8 +274,38 @@ class EmotionModel(pl.LightningModule):
         self.sentence_embeds_model.cuda(self.args.device)
         self.context_classifier_model.cuda(self.args.device)
 
-       
-        
+    
+    def get_speakers_encoder(self):
+        speaker_list = list(self.df_train.speaker)
+        speaker_list.extend(list(self.df_val.speaker))
+        speaker_list.extend(list(self.df_test.speaker))
+        speaker_set = set(speaker_list )
+        speaker_list = []
+        for e in speaker_set:
+            templist = []
+            templist.append(e)
+            speaker_list.append(templist)
+        cat = OneHotEncoder()
+        cat.fit(np.asarray(speaker_list, dtype = object))
+        return cat, len(speaker_set)
+    '''
+    
+    def get_speakers_encoder(self):
+        speaker_list = []
+        complete_speaker_list = list(self.df_train['speaker'])
+        complete_speaker_list.extend(list(self.df_val['speaker']))
+        complete_speaker_list.extend(list(self.df_test['speaker']))
+        occurence_count = Counter(complete_speaker_list)
+        common_speakers = occurence_count.most_common(6)
+        for e in common_speakers:
+            templist = []
+            templist.append(e[0])
+            speaker_list.append(templist)
+        speaker_list.append(['Unknown'])
+        cat = OneHotEncoder()
+        cat.fit(np.asarray(speaker_list, dtype = object))
+        return cat, len(cat.categories_[0].tolist())
+    '''     
     def calc_loss_weight(self, df, rate=1.0):
         """ Loss weights """
         emo_count = {}
@@ -388,27 +422,25 @@ class EmotionModel(pl.LightningModule):
         tqdm_dict['fp'] = [0 for w in self.focus_dict]
         tqdm_dict['fn'] = [0 for w in self.focus_dict]
         tqdm_dict['acc_per_class'] = [0 for w in self.focus_dict]
-        tqdm_dict['y_pred'] = [0 for w in self.focus_dict]
-        tqdm_dict['y_true'] = [0 for w in self.focus_dict]
+        tqdm_dict['y_pred'] = []
+        tqdm_dict['y_true'] = []
+        tqdm_dict['val_loss'] = 0
         
         tqdm_dict2['tp'] = [0 for w in self.focus_dict]
         tqdm_dict2['tp_fn'] = [0 for w in self.focus_dict ]
-          
+        
         for metric_name in outputs[0][0].keys():
-            
-            if metric_name not in  ['tp', 'fp', 'fn', 'acc_per_class','y_pred', 'y_true','preds', 'labels']:
-                metric_total = 0
-            else:
-                 metric_total = [0 for w in self.focus_dict]
-            
+          
             for output in outputs:
                 metric_value = output[0][metric_name]
-                metric_total += metric_value
-               
-            if metric_name in ['tp', 'fp', 'fn', 'acc_per_class', 'y_pred', 'y_true', 'preds', 'labels']:
-                tqdm_dict[metric_name] = metric_total
-            else:
-                tqdm_dict[metric_name] = metric_total / len(outputs)
+                if metric_name in ['y_pred', 'y_true']:
+                    tqdm_dict[metric_name].extend(metric_value)
+                else:
+                    tqdm_dict[metric_name] += metric_value
+                    
+            if metric_name in ['val_loss']:
+                tqdm_dict[metric_name] =  tqdm_dict[metric_name] / len(outputs)
+            
         
         
         for i in range(len(self.focus_dict)):
@@ -427,7 +459,7 @@ class EmotionModel(pl.LightningModule):
                 metric_value = output[1][metric_name]
                 tqdm_dict2[metric_name] += metric_value
                
-        
+        #import IPython; IPython.embed();  exit(1)
         
         '''
         if ( self.loop_count ==1):
@@ -468,17 +500,22 @@ class EmotionModel(pl.LightningModule):
             tqdm_dict3.update(prec_rec_f1) 
             getMetrics(np.asarray(y_pred), np.asarray(y_test), self.emo_dict, self.focus_dict, self.args ) 
             
+                   
         self.log('valid_loss', tqdm_dict["val_loss"], prog_bar=False)
         self.log('valid_ac_unweighted', tqdm_dict["acc_unweighted"], prog_bar=False)
         self.log('macroRecall', tqdm_dict["macroRecall"], prog_bar=False)
         #print('\nError Metric {}'.format(tqdm_dict))
-        print(*tqdm_dict.items(), sep='\n')
-        print(*tqdm_dict2.items(), sep='\n')
-        if self.args.emoset == 'semeval':
-            print(*tqdm_dict3.items(), sep='\n')
-        result = {'progress_bar': tqdm_dict, 'log': tqdm_dict, 'val_loss': tqdm_dict["val_loss"]}
-    
+        if self.verbosity :
+          
+            print(*tqdm_dict.items(), sep='\n')
+            print(*tqdm_dict2.items(), sep='\n')
+            if self.args.emoset == 'semeval':
+                print(*tqdm_dict3.items(), sep='\n')
+            result = {'progress_bar': tqdm_dict, 'log': tqdm_dict, 'val_loss': tqdm_dict["val_loss"]}
+        else:
+            result = tqdm_dict['macroRecall']
         
+       
         return result
         #return
     
@@ -488,7 +525,9 @@ class EmotionModel(pl.LightningModule):
 
     
     def test_epoch_end(self, outputs):
-        return self.validation_epoch_end(outputs)
+        return_value =  self.validation_epoch_end(outputs)
+        print('return value is {}'.format(return_value))
+        return (return_value)
     
     def configure_optimizers(self):
         """
@@ -504,7 +543,7 @@ class EmotionModel(pl.LightningModule):
    
     def train_dataloader(self):
         
-        dataset = CustomDataloader.CustomDataset(self.df_train, self.max_number_of_speakers_in_dialogue, self.emo_dict, self.args)
+        dataset = CustomDataloader.CustomDataset(self.df_train, self.max_number_of_speakers_in_dialogue, self.emo_dict, self.encoder, self.args)
         train_loader = DataLoader(dataset, self.args.batch_size, shuffle=True, num_workers=0)
       
         return train_loader
@@ -513,14 +552,48 @@ class EmotionModel(pl.LightningModule):
 
     def val_dataloader(self):
 
-        dataset = CustomDataloader.CustomDataset(self.df_val, self.max_number_of_speakers_in_dialogue, self.emo_dict, self.args)
+        dataset = CustomDataloader.CustomDataset(self.df_val, self.max_number_of_speakers_in_dialogue, self.emo_dict, self.encoder, self.args)
         val_loader = DataLoader(dataset, self.args.batch_size, shuffle=False, num_workers=0)
       
         return val_loader
 
     def test_dataloader(self):
         
-        dataset = CustomDataloader.CustomDataset(self.df_test, self.max_number_of_speakers_in_dialogue, self.emo_dict, self.args)
+        dataset = CustomDataloader.CustomDataset(self.df_test, self.max_number_of_speakers_in_dialogue, self.emo_dict, self.encoder, self.args)
         test_loader = DataLoader(dataset, self.args.batch_size, shuffle=False, num_workers=0)
        
         return test_loader
+    
+
+def train_model (model):
+    
+    early_stop_callback = pl.callbacks.EarlyStopping(monitor='valid_loss', min_delta=0.0005, patience=5 ,
+                                        verbose=True, mode='min')
+
+    checkpoint_callback = pl.callbacks.ModelCheckpoint( monitor='valid_loss' , mode = 'min', save_top_k = model.args.epochs) 
+
+  
+    gpu_list = [int(model.args.gpu)]  
+    trainer = pl.Trainer(default_root_dir=os.getcwd(),
+                    gpus=(gpu_list if torch.cuda.is_available() else 0),
+                    max_epochs= model.args.epochs,
+                    fast_dev_run=False,
+                    deterministic=True,
+                    callbacks = [early_stop_callback,checkpoint_callback] ,
+                    )
+    trainer.fit(model)
+    return trainer
+    
+def test_model(trainer, model):
+    if 1:
+        score = trainer.test(verbose = model.verbosity)
+        print('f1 score is {}'.format(score[0]['macroRecall']))
+    else:
+        checkpoint_path = './lightning_logs/version_0/checkpoints/'
+        checkpoints = os.listdir(checkpoint_path)
+
+        for checkpoint in checkpoints:
+            print(checkpoint)
+            score = trainer.test(ckpt_path = checkpoint_path + checkpoint)
+            print('f1 score is {}'.format(score[0]['macroRecall']))
+    return

@@ -13,14 +13,14 @@ from sklearn.preprocessing import OneHotEncoder
 import numpy as np
 
 class CustomDataset(Dataset):
-    def __init__(self, df, max_number_of_speakers_in_dialogue, emo_dict, args):
+    def __init__(self, df, max_number_of_speakers_in_dialogue, emo_dict, encoder, args):
         self.data = df
      
         self.max_number_of_speakers_in_dialogue = max_number_of_speakers_in_dialogue
         self.emo_dict = emo_dict
         self.tokenizer = DistilBertTokenizer.from_pretrained('distilbert-base-uncased')
         self.args = args
-        
+        self.encoder = encoder        
     def __len__(self):
         if not self.args.emoset == 'semeval':
             return len( self.data['dialogue_id'].unique())
@@ -57,9 +57,9 @@ class CustomDataset(Dataset):
         
         if not self.args.emoset == 'semeval':
             assert idx  in list(range (len( self.data['dialogue_id'].unique())))
-            df = self.data.loc[self.data.dialogue_id ==idx]
+            df = self.data.loc[self.data.dialogue_id ==idx].reset_index(drop = True)
         else:
-           df = self.data.loc[self.data.index ==idx]
+           df = self.data.loc[self.data.index ==idx].reset_index(drop = True)
         padded, attention_mask, tokenizer = self.transform_data(df, self.args.max_seq_len)
         labels = self.get_labels(df)
         if not self.args.emoset == 'semeval':
@@ -73,11 +73,23 @@ class CustomDataset(Dataset):
         labels = labels.cuda(self.args.device)
 
         if self.args.speaker_embedding:
-             cat = OneHotEncoder()
-             speakers_array = np.array(df.speaker).reshape(-1, 1)
-             number_of_speakers_in_dialogue = np.unique(speakers_array).shape[0]
-             spkr_emd = cat.fit_transform(speakers_array).toarray()
-             spkr_emd = np.pad(spkr_emd, (0, (self.max_number_of_speakers_in_dialogue - number_of_speakers_in_dialogue)))[0:spkr_emd.shape[0], :]
+             if 0:
+                 cat = OneHotEncoder()
+                 speakers_array = np.array(df.speaker).reshape(-1, 1)
+                 number_of_speakers_in_dialogue = np.unique(speakers_array).shape[0]
+                 spkr_emd = cat.fit_transform(speakers_array).toarray()
+                 spkr_emd = np.pad(spkr_emd, (0, (self.max_number_of_speakers_in_dialogue - number_of_speakers_in_dialogue)))[0:spkr_emd.shape[0], :]
+             elif 0:
+                 for index in df.index:
+                    if df.iloc[index].speaker not in self.encoder.categories_[0].tolist():
+                         df.iloc[index].speaker = 'Unknown'
+                 #import IPython; IPython.embed();  exit(1)
+                 speakers_array = np.array(df.speaker).reshape(-1, 1)
+                 spkr_emd = self.encoder.transform(speakers_array).toarray()
+             else:
+                 speakers_array = np.array(df.speaker).reshape(-1, 1)
+                 spkr_emd = self.encoder.transform(speakers_array).toarray()
+                
         else:
             spkr_emd = 0
         

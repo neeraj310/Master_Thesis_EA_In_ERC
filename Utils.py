@@ -28,7 +28,7 @@ def create_df_emorynlp(data, column_list):
                 df = df.append(df2, ignore_index=True)
             dialogue_idx += 1
         episode_idx = episode_idx+1
-        if (episode_idx == 5000 ):  # Load less data for test run
+        if (episode_idx == 30000 ):  # Load less data for test run
             break
         
     print(episode_idx)
@@ -99,9 +99,20 @@ def load_df(args):
         df_train = pd.read_csv(train_path, delimiter='\t', index_col='id')
         df_val =  pd.read_csv(val_path, delimiter='\t', index_col='id')    
         df_test = pd.read_csv(test_path, delimiter='\t', index_col='id')
+        '''
         df_train = df_train.iloc[0:500, :]
         df_val = df_val.iloc[0:160, :]
         df_test = df_test.iloc[0:160, :]
-        
+        '''
     return (df_train, df_val, df_test)
+
+def shuffle_dataframe(df):
+    dialogue_id_list = list((df['dialogue_id'].unique()))
+    df_shuffled =  pd.DataFrame(columns = list(df.columns))
+    for dialogue in dialogue_id_list:
+        df_dialogue = df[(df.dialogue_id ==dialogue)].copy(deep = True)
+        df_dialogue = df_dialogue.sample(frac=1)
+        df_shuffled = df_shuffled.append(df_dialogue)
+    df_shuffled =df_shuffled.reset_index(drop=True)
+    return df_shuffled
     

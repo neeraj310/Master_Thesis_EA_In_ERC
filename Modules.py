@@ -105,7 +105,7 @@ class context_classifier_model(torch.nn.Module):
         else:
             self.others_label = self.emo_dict['others']
         self.bin_loss_fct = torch.nn.BCEWithLogitsLoss()
-   
+        self.context_experiment_flag = False
         
     def bin_loss(self, logits, labels):
         """
@@ -131,17 +131,25 @@ class context_classifier_model(torch.nn.Module):
         """
         returns the logits and the corresponding loss if `labels` are given
         """
+    
+        if self.context_experiment_flag == True:
+            sentence_embeds = sentence_embeds.transpose(0, 1)
+            spkr_emd = spkr_emd.transpose(0,1)
+            position_ids = torch.arange(sentence_embeds.shape[1], dtype=torch.long, device=sentence_embeds.device)
+            
+        else:
+            position_ids = torch.arange(sentence_embeds.shape[1], dtype=torch.long, device=sentence_embeds.device)
         
-        position_ids = torch.arange(sentence_embeds.shape[1], dtype=torch.long, device=sentence_embeds.device)
-   
         position_ids = position_ids.expand(sentence_embeds.shape[:2]) 
+      
         position_embeds = self.position_embeds(position_ids)
         sentence_embeds = self.projection(sentence_embeds) + position_embeds 
+ 
         if self.args.speaker_embedding:
             sentence_embeds = torch.cat((sentence_embeds, spkr_emd), dim=2)
             sentence_embeds = sentence_embeds.to(device=self.args.device, dtype=torch.float)
         sentence_embeds = self.drop(self.norm(sentence_embeds))
-    
+      
         if labels is None:
             if not self.emoset == 'semeval':
                 return self.context_transformer(inputs_embeds = sentence_embeds.transpose(0, 1), labels = labels)[0]
@@ -150,6 +158,7 @@ class context_classifier_model(torch.nn.Module):
         else:
             if not self.args.emoset == 'semeval':
                 output =  self.context_transformer(inputs_embeds = sentence_embeds.transpose(0, 1), labels = labels)
+                
             else:
                 output =  self.context_transformer(inputs_embeds = sentence_embeds.flip(1), labels = labels)
         loss = output[0]
