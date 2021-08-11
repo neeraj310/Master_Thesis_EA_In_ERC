@@ -1,0 +1,1345 @@
+dialogue_id,utterance,utterance_de_deepl,speaker,utterance_len,label
+0,Coffee.,Kaffee.,Rachel Green,1,neutral
+0,Thank you.,Danke sehr.,Joey Tribbiani,2,neutral
+0,Cappuccino.,Cappuccino.,Rachel Green,1,neutral
+0,Grazie.,Grazie.,Ross Geller,1,neutral
+0,And a nice hot cider for Monica.,Und einen schönen heißen Apfelwein für Monica.,Rachel Green,7,neutral
+0,"Aww, thank you. Uh Rach?","Oh, danke. Äh, Rach?",Monica Geller,5,scared
+0,Yeah?,"Ja, bitte?",Rachel Green,1,neutral
+0,Why does my cinamon stick have an eraser?,Wieso hat meine Zimtstange einen Radiergummi?,Monica Geller,8,neutral
+0,Oh! That's why. I'm sorry!,Oh! Das ist der Grund. Das tut mir leid.,Rachel Green,5,neutral
+1,"OK, try this salmon mousse.","Okay, versuchen Sie diese Lachsmousse.",Monica Geller,5,joyful
+1,Mmmm. Good.,Mmmm. Schmeckt gut.,Joey Tribbiani,2,joyful
+1,Is it better than the other salmon mousse?,Ist sie besser als die andere Lachsmousse?,Monica Geller,8,joyful
+1,It's creamier.,Es ist cremiger.,Joey Tribbiani,2,peaceful
+1,"Yeah, well, is that better?","Ja, und ist das besser?",Monica Geller,5,mad
+1,"I don't know. We're talking about whipped fish, Monica. I'm just happy I'm keeping it down, y'know?","Das weiß ich nicht. Wir reden hier von geschlagenem Fisch, Monica. Ich bin nur froh, dass ich ihn leise halten kann, weißt du?",Joey Tribbiani,17,joyful
+1,My God! What happened to you?,(Monica) Mein Gott! Was ist denn mit dir passiert?,Rachel Green,6,scared
+1,"Eight and a half hours of aptitude tests, intelligence tests, personality tests... and what do I learn? ""You are ideally suited for a career in data processing for a large multinational corporation.""","Achteinhalb Stunden Eignungstests, Intelligenztests, Persönlichkeitstests... und was lerne ich? ""Sie sind ideal geeignet für eine Karriere in der Datenverarbeitung eines großen multinationalen Unternehmens.""",Chandler Bing,32,mad
+1,That's so great! 'Cause you already know how to do that!,"Das ist ja großartig! Weil du schon weißt, wie man das macht!",Phoebe Buffay,11,joyful
+1,"Can you believe it? I mean, don't I seem like somebody who should be doing something really cool? You know, I just always pictured myself doing something...something.","Kannst du das glauben? Ich meine, sehe ich nicht aus wie jemand, der etwas wirklich Cooles machen sollte? Weißt du, ich habe mir immer vorgestellt, etwas zu tun ... etwas.",Chandler Bing,27,mad
+1,"Oh Chandler, I know, I know... oh, hey! You can see your nipples through this shirt!","Oh Chandler, ich weiß, ich weiß ... oh, hey! Man kann deine Nippel durch dieses Shirt sehen!",Rachel Green,16,joyful
+1,"Here you go, maybe this'll cheer you up.","Hier, vielleicht wird dich das aufheitern.",Monica Geller,8,peaceful
+1,"Ooh, you know, I had a grape about five hours ago, so I'd better split this with you.","Ich habe vor fünf Stunden eine Traube gegessen, also teile ich mir das lieber mit dir.",Chandler Bing,18,mad
+1,It's supposed to be that small. It's a pre-appetizer. The French call it an amouz-bouche.,Es sollte so klein sein. Es ist eine Vorspeise. Die Franzosen nennen es einen Amouz-bouche.,Monica Geller,15,joyful
+1,Well.... it is amouz-ing...,Nun.... es ist amouz-ing...,Chandler Bing,4,joyful
+1,"Hello? Oh, hi Wendy! Yeah, eight o'clock. What did we say? Ten dollars an hour?... OK, great. All right, I'll see you then. Bye.","Hallo? Oh, hi Wendy! Ja, acht Uhr. Was haben wir gesagt? Zehn Dollar die Stunde?... OK, super. Gut, wir sehen uns dann. Bis dann.",Monica Geller,24,joyful
+1,Ten dollars an hour for what?,Zehn Dollar die Stunde für was?,Phoebe Buffay,6,neutral
+1,"Oh, I asked one of the waitresses at work if she'd help me out.","Ich habe eine Kellnerin bei der Arbeit gefragt, ob sie mir hilft.",Monica Geller,14,neutral
+1,Waitressing?,Als Kellnerin?,Rachel Green,1,mad
+1,Uh-oh.,Oh-oh.,Joey Tribbiani,1,neutral
+1,Well... of course I thought of you! But... but...,Nun... natürlich habe ich an dich gedacht! Aber... aber...,Monica Geller,9,sad
+1,"But, but?","Aber, aber?",Rachel Green,2,mad
+1,"But, you see, it's just... this night has to go just perfect, you know? And, well, Wendy's more of a... professional waitress.","Aber, weißt du, dieser Abend muss einfach perfekt laufen, verstehst du? Und Wendy ist eher eine... professionelle Kellnerin.",Monica Geller,22,mad
+1,Oh! I see. And I've sort of been maintaining my amateur status so that I can waitress in the Olympics.,"Oh! Ich verstehe. Und ich habe meinen Amateurstatus beibehalten, damit ich bei den Olympischen Spielen kellnern kann.",Rachel Green,20,mad
+1,"You know, I don't mean to brag, but I waited tables at Innsbruck in '76. Amouz-bouche?","Ich will ja nicht angeben, aber ich habe '76 in Innsbruck gekellnert. Amouz-bouche?",Chandler Bing,16,joyful
+2,Talk to me.,Sprich mit mir.,Celia,3,neutral
+2,"OK.... um, a weird thing happened to me on the train this morning...","OK...., um, eine seltsame Sache ist mir heute Morgen im Zug passiert...",Ross Geller,13,scared
+2,No no no. Talk... dirty.,"Nein, nein, nein. Rede... schmutzig.",Celia,5,joyful
+2,"Wha... what, here?","Wa... was, hier?",Ross Geller,3,scared
+2,Yes...,Ja...,Celia,1,neutral
+2,Ah....,Ah....,Ross Geller,1,neutral
+2,Say something..... hot.,Sag etwas..... heißes.,Celia,3,neutral
+2,Er.... um.....,Er.... um.....,Ross Geller,2,scared
+2,What?,was?,Celia,1,neutral
+2,Um... uh.... vulva.,Um... uh.... Vulva.,Ross Geller,3,joyful
+3,Well?,Nun?,Chandler Bing,1,neutral
+3,"Wow! It's huge! It's so much bigger than the cubicle. Oh, this is a cube.","Wow... Sie ist riesig! Sie ist so viel größer als die Kabine. Oh, das ist ein Würfel.",Phoebe Buffay,15,joyful
+3,Look at this!,Sieh dir das an!,Chandler Bing,3,joyful
+3,Oh! You have a window!,Oh! Du hast ein Fenster!,Phoebe Buffay,5,joyful
+3,Yes indeedy! With a beautiful view of...,"Ja, in der Tat! Mit einer wunderschönen Aussicht auf...",Chandler Bing,7,joyful
+3,Oh look! That guy's peeing!,"Oh, schau! Der Typ da pinkelt!",Phoebe Buffay,5,joyful
+3,"OK, that's enough of the view. Check this out, look at this. Sit down, sit down.","Okay, das reicht mit der Aussicht. Schau dir das an, schau dir das an. Setz dich hin, setz dich hin.",Chandler Bing,16,joyful
+3,OK.,"JA, GUT.",Phoebe Buffay,1,neutral
+3,"This is great! Helen, could you come in here for a moment?","Das ist ja toll! Helen, könntest du einen Moment reinkommen?",Chandler Bing,12,powerful
+3,"Thank you Helen, that'll be all.","Danke, Helen, das wäre dann alles.",Chandler Bing,6,neutral
+3,"Last time I do that, I promise.","Das ist das letzte Mal, dass ich das mache, versprochen.",Chandler Bing,7,mad
+4,"Wendy, we had a deal! Yeah, you promised! Wendy! Wendy! Wendy!","Wendy, wir hatten eine Abmachung! Ja, du hast es versprochen! Wendy! Wendy! Wendy! Wendy! Wendy!",Monica Geller,11,mad
+4,Who was that?,Wer war das?,Rachel Green,3,neutral
+4,Wendy bailed. I have no waitress.,Wendy ist abgehauen. Ich habe keine Kellnerin.,Monica Geller,6,mad
+4,Oh... that's too bad. Bye bye.,"Oh... das ist aber schade. Tschüss, tschüss.",Rachel Green,6,neutral
+4,Ten dollars an hour.,Zehn Dollar die Stunde.,Monica Geller,4,neutral
+4,No.,Nein.,Rachel Green,1,neutral
+4,Twelve dollars an hour.,Zwölf Dollar die Stunde.,Monica Geller,4,neutral
+4,"Mon. I wish I could, but I've made plans to walk around.","Mon. Ich wünschte, ich könnte, aber ich habe Pläne gemacht, um herumlaufen.",Rachel Green,12,neutral
+4,"You know, Rachel, when you ran out of your wedding, I was there for you. I put a roof over your head, and if that means nothing to you... twenty dollars an hour.","Weißt du, Rachel, als du aus deiner Hochzeit geflüchtet bist, war ich für dich da. Ich habe dir ein Dach über dem Kopf gegeben, und wenn dir das nichts bedeutet... 20 Dollar die Stunde.",Monica Geller,33,scared
+4,Done.,Abgemacht.,Rachel Green,1,neutral
+5,What a tool!,Was für ein Idiot!,Joey Tribbiani,3,mad
+5,You don't want to work for a guy like that.,Für so einen Kerl willst du nicht arbeiten.,Rachel Green,10,powerful
+5,Yeah!,"Ja, ja, ja, ja.",Ross Geller,1,powerful
+5,"I know... it's just... I thought this was, you know... it.","Ich weiß... es ist nur... Ich dachte, das war's.",Monica Geller,11,sad
+5,"Look, you'll get there. You're an amazing chef.","Sieh mal, du wirst es schaffen. Du bist eine erstaunliche Köchin.",Ross Geller,8,powerful
+5,Yeah! You know all those yummy noises? I wasn't faking.,"Du bist eine tolle Köchin. - Ja! Weißt du, diese ganzen leckeren Geräusche? Ich habe nicht geschwindelt.",Phoebe Buffay,10,joyful
+5,"So, er... how did it go with Celia?","Also, ähm... wie ist es mit Celia gelaufen?",Joey Tribbiani,8,scared
+5,"Oh, I was unbelievable.","Oh, ich war unglaublich.",Ross Geller,4,powerful
+5,"All right, Ross!","Alles klar, Ross!",Joey Tribbiani,3,powerful
+5,"I was the James Michener of dirty talk. It was the most elaborate filth you have ever heard. I mean, there were characters, plot lines, themes, a motif... at one point there were villagers.","Ich war der James Michener des Dirty Talk. Es war der ausgefeilteste Dreck, den du je gehört hast. Ich meine, es gab Charaktere, Handlungsstränge, Themen, ein Motiv... an einer Stelle gab es Dorfbewohner.",Ross Geller,34,joyful
+5,Whoa! And the... huh-huh?,Wow! Und die... hm-hm?,Joey Tribbiani,4,joyful
+5,"Well, ahem... you know, by the time we'd finished with all the dirty talk, it was kinda late... and we were both kind of exhausted, so uh...","Nun, ähm... weißt du, als wir mit dem ganzen Dirty Talk fertig waren, war es schon spät... und wir waren beide ziemlich erschöpft, also äh...",Ross Geller,27,scared
+5,You cuddled.,Ihr habt gekuschelt.,Joey Tribbiani,2,joyful
+5,"Yeah, which was nice.","Ja, das war schön.",Ross Geller,4,joyful
+5,You guys wanna try and catch a late movie or something?,Wollt ihr noch einen Spätfilm sehen oder so?,Phoebe Buffay,11,neutral
+5,"Maybe, but shouldn't we wait for Chandler?","Vielleicht, aber sollten wir nicht auf Chandler warten?",Rachel Green,7,neutral
+5,"Yeah, where the hell is he?","Ja, wo steckt er denn bloß?",Joey Tribbiani,6,scared
+6,How's this?,Wie wär's damit?,Phoebe Buffay,2,neutral
+6,Eeeee!,Eeeee!,Steve (drug addict),1,joyful
+6,Sorry. How about over here?,"Oh, Entschuldigung. Wie wär's mit hier drüben?",Phoebe Buffay,5,neutral
+6,Aaaaah!,Aaaaah!,Steve (drug addict),1,joyful
+6,"See, that just means it's working. Does this hurt?","Siehst du, das bedeutet nur, dass es funktioniert. Tut das weh?",Phoebe Buffay,9,neutral
+6,No.,Nein.,Steve (drug addict),1,neutral
+6,What about this?,Und was ist hiermit?,Phoebe Buffay,3,neutral
+6,Aaaaahhh!!,Aaaaahhh!!,Steve (drug addict),1,mad
+6,There you go!,Da hast du's!,Phoebe Buffay,3,neutral
+7,I can't believe you would actually say that. I would much rather be Mr. Peanut than Mr. Salty.,"Ich kann nicht glauben, dass du das wirklich sagst. Ich wäre viel lieber Mr. Peanut als Mr. Salty.",Chandler Bing,18,mad
+7,"No way! Mr.Salty is a sailor, all right, he's got to be, like, thetoughest snack there is.","Das gibt's doch nicht! Mr. Salty ist ein Seemann, er ist der härteste Snack, den es gibt.",Joey Tribbiani,17,peaceful
+7,"I don't know, you don't wanna mess with corn nuts. They're craaazy.","Ich weiß nicht, mit Maisnüssen sollte man sich nicht anlegen. Die sind total verrückt.",Ross Geller,12,peaceful
+7,Oh my God. You guys! You gotta come see this! There's some creep out there with a telescope!,"Oh, mein Gott... Hey, Leute! Das müsst ihr euch ansehen! Da draußen ist so ein Spinner mit einem Teleskop!",Monica Geller,18,joyful
+7,I can't believe it! He's looking right at us!,Ich kann es nicht glauben! Er sieht uns direkt an!,Ross Geller,9,mad
+7,"Oh, that is so sick.","Oh, das ist so krank.",Rachel Green,5,scared
+7,I feel violated. And not in a good way.,Ich fühle mich geschändet. Und nicht auf eine gute Art.,Chandler Bing,9,scared
+7,"How can people do that?... Oh, you guys, look! Ugly Naked Guy got gravity boots!","Wie können Menschen das tun?... Oh, Leute, schaut mal! Hässliche Nackte Kerl bekam Schwerkraft Stiefel!",Phoebe Buffay,15,mad
+8,Wow... Wow!,"Wow... Wow, wow!",Rachel Green,2,joyful
+8,Yeah.,"Ja, ich bin nicht verrückt, oder?",Barry Farber,1,neutral
+8,"I'm not crazy, right? I mean, it was never like that.","Ich bin doch nicht verrückt, oder? Ich meine, es war nie so.",Rachel Green,11,scared
+8,"Nooo, it wasn't.","Nein, war es nicht.",Barry Farber,3,neutral
+8,"Ooh, and it's so nice having this little sink here...","Oh, und es ist so schön, dieses kleine Waschbecken hier zu haben...",Rachel Green,10,peaceful
+9,"Oh, Danielle! I wasn't expecting the machine... Give me a call when you get a chance. Bye-bye. Oh God!","Oh, Danielle! Ich hatte nicht mit dem Anrufbeantworter gerechnet... Rufen Sie mich an, wenn Sie Zeit haben. Auf Wiedersehen. Oh, mein Gott!",Chandler Bing,19,scared
+9,That's what you've been working on for the past two hours?!,Daran hast du in den letzten zwei Stunden gearbeitet?!,Monica Geller,11,neutral
+9,"Hey, I've been honing!","Hey, ich habe gefeilt!",Chandler Bing,4,neutral
+9,What was with the dishes?,Was war mit dem Geschirr?,Ross Geller,5,neutral
+9,"Oh, uh.. I want her to think I might be in a restaurant.. y'know? I might have some kind of life, like I haven't been sitting around here honing for the past few hours.","Sie soll denken, dass ich in einem Restaurant arbeite. Ich könnte ein Leben haben, als ob ich nicht die letzten Stunden hier gesessen und gehont hätte.",Chandler Bing,34,neutral
+9,"Look look! He's doing it again, the guy with the telescope!","Schau, schau! Er tut es schon wieder, der Typ mit dem Teleskop!",Monica Geller,11,neutral
+9,Oh my God! Go away! Stop looking in here!,"Oh, mein Gott! Geh weg! Hau ab! Hör auf, hier reinzuschauen!",Phoebe Buffay,9,mad
+9,"Great, now he's waving back.","Toll, jetzt winkt er zurück.",Monica Geller,5,neutral
+9,"Man, we gotta do something about that guy. This morning, I caught him looking into our apartment. It creeps me out! I feel like I can't do stuff!","Mann, wir müssen etwas gegen den Kerl unternehmen. Heute Morgen habe ich ihn dabei erwischt, wie er in unsere Wohnung geschaut hat. Das ist mir unheimlich! Ich habe das Gefühl, dass ich nichts tun kann!",Joey Tribbiani,28,scared
+9,What kinda stuff?,Was für Sachen?,Monica Geller,3,neutral
+9,"Will you grow up? I'm not talking about sexy stuff, but, like, when I'm cooking naked.","Wirst du endlich erwachsen? Ich rede nicht von sexy Sachen, sondern davon, dass ich nackt koche.",Joey Tribbiani,16,neutral
+9,You cook naked?,Du kochst nackt?,Phoebe Buffay,3,neutral
+9,"Yeah, toast, oatmeal... nothing that spatters.","Ja, Toast, Haferflocken... nichts, was spritzt.",Joey Tribbiani,6,neutral
+9,What are you looking at me for? I didn't know that.,Was guckst du mich so an? Das wusste ich gar nicht.,Chandler Bing,11,neutral
+10,What's the matter?,Was ist denn mit dir los?,Barry Farber,3,scared
+10,"Oh, it's just... Oh, Barry, this was not good.","Oh, es ist nur... Oh, Barry, das war nicht gut.",Rachel Green,9,sad
+10,"No, it was. It was very very good.","Doch, war es. Es war sehr, sehr gut.",Barry Farber,8,joyful
+10,"Well, what about Mindy?",Und was ist mit Mindy?,Rachel Green,4,neutral
+10,"Oh, way, way better than Mindy.","Oh, viel, viel besser als Mindy.",Barry Farber,6,peaceful
+10,"No, not that, I mean, what about you and Mindy?","Nein, nicht das, ich meine, was ist mit dir und Mindy?",Rachel Green,10,joyful
+10,"Well, if you want, I'll justI'll just break it off with her.","Wenn du willst, mache ich einfach Schluss mit ihr.",Barry Farber,12,scared
+10,"No. No-no-no-no, no. I mean, don't do that. Not, I mean not for me.","Nein. Nein, nein, nein, nein, nein. Ich meine, tu das nicht. Nicht, ich meine, nicht für mich.",Rachel Green,14,scared
+10,"Dr. Farber, Bobby Rush is here for his adjustment.","Dr. Farber, Bobby Rush ist hier für seine Anpassung.",Bernice,9,neutral
+10,"Thanks, Bernice. Let's go away this weekend.","Danke, Bernice. Lass uns dieses Wochenende wegfahren.",Barry Farber,7,powerful
+10,"Oh, Barry..! Come on, this is all way too..","Oh, Barry...! Komm schon, das ist alles viel zu...",Rachel Green,9,scared
+10,"We can, we can go to Aruba! When I went there on what would have been our honeymoon, it was, uh... it was really nice. You would've liked it.","Wir können, wir können nach Aruba gehen! Als ich in unseren Flitterwochen dort war, war es wirklich schön. Es hätte dir gefallen.",Barry Farber,29,joyful
+10,I had a bra.,Ich hatte einen BH.,Rachel Green,4,neutral
+10,"Hey, Dr. Farber.","Hey, Dr. Farber.",Bobby Rush,3,neutral
+10,"All right Miss Green, everything looks fine... Yep, I think we're starting to see some real progress here.","In Ordnung Miss Green, alles sieht gut aus... Ja, ich glaube, wir sehen hier langsam echte Fortschritte.",Barry Farber,18,neutral
+10,What?!,Was? Ich bin zwölf.,Rachel Green,1,neutral
+10,"I'm twelve, I'm not stupid.","Ich bin 12, ich bin nicht dumm.",Bobby Rush,5,mad
+11,Brrrrrrr!,Brrrrrrr!,Monica Geller,1,neutral
+11,Hell is filled with people like you.,Die Hölle ist voll von Leuten wie dir.,Chandler Bing,7,mad
+11,He's back! The peeper's back!,Er ist wieder da! Der Spanner ist wieder da!,Joey Tribbiani,5,scared
+11,Get down!,Runter mit dir!,Joey Tribbiani,2,scared
+11,Get down?,Runter?,Rachel Green,2,scared
+11,...And boogie!,...und Boogie!,Chandler Bing,2,scared
+11,"Thanks, but I gotta go to work and get my eyes scratched out by Mindy.","Danke, aber ich muss zur Arbeit und mir die Augen von Mindy auskratzen lassen.",Rachel Green,15,neutral
+11,"Relax. Y'know, she may not even know.",Entspann dich. Sie weiß es vielleicht nicht mal.,Monica Geller,7,scared
+11,"Please. I haven't heard from her in seven months, and now she calls me? I mean, what else is it about? Oh! She was my best friend, you guys! We went to camp together... she taught me how to kiss..","Ich bitte dich. Ich habe seit sieben Monaten nichts von ihr gehört, und jetzt ruft sie mich an? Ich meine, worum geht es sonst? Oh! Sie war meine beste Freundin, Leute! Wir waren zusammen im Zeltlager. Sie hat mir beigebracht, wie man küsst...",Rachel Green,40,joyful
+11,Yeah?,Ja? Und jetzt?,Joey Tribbiani,1,neutral
+11,"And now, y'know, I'm like... I'm like the other woman! I feel so..","Und jetzt, weißt du, ich bin wie... Ich bin wie die andere Frau! Ich fühle mich so...",Rachel Green,13,sad
+11,..Naughty!,..unanständig.,Joey Tribbiani,1,joyful
+11,"Right, I'll see you guys later...","Okay, ich sehe euch später...",Rachel Green,6,neutral
+11,"Oh, hold up, I'll walk out with you. Now, Rach, when she taught you to kiss, you were at camp, and.. were you wearing any kinda little uniform, or- That's fine, yeah...","Oh, warte, ich werde mit dir rausgehen. Nun, Rach, wenn sie lehrte Sie zu küssen, Sie waren im Lager, und .. trugen Sie eine Art kleine Uniform, oder - Das ist in Ordnung, ja ...",Joey Tribbiani,32,joyful
+11,"Okay, I'm gonna go to the bathroom. Will you watch my phone?","Okay, ich werde auf die Toilette gehen. Passt du auf mein Handy auf?",Chandler Bing,12,neutral
+11,Why don't you just take it with you?,Warum nimmst du es nicht einfach mit?,Monica Geller,8,neutral
+11,"Hey, we haven't been on a second date, she needs to hear me pee?","Hey, wir hatten noch kein zweites Date, muss sie mich pinkeln hören?",Chandler Bing,14,scared
+11,Why don't you just call her?,Warum rufst du sie nicht einfach an?,Monica Geller,6,neutral
+11,"I can't call her, I left a message! I have some pride.","Ich kann sie nicht anrufen, ich habe eine Nachricht hinterlassen! Ich habe etwas Stolz.",Chandler Bing,12,scared
+11,Do you?,Hast du welchen?,Monica Geller,2,neutral
+11,"No! Danielle, hi! It's, uh, it's Chandler! I'm fine. Uh, listen, I don't know if you tried to call me, because, uh, idiot that I am, I accidentally shut off my phone. Oh, uh, okay, that's fine, that's great. Okay. She's on the other line, she's gonna call me back. She's on the other line, she's gonna call me back, she's on the other line, gonna call me back...","Nein! Danielle, hallo! Hier ist, äh, hier ist Chandler! Ja, mir geht's gut. Äh, ich weiß nicht, ob du versucht hast, mich anzurufen, weil ich, äh, wie ein Idiot, mein Telefon ausgemacht habe. Oh, äh, ok, das ist gut, das ist toll. Okay. Sie ist auf der anderen Leitung, sie wird mich zurückrufen. Sie ist auf der anderen Leitung, sie wird mich zurückrufen, sie ist auf der anderen Leitung, sie wird mich zurückrufen...",Chandler Bing,69,joyful
+11,Don't you have to pee?,Musst du nicht pinkeln?,Monica Geller,5,neutral
+11,'S'why I'm dancing...,Deshalb tanze ich...,Chandler Bing,3,joyful
+12,"Four letters: ""Circle or hoop"".","Vier Buchstaben: ""Circle or hoop"".",Ross Geller,5,neutral
+12,"Ring dammit, ring!","Ring, verdammt noch mal, ring!",Chandler Bing,3,joyful
+12,Thanks.,"Ja, danke.",Ross Geller,1,neutral
+12,"Hey, you know our phone's not working?","Hey, weißt du, dass unser Telefon nicht funktioniert?",Joey Tribbiani,7,scared
+12,What?!,Was ist denn?!,Chandler Bing,1,scared
+12,"I tried to call you from the coffee shop, and there was no answer.","Ich habe versucht, dich vom Café aus anzurufen, aber es ging niemand ran.",Joey Tribbiani,14,neutral
+12,"I turned it off. Mother of God, I turned it off!","Ich habe es ausgeschaltet. Heilige Mutter Gottes, ich habe es ausgeschaltet!",Chandler Bing,11,mad
+12,Just like you told her you did! ... Just pointing out the irony.,Genau wie du es ihr gesagt hast! ... Ich weise nur auf die Ironie hin.,Monica Geller,13,joyful
+12,"Hey, so listen, I went across the street and talked to the doorman- I got the peeper's name! Can I use the phone?","Hey, hör zu, ich bin über die Straße gegangen und habe mit dem Türsteher gesprochen. Kann ich das Telefon benutzen?",Joey Tribbiani,23,neutral
+12,Nngghhh!!!!!!!,Nngghhh!!!!!!!,Chandler Bing,1,mad
+12,"Can I use your phone? Yeah, the number for a Sidney Marks, please.","Kann ich dein Telefon benutzen? Ja, die Nummer von Sidney Marks, bitte.",Joey Tribbiani,13,neutral
+12,"""Heating device.""","""Heizgerät"".",Ross Geller,2,neutral
+12,Radiator.,Heizkörper.,Phoebe Buffay,1,neutral
+12,Five letters.,Fünf Buchstaben.,Ross Geller,2,neutral
+12,Rdtor.,Rdtor.,Phoebe Buffay,1,neutral
+12,"Yeah, is Sidney there? Oh, this is? Sidney's a woman.","Ja, ist Sidney da? Oh, das ist? Sidney ist eine Frau.",Joey Tribbiani,10,neutral
+12,So she's a woman! So what?,"Also ist sie eine Frau! Ja, und?",Monica Geller,6,neutral
+12,"Yeah. Yeah, so what? Look, I live across the street, and I know all about you and your little telescope, and I don't appreciate it, okay? Yeah, I can see you right now! Hello! If I wanna walk around my apartment in my underwear, I shouldn't have to feel like Thank you, but... that's not really the point... The point is that... Mostly free weights, but occasionally..","Ja, und? Ja, und weiter? Ich wohne gegenüber und weiß alles über dich und dein kleines Teleskop, und das gefällt mir nicht. Ja, ich kann dich gerade sehen! Hallo! Wenn ich in meiner Wohnung in meiner Unterwäsche herumlaufen will, sollte ich nicht das Gefühl haben, dass ich mich bedanken muss, aber... das ist nicht wirklich der Punkt... Der Punkt ist, dass... Meistens freie Gewichte, aber gelegentlich...",Joey Tribbiani,67,mad
+12,Joey!!,Joey!,Monica Geller,1,mad
+12,"Yeah, my neighbor... Yeah, the brunette... She says you looked very pretty the other day in the green dress.","Ja, meine Nachbarin... Ja, die Brünette... Sie sagt, du sahst neulich sehr hübsch aus in dem grünen Kleid.",Joey Tribbiani,19,neutral
+12,The green dress? Really?,Das grüne Kleid? Das grüne Kleid? Wirklich?,Monica Geller,4,joyful
+12,"Yeah, she said you looked like Ingrid Bergman that day.","Ja, sie sagte, du sahst an dem Tag aus wie Ingrid Bergman.",Joey Tribbiani,10,neutral
+12,Nooo!,Neeein!,Monica Geller,1,joyful
+13,You okay?,Geht's dir gut?,Monica Geller,2,neutral
+13,Yeah.,"Ja, mir geht's gut.",Rachel Green,1,neutral
+13,Really?,Ist das wahr?,Monica Geller,1,neutral
+13,"Yeah! Y'know, ever since I ran out on Barry at the wedding, I have wondered whether I made the right choice. And now I know.","Ja, wirklich! Seit ich Barry auf der Hochzeit verlassen habe, habe ich mich gefragt, ob ich die richtige Wahl getroffen habe. Und jetzt weiß ich es.",Rachel Green,25,sad
+13,Aww...,Aww...,Monica Geller,1,peaceful
+13,Big day.,Großer Tag.,Joey Tribbiani,2,neutral
+14,"All right, I'll give you this, Mr. Peanut is a better dresser. I mean he's got the monocle, he's got the top hat...","Also gut, ich gebe zu, Mr. Peanut zieht sich besser an. Ich meine, er hat das Monokel, er hat den Zylinder...",Joey Tribbiani,23,joyful
+14,You know he's gay?,"Du weißt, dass er schwul ist?",Phoebe Buffay,4,joyful
+14,I just wanna clarify this: are you outing Mr. Peanut?,Willst du Mr. Peanut etwa outen?,Ross Geller,10,joyful
+14,Chandler?,Chandler?,Danielle,1,neutral
+14,"Danielle! Hi! Uh- everybody, this is Danielle, Danielle, everybody.","Danielle! Hi! Äh... Leute, das ist Danielle, Danielle, Leute.",Chandler Bing,9,joyful
+14,Hi. Hi.,Hi. Hi.,#ALL#,2,neutral
+14,What are you doing here?,Was machst du denn hier?,Chandler Bing,5,neutral
+14,"Well, I've been calling you, but it turns out I had your number wrong. And when I finally got the right one from Information, there was no answer. So I thought I'd just come down here, and make sure you were okay.","Nun, ich habe dich angerufen, aber ich hatte deine Nummer falsch. Und als ich endlich die richtige Nummer von der Auskunft hatte, ging niemand ran. Also dachte ich, ich komme einfach her und vergewissere mich, dass es dir gut geht.",Danielle,42,neutral
+14,"...I'm, I'm okay.","...mir geht's, mir geht's gut.",Chandler Bing,3,neutral
+14,"Listen uh, maybe we could get together later?","Hör mal, äh, vielleicht können wir uns später treffen?",Danielle,8,neutral
+14,"That sounds good. I'll call you- or you call me, whatever...","Das klingt gut. Ich rufe dich an, oder du rufst mich an, was auch immer...",Chandler Bing,11,neutral
+14,You got it.,Alles klar.,Danielle,3,neutral
+14,Okay.,"Ja, gut.",Chandler Bing,1,neutral
+14,"G'bye, everybody.","Auf Wiedersehen, allerseits.",Danielle,2,neutral
+14,Bye.,"Tschüss, Leute. Tschüss.",#ALL#,1,neutral
+14,Whoo-hoo!,Juhu!,Phoebe Buffay,1,joyful
+14,"Yeah, there you go!","Ja, da hast du es!",Monica Geller,4,joyful
+14,Second date!,Zweites Date!,Ross Geller,2,joyful
+14,...I dunno.,...ich weiß es nicht.,Chandler Bing,2,scared
+14,You don't know?!,Du weißt es nicht?!,Rachel Green,3,mad
+14,"Well, she seems very nice and everything, but that whole thing about her coming all the way down here, just to see if I was okay? I mean,... how needy is that?","Nun, sie scheint sehr nett zu sein und alles, aber diese ganze Sache, dass sie den ganzen Weg hierher kommt, nur um zu sehen, ob ich okay bin? Ich meine... wie bedürftig ist das denn?",Chandler Bing,32,scared
+15,"Stop saying you're not talented, you're very talented. It's just with the bird dead and all, there's very little act left. Oh, honey, give me a break, will ya? Oooh, ooh, I'll talk to you later.","Hör auf zu sagen, dass du kein Talent hast. Du bist sehr talentiert. Es ist nur so, dass der Vogel tot ist und so, da ist nicht mehr viel zu tun. Oh, Schatz, lass mich in Ruhe, ja? Oooh, ooh, ich rede später mit dir.",Estelle Leonard,36,neutral
+15,"Well, there's my favorite client. So tell me darling, how was the audition?","Nun, das ist mein Lieblingskunde. Sag mal, Schatz, wie war das Vorsprechen?",Estelle Leonard,13,joyful
+15,"Well, I think it went pretty well. I.. I got a callback for Thursday.","Nun, ich denke, es lief ziemlich gut. Ich... Ich habe einen Rückruf für Donnerstag.",Joey Tribbiani,14,joyful
+15,"Joey, have you ever seen me ecstatic?","Joey, haben Sie jemals gesehen mich ekstatisch?",Estelle Leonard,7,neutral
+15,No.,Nein.,Joey Tribbiani,1,neutral
+15,"Well, here it is.","Nun, hier ist es.",Estelle Leonard,4,joyful
+15,"OK, uh.... listen, there's something I want to talk to you about. The network casting lady...","Okay, äh, hören Sie, es gibt etwas, was ich mit Ihnen besprechen möchte. Die Casting-Dame vom Sender...",Joey Tribbiani,16,scared
+15,"Oh, isn't Lori a doll?","Oh, ist Lori nicht ein Schatz?",Estelle Leonard,5,peaceful
+15,"Oh yeah, yeah, she's great, but... I kinda got the feeling that she was sort of... coming on to me. And I definitely would get the part if I would've... you know... if I would have sent the Little General in.","Oh ja, ja, sie ist toll, aber... Ich hatte irgendwie das Gefühl, dass sie sich an mich ranmachen wollte. Und ich hätte die Rolle auf jeden Fall bekommen, wenn ich... du weißt schon... wenn ich den kleinen General geschickt hätte.",Joey Tribbiani,41,scared
+15,"Oh, I see. Well, I'm just gonna put in a call here and we'll find out what's goin' on and straighten it out. Yeah, hi, Lori please. Hi darling. So how 'bout Joey Tribbiani for the part of the cab driver, isn't he terrific? Uh-huuuuh. Uh-huuuuh. OK, doll. Talk to you later. Yeah, you're gonna have to sleep with her.","Oh, ich verstehe. Ich rufe einfach mal an und wir finden heraus, was los ist und klären das. Ja, hi, Lori, bitte. Hallo, mein Schatz. Wie wär's mit Joey Tribbiani für die Rolle des Taxifahrers? Ist er nicht fantastisch? Uh-huuuuh. Uh-huuuuh. Ok, Püppchen. Wir sprechen uns später. Ja, du wirst mit ihr schlafen müssen.",Estelle Leonard,60,neutral
+16,Hey.,Hey! Hey!,Chandler Bing,1,neutral
+16,Hey.,"Hey, hey, hey.",Joey Tribbiani,1,neutral
+16,"Whoa, whoa, so I'm guessing you didn't get the part, or... uh, Italy called and said it was hungry.","Whoa, whoa, also ich schätze du hast die Rolle nicht bekommen, oder... uh, Italien hat angerufen und gesagt, dass sie hungrig ist.",Chandler Bing,19,sad
+16,"Well, the part's mine if I want it.","Nun, die Rolle gehört mir, wenn ich sie will.",Joey Tribbiani,8,joyful
+16,Oh my God!,"Oh, mein Gott! Ja.",Chandler Bing,3,joyful
+16,"Yeah, if I'm willing to sleep with the casting lady.","Ja, wenn ich bereit bin, mit der Casting-Dame zu schlafen.",Joey Tribbiani,10,neutral
+16,Oh my... God?,"Oh, mein... Mein Gott!",Chandler Bing,3,scared
+16,"Ten years I've been waiting for a break like this Chandler, ten years! I mean, Days of Our Lives. That's actually on television.","Zehn Jahre habe ich gewartet auf eine Pause wie diese Chandler, zehn Jahre! Ich meine, Days of Our Lives. Das ist tatsächlich im Fernsehen.",Joey Tribbiani,23,sad
+16,"So, what're you gonna do?","Also, was wirst du tun?",Chandler Bing,5,neutral
+16,"Well, I guess I could sleep with her... I mean, how could I do that?","Nun, ich denke, ich könnte mit ihr schlafen ... Ich meine, wie könnte ich das tun?",Joey Tribbiani,15,sad
+16,"Well, I... I've got a pop-up book that told me everything I need to know.","Nun, ich... Ich habe ein Pop-up-Buch, das mir alles sagt, was ich wissen muss.",Chandler Bing,15,neutral
+16,I've never slept with someone for a part.,Ich habe noch nie mit jemandem für eine Rolle geschlafen.,Joey Tribbiani,8,sad
+16,Well is she...,"Nun, ist sie...",Chandler Bing,3,neutral
+16,Sorry.,Tut mir leid. Ist schon gut.,Joey Tribbiani,1,neutral
+16,It's alright. Is she good-looking?,Ist schon gut. Sieht sie gut aus?,Chandler Bing,5,peaceful
+16,"Yeah, she's totally good looking. I mean, if I met her in a bar, or something, I'd be buying her breakfast. You know, after having slept with her.","Ja, sie sieht total gut aus. Ich meine, wenn ich sie in einer Bar treffen würde, würde ich ihr Frühstück kaufen. Du weißt schon, nachdem ich mit ihr geschlafen habe.",Joey Tribbiani,28,joyful
+16,"Y'know, maybe this isn't such a big deal. Y'know, I mean, the way that I see it is you get a great job and you get to have sex. Y'know, I mean, throw in a tree and a fat guy and you've got Christmas.","Weißt du, vielleicht ist das keine so große Sache. So wie ich das sehe, hat man einen tollen Job und darf Sex haben. Dazu noch ein Baum und ein fetter Kerl, und es ist Weihnachten.",Chandler Bing,44,joyful
+16,"I just... I just don't think that I want it that way though, y'know? I mean, let's say I do make it, alright? I'm always gonna look back and wonder if it was because of my talent or because of.. y'know, the Little General.","Ich denke... Ich glaube einfach nicht, dass ich es so haben will. Ich meine, sagen wir mal, ich schaffe es, ja? Ich werde immer zurückblicken und mich fragen, ob es wegen meines Talents war oder wegen... du weißt schon, dem Kleinen General.",Joey Tribbiani,44,scared
+16,Didn't you used to call it the Little Major?,Nanntest du ihn nicht immer den kleinen Major?,Chandler Bing,9,peaceful
+16,"Yeah, but after Denise DeMarco, I had to promote it.","Ja, aber nach Denise DeMarco musste ich ihn befördern.",Joey Tribbiani,10,peaceful
+17,Can I get you something from the bar?,Kann ich dir etwas von der Bar holen?,Waiter,8,neutral
+17,"Yes, I would like something. No, no thank you.","Ja, ich hätte gerne etwas. Nein, nein, danke.",Monica Geller,9,sad
+17,"If... if you want to drink, it's OK with me, I've got to get used to it.","Wenn Sie etwas trinken wollen, ist das okay für mich. Ich muss mich daran gewöhnen.",Bobby Rush,17,neutral
+17,"No, no really. I.. I wouldn't feel right about it. Just some water.","Nein, nein, wirklich. Ich würde mich nicht wohl dabei fühlen. Nur etwas Wasser.",Monica Geller,13,sad
+17,So the light went out in my refrigerator...,In meinem Kühlschrank ist das Licht ausgegangen...,Bobby Rush,8,neutral
+17,I'd like a scotch on the rocks with a twist.,Ich hätte gerne einen Scotch on the rocks mit einem Twist.,Monica Geller,10,neutral
+18,Hi.,Hi.,Russ,1,neutral
+18,"Oh, hey.","Oh, hey.",Chandler Bing,2,neutral
+18,Hi.,Hi.,Phoebe Buffay,1,neutral
+18,"I guess you guys heard, Rachel dumped me.","Ich schätze, ihr habt es schon gehört, Rachel hat mich abserviert.",Russ,8,sad
+18,"Yeah, I'm sorry man.","Ja, das tut mir leid, Mann.",Chandler Bing,4,neutral
+18,"Oh, all she said was that I remind her too much of somebody. You have any idea who she's talking about?","Oh, sie hat nur gesagt, dass ich sie zu sehr an jemanden erinnere. Hast du eine Ahnung, von wem sie spricht?",Russ,21,neutral
+18,"Oh I do, it's.... it's Bob Saget. She hates him.","Oh, habe ich, es ist.... es ist Bob Saget. Sie hasst ihn.",Phoebe Buffay,10,neutral
+18,Oh.,Sie hasst ihn. Oh.,Russ,1,neutral
+18,Hey.,Hey!,Julie,1,neutral
+18,Hey!,Hey!,Chandler Bing,1,neutral
+18,"Hey, Julie! Hey, how are you doing?","Hey, Julie! Hey, wie geht's dir?",Phoebe Buffay,7,peaceful
+18,"Um, oh, I don't know. I mean, it's definitely weird not being with Ross, but I guess I'm doing OK. Actually I've got some of his stuff that he, um....","Ähm, oh, ich weiß nicht. Es ist auf jeden Fall komisch, nicht mit Ross zusammen zu sein, aber es geht mir ganz gut. Ich hab noch ein paar Sachen von ihm, die er, ähm, ....",Julie,30,neutral
+19,Hey. Watcha guys doin?,Hey. Was macht ihr da?,Phoebe Buffay,4,joyful
+19,Monica's making us watch Old Yeller.,Monica macht uns sehen Old Yeller.,Richard Burke,6,sad
+19,"Why are you guys so upset? It's Old Yeller, it's a happy movie.","Warum seid ihr so aufgeregt? Es ist Old Yeller, es ist ein fröhlicher Film.",Phoebe Buffay,13,scared
+19,What?,Was? Was?,Rachel Green,1,neutral
+19,What're you talkin' about?,Was redest du denn da?,Ross Geller,4,neutral
+19,"C'mon, happy family gets a dog, frontier fun.","Kommt schon, glückliche Familie bekommt einen Hund, Grenzlandspaß.",Phoebe Buffay,8,joyful
+19,"Yeah but Phoebs, what about the end?","Ja, aber Phoebe, was ist mit dem Ende?",Ross Geller,7,neutral
+19,What when Yeller saves saves the family from the wolf and everyone's happy?,"Was, wenn Yeller rettet rettet die Familie vor dem Wolf und jeder ist glücklich?",Phoebe Buffay,13,joyful
+19,That's not the end.,Das ist nicht das Ende.,Rachel Green,4,neutral
+19,Yu-huh. That's when my mother would shut off the TV and say 'The end'.,"Ja, ja. Da würde meine Mutter den Fernseher ausschalten und sagen: ""Das Ende"".",Phoebe Buffay,14,neutral
+19,What about the part where he has rabies?,"Was ist mit dem Teil, wo er Tollwut hat?",Monica Geller,8,scared
+19,"He doesn't have rabies, he has babies. That's what my mom said.","Er hat keine Tollwut, er hat Babys. Das hat meine Mutter auch gesagt.",Phoebe Buffay,12,neutral
+19,"Uh, Phoebe, I don't think your mom would want you to see what's about to happen.","Phoebe, ich glaube nicht, dass deine Mutter will, dass du siehst, was gleich passiert.",Richard Burke,16,scared
+19,"What, what's about to happen? I've never seen this part before. Hey, Travis, watcha doin' with that gun? Oh no, no no Travis, put down the gun. No no no no, he he's your buddy, he's your Yeller, no, no no, the end, THE END.","Was, was wird gleich passieren? Diesen Teil habe ich noch nie gesehen. Hey, Travis, was machst du mit der Waffe? Oh nein, nein, nein, Travis, leg die Waffe weg. Nein, nein, nein, er ist dein Kumpel, er ist dein Yeller, nein, nein, nein, das Ende, DAS ENDE.",Phoebe Buffay,45,sad
+20,"Hey, have you guys eaten, because uh, Richard and I just finished and we've got leftovers... Chicken and potatoes... What am I wearing?...Actually, nothing but rubber gloves.","Hey, habt ihr schon gegessen? Richard und ich sind gerade fertig geworden und wir haben noch Reste... Hühnchen und Kartoffeln... Was habe ich an? Eigentlich nichts außer Gummihandschuhen.",Monica Geller,27,peaceful
+20,"Ya know, one of these times you're gonna really be naked and we're not gonna come over.",Irgendwann bist du wirklich nackt und wir kommen nicht rüber.,Joey Tribbiani,17,neutral
+20,"Alright, I've got a leg, three breasts and a wing.","Also gut, ich habe ein Bein, drei Brüste und einen Flügel.",Monica Geller,10,joyful
+20,"Well, how do you find clothes that fit?","Und wie findest du Klamotten, die dir passen?",Chandler Bing,8,joyful
+20,"Oh, hey, Monica, we've got a question.","Oh, hey, Monica, wir haben eine Frage.",Joey Tribbiani,7,neutral
+20,"Alright, for the bizillionth time, yes I see other women in shower at the gym, and no I don't look.","Zum tausendsten Mal: Ja, ich sehe andere Frauen unter der Dusche im Fitnessstudio, und nein, ich schaue nicht hin.",Monica Geller,20,mad
+20,"No, not that one. We're trying to figure out who to bring to the Knicks game tonight, we have an extra ticket.","Nein, nicht die. Wir versuchen, herauszufinden, wer zu den Knicks Spiel heute Abend zu bringen, haben wir eine zusätzliche Karte.",Joey Tribbiani,22,peaceful
+20,"Yeah, Ross can't go so it's between my friend Eric Prower who has breath issues and Dan with the poking. 'Did you see that play? Do you want some more beer? Is that Spike Lee?'","Ja, Ross kann nicht gehen, so ist es zwischen meinem Freund Eric Prower, der Probleme mit dem Atem hat und Dan mit dem Stochern. 'Hast du das Spiel gesehen? Willst du noch etwas Bier? Ist das Spike Lee?'",Chandler Bing,35,scared
+20,"Ok. Hey, why don't you ask Richard?","Ok. Hey, warum fragst du nicht Richard?",Monica Geller,7,neutral
+20,"Ok, uh, hey Richard, if you had an extra ticket to the Knicks game and you had to choose between a friend who smells and one who bruises you who would you pick?","Ok, äh, hey Richard, wenn du eine extra Karte für das Knicks Spiel hättest und du müsstest dich entscheiden zwischen einem Freund der stinkt und einem der dich quält, wen würdest du nehmen?",Joey Tribbiani,33,joyful
+20,"Wow. Well being a huge Knicks fan myself, I think you should take someone who's a huge Knicks fan.","Wow. Nun, da ich selbst ein großer Knicks-Fan bin, denke ich, du solltest jemanden nehmen, der ein großer Knicks-Fan ist.",Richard Burke,19,neutral
+20,"Ok, that's Eric.","Ok, das ist Eric.",Chandler Bing,3,neutral
+20,Glad to be of help. Matches.,"Freut mich, dass ich helfen konnte. Streichhölzer.",Richard Burke,6,joyful
+20,"I meant, why don't you take Richard to the game? What?","Ich meinte, warum gehst du nicht mit Richard zu dem Spiel? Was? Ich weiß nicht.",Monica Geller,11,scared
+20,I don't know.,Ich weiß es nicht. Ich weiß es nicht.,Joey Tribbiani,3,scared
+20,C'mon. Keeps his fingers to himself and he's always minty fresh.,"Ach, komm schon. Er behält seine Finger bei sich und ist immer mintig frisch.",Monica Geller,11,scared
+20,"I don't know, Richard's really nice and everything, uh, it's just that we don't know him really well, ya know, and plus he's, ya know, old -er than some people, but, uh, younger than some buildings.","Ich weiß nicht, Richard ist wirklich nett und so, aber wir kennen ihn nicht so gut. Und er ist alt. Älter als manche Leute, aber jünger als manche Gebäude.",Chandler Bing,36,scared
+20,"So what, he's a little older, big deal, I mean he's important to me. Ya know if you ask him, he might take you on his Jag.","Na und, er ist ein bisschen älter, was soll's, ich meine, er ist wichtig für mich. Wenn du ihn fragst, nimmt er dich vielleicht in seinem Jaguar mit.",Monica Geller,27,mad
+20,How do we say yes now and make it seem like we're not doin' it just to ride in the cool car?,"Wie können wir jetzt ja sagen und es so aussehen lassen, als würden wir es nicht nur tun, um in einem coolen Auto zu fahren?",Joey Tribbiani,22,joyful
+20,"Ok, this could be tough.","Ok, das könnte schwierig werden.",Chandler Bing,5,neutral
+20,"Ok ok ok ok. Monica, we'll bring him, but only if he takes the Jaguar.","Ok, ok, ok, ok. Monica, wir bringen ihn mit, aber nur, wenn er den Jaguar nimmt.",Joey Tribbiani,15,neutral
+20,"Ooh, you almost had it.","Oh, fast hättest du es geschafft.",Chandler Bing,5,joyful
+21,"No no, you're fine, you're fine.","Nein, nein, du bist in Ordnung, du bist in Ordnung.",Ross Geller,6,peaceful
+21,Hello,Hallo,Carol Willick,1,neutral
+21,Hi.,Hi.,Ross Geller,1,neutral
+21,Hey.,Hi.,Susan Bunch,1,neutral
+21,Hi honey.,"Hi, Schatz.",Carol Willick,2,joyful
+21,Oh you guys are not gonna believe what happened.,"Oh, ihr werdet nicht glauben, was passiert ist.",Ross Geller,9,joyful
+21,What?,Was? - Was?,Carol Willick,1,scared
+21,What?,Was? Wir saßen da drüben.,Susan Bunch,1,joyful
+21,"Ok, we were sitting over there playing on the floor and he grabs the table and he pulls himself up. He pulled himself up. Standing man. I'm sorry you guys missed it but I did tape it so it you guys want to see it.","Ok, wir saßen da drüben und spielten auf dem Boden und er griff nach dem Tisch und zog sich hoch. Er hat sich hochgezogen. Stehender Mann. Tut mir leid, dass ihr es verpasst habt, aber ich habe es aufgenommen, falls ihr es sehen wollt.",Ross Geller,45,joyful
+21,"Uhh, we know, he already did it last week.","Uhh, wir wissen, er hat es schon letzte Woche gemacht.",Carol Willick,9,joyful
+21,You can watch our tape if you want.,"Ihr könnt euch unser Band ansehen, wenn ihr wollt.",Susan Bunch,8,powerful
+21,"I don't believe this. I miss, I miss the first time of everything. I missed, what, the first time he rolled over, the first time he crawled. What else did I miss? Has he spoken yet, is he driving, does he have a favorite liquour?","Ich kann es nicht glauben. Ich vermisse, ich vermisse das erste Mal von allem. Ich habe verpasst, wann er sich das erste Mal gedreht hat, wann er das erste Mal gekrabbelt ist. Was habe ich noch verpasst? Hat er schon gesprochen, fährt er Auto, hat er ein Lieblingsgetränk?",Ross Geller,45,mad
+21,"Actually, he is getting closer on the talking thing. He can't quite say mama yet, but once he said yumen.","Eigentlich kommt er dem Sprechen immer näher. Er kann noch nicht ganz Mama sagen, aber einmal hat er Yumen gesagt.",Carol Willick,20,powerful
+21,"Ooh, I, I'm so sick of missing stuff. Ya know, I want him for more than, than a day, I want him for a whole weekend. No listen , I mean, I feel like-","Oh, ich bin es so leid, Dinge zu verpassen. Weißt du, ich will ihn für mehr als einen Tag, ich will ihn für ein ganzes Wochenende. Nein, hör zu, ich meine, ich fühle mich...",Ross Geller,34,sad
+21,Great. That would be fine.,Das wäre toll. Das wäre schön.,Carol Willick,5,powerful
+21,"Really? I mean, I, I had a whole speach prepared.","Das wäre toll. Ich meine, ich hatte eine ganze Rede vorbereitet.",Ross Geller,10,powerful
+21,"Oh shout, that would have been fun.","Oh, schade. Das wäre lustig gewesen.",Susan Bunch,7,joyful
+21,"Oh look, did, did you just see that? Did you see? He just waved, he just waved, he's never waved before, you've never waved before. Yes he has. Very good.","Oh, sieh mal, hast, hast du das gerade gesehen? Hast du es gesehen? Er hat gerade gewunken, er hat gerade gewunken, er hat noch nie gewunken, du hast noch nie gewunken. Doch, hat er. Sehr gut.",Ross Geller,30,joyful
+22,Hey.,"Hey, Phoebe.",Phoebe Buffay,1,neutral
+22,"Hey Phoebs, whatcha got there?","He, Phoebe, was hast du da?",Rachel Green,5,neutral
+22,"Ok, Love Story, Brian's Song, and Terms of Endearment.","Ok, Love Story, Brian's Song, und Terms of Endearment.",Phoebe Buffay,9,neutral
+22,"Wow, all you need now is The Killing Fields and some guacamole and you've got yourself a part-ay.","Jetzt fehlt nur noch The Killing Fields und etwas Guacamole, und du hast eine tolle Rolle.",Monica Geller,18,joyful
+22,"Yeah, I talked to my grandma about the Old Yeller incident, and she told me that my mom used to not show us the ends of sad movies to shield us from the pain and sadness. You know, before she killed herself.","Ja, ich habe mit meiner Oma über die Sache mit Old Yeller gesprochen, und sie hat mir erzählt, dass meine Mutter uns immer das Ende von traurigen Filmen nicht gezeigt hat, um uns vor dem Schmerz und der Traurigkeit zu schützen. Weißt du, bevor sie sich umgebracht hat.",Phoebe Buffay,42,sad
+22,Hey.,Hey. Hey.,Chandler Bing,1,neutral
+22,Hey.,Hey. Hey.,Joey Tribbiani,1,neutral
+22,Hey.,Hey. Hey.,Rachel Green,1,neutral
+22,"Hey. Where is he, where's Richard? Did you ditch him?","Hey. Wo ist er, wo ist Richard? Habt ihr ihn abserviert?",Monica Geller,10,neutral
+22,"Yeah right after we stole his lunch money and gave him a wedgie. What's the matter with you, he's parking the car.","Ja, gleich nachdem wir sein Essensgeld gestohlen und ihm einen Hosenzieher verpasst haben. Was ist los mit dir? Er parkt das Auto.",Joey Tribbiani,22,mad
+22,So'd you guys have fun?,"Und, hattet ihr Spaß?",Monica Geller,5,neutral
+22,Your boyfriend is so cool.,Dein Freund ist so cool.,Chandler Bing,5,joyful
+22,Really?,Wirklich? Ja.,Monica Geller,1,neutral
+22,"Yeah, he let us drive his Jaguar. Joey for 12 blocks, me for 15.","Ja, er hat uns seinen Jaguar fahren lassen. Joey 12 Blocks weit, ich 15 Blocks weit.",Chandler Bing,14,neutral
+22,"Wow, he must like you the best.","Wow, er muss dich am meisten mögen.",Rachel Green,7,joyful
+22,"Oh, what about that thing he did when he tipped the guy who showed us to our seats. You never even saw the money, it was like this. Hey Chandler, thanks for showing us to our seats .","Und was ist mit dem Trinkgeld für den Mann, der uns zu unseren Plätzen gebracht hat? Man hat das Geld nicht mal gesehen, es war so. Hey Chandler, danke, dass du uns zu unseren Plätzen gebracht hast.",Joey Tribbiani,38,joyful
+22,"You're welcome. Hey Joey, thanks for parking the car .","Nichts zu danken. Hey Joey, danke für das Parken des Autos.",Chandler Bing,10,neutral
+22,No problem. Hey Chandler,"Kein Problem. Hey, Chandler.",Joey Tribbiani,4,neutral
+22,I think they get it.,"Ich glaube, sie haben es verstanden.",Chandler Bing,5,neutral
+22,Ok.,"Ja, gut.",Joey Tribbiani,1,neutral
+22,There's the man.,Da ist der Mann.,Chandler Bing,3,neutral
+22,He-he-eyy.,He-he-eyy.,Joey Tribbiani,1,joyful
+22,"Hey, you're gettin' better. I'm gonna keep this by the way.","Hey, du wirst schon besser. Ich werde das übrigens behalten.",Richard Burke,11,neutral
+22,Ok. He kept my dollar.,Ok. Er hat meinen Dollar behalten.,Joey Tribbiani,5,sad
+23,Hey. Oh thanks for the great movie tip.,"Hey. Oh, danke für den tollen Filmtipp.",Phoebe Buffay,8,joyful
+23,Did you like it?,Hat er dir gefallen?,Monica Geller,4,neutral
+23,"Oh yeah. You know, I don't know if I was happier when um George Bailey destroyed the family business or um, Donna Reid cried, or when the mean pharmacist made his ear bleed.","Oh ja. Ich weiß nicht, ob ich glücklicher war, als George Bailey das Familiengeschäft zerstörte, oder als Donna Reid weinte, oder als der gemeine Apotheker sein Ohr bluten ließ.",Phoebe Buffay,33,joyful
+23,"Alright, I'll give you the ear thing but don't you think the ending was pretty wonderful?","Na gut, das mit dem Ohr gebe ich zu, aber findest du nicht, dass das Ende ganz wunderbar war?",Monica Geller,16,powerful
+23,"I didn't watch the ending, I was too depressed. It just kept getting worse and worse, it should have been called, ""It's a sucky life and just when you think it can't suck any more it does.""","Ich habe mir das Ende nicht angesehen, ich war zu deprimiert. Es wurde immer schlimmer und schlimmer, es hätte heißen sollen: ""Es ist ein beschissenes Leben, und gerade wenn man denkt, es kann nicht mehr beschissener werden, wird es noch beschissener.""",Phoebe Buffay,37,sad
+24,I have to say Tupolo Honey by Van Morrison.,Ich muss Tupolo Honey von Van Morrison sagen.,Ross Geller,9,peaceful
+24,Nooo Way! The most romantic song ever is The Way We Were.,Nooo Way! Das romantischste Lied aller Zeiten ist The Way We Were.,Rachel Green,12,peaceful
+24,"See, I-I think that one that Elton John wrote for, um, that guy on Who's The Boss.","Ich glaube, das ist das Lied, das Elton John für den Typen aus ""Who's The Boss"" geschrieben hat.",Phoebe Buffay,17,joyful
+24,"What song was that, Pheebs?","Welcher Song war das, Pheebs?",Rachel Green,5,neutral
+24,"Hold me close, young Tony Dan-za.","Halt mich fest, junger Tony Dan-za.",Phoebe Buffay,6,neutral
+24,Hi Monica!,Hi Monica!,Phoebe Buffay,2,joyful
+24,Hey Mon!,Hey Mon!,Ross Geller,2,joyful
+24,Hey Mon!,"He, Mon!",Rachel Green,2,joyful
+24,"Oh my God, has she slept at all?","Oh mein Gott, hat sie überhaupt geschlafen?",Phoebe Buffay,8,mad
+24,Nope.,Nö.,Ross Geller,1,neutral
+24,"No, it's been three nights in a row.","Nein, es ist schon 3 Nächte in Folge.",Rachel Green,8,neutral
+24,"Yeah, she finally stopped crying yesterday, but then she found one of Richard's cigar butts out on the terrace, so.","Ja, sie endlich aufgehört zu weinen gestern, aber dann fand sie eine von Richards Zigarrenstummel auf der Terrasse, so.",Ross Geller,20,peaceful
+24,"Oh, okay that explains it. I got a call at two in the morning, but all I could hear was, like, this high squeaky sound, so I thought okay its like a mouse or a opossum. But then I realized where would a mouse or a opossum get the money to make the phone call.","Oh, ok, das erklärt es. Ich wurde um zwei Uhr morgens angerufen, aber ich hörte nur dieses hohe, quietschende Geräusch, also dachte ich, es sei eine Maus oder ein Opossum. Aber dann wurde mir klar, woher eine Maus oder ein Opossum das Geld für den Anruf nehmen sollte.",Phoebe Buffay,55,powerful
+25,Morning.,Morgen.,Chandler Bing,1,neutral
+25,"Morning, hey, you made pancakes?","Morgen. Hey, hast du Pfannkuchen gemacht?",Joey Tribbiani,5,joyful
+25,"Yeah, like there's any way I could ever do that.","Ja, als ob ich das jemals tun könnte.",Chandler Bing,10,scared
+25,"Monica and Rachel had syrup, now I can get my man to cheer up. Good morning Joey.","Monica und Rachel hatten Sirup, jetzt kann ich meinen Mann dazu bringen, aufzumuntern. Guten Morgen, Joey.",Janice Litman Goralnik,17,joyful
+25,Good morning.,"Ja, guten Morgen.",Joey Tribbiani,2,joyful
+25,"Hey, you know what, here's a thought. Why don't you stay home from work today and just hang out with me.","Hey, wissen Sie was, hier ist ein Gedanke. Warum nicht Sie zu Hause bleiben von der Arbeit heute und nur mit mir abhängen.",Chandler Bing,21,peaceful
+25,"Oh, I wish. Look, honey, you have that report to finish, and I gotta go see my lawyer.","Oh, schön wär's. Hör zu, Schatz, du musst den Bericht fertig machen und ich muss zu meinem Anwalt.",Janice Litman Goralnik,18,peaceful
+25,I can not believe that I am going out with someone that is getting divorced. I'm such a grown up.,"Ich kann nicht glauben, dass ich mit jemandem ausgehe, der sich gerade scheiden lässt. Ich bin so erwachsen.",Chandler Bing,20,sad
+25,"I-I-I gotta go, I gotta go. Okay, not without a kiss.","Ich... ich... ich muss gehen, ich muss gehen. Okay, nicht ohne einen Kuss.",Janice Litman Goralnik,11,joyful
+25,"Well, maybe I won't kiss you, and then you'll have to stay.","Nun, vielleicht werde ich dich nicht küssen, und dann musst du bleiben.",Chandler Bing,12,powerful
+25,Kiss her! Kiss her!,Küss sie! Küss sie!,Joey Tribbiani,4,joyful
+25,"I'll see you later, sweetie. Bye Joey.","Wir sehen uns später, Süße. B-bye Joey.",Janice Litman Goralnik,7,joyful
+25,B-bye Janice. So when ya' dumpin' her.,"Tschüss, Janice. Tschüss. Also, wenn du sie abservierst.",Joey Tribbiani,7,neutral
+25,"Nope, not this time.","Nein, dieses Mal nicht.",Chandler Bing,4,neutral
+25,"Come on, quite yankin' me.","Komm schon, zieh mich nicht runter.",Joey Tribbiani,5,joyful
+25,I'm not yanking you.,Ich ziehe nicht an dir.,Chandler Bing,4,neutral
+25,This is Janice.,Das ist Janice.,Joey Tribbiani,3,neutral
+25,"Yeah, I know. She makes me happy.","Ja, ich weiß. Sie macht mich glücklich.",Chandler Bing,7,peaceful
+25,"Okay. All right. You look me in the eye and tell me, without blinking, that you're not breaking up with her. No blinking.","Sie macht mich glücklich. Okay. Also gut. Du siehst mir in die Augen und sagst mir, ohne zu blinzeln, dass du dich nicht von ihr trennst. Nicht blinzeln.",Joey Tribbiani,23,neutral
+25,I'm not breaking up with her!,Ich werde nicht mit ihr Schluss machen!,Chandler Bing,6,peaceful
+26,"God, look what I found in the drain.","Gott, schau was ich im Abfluss gefunden habe.",Monica Geller,8,scared
+26,What?!,Was ist das?!,Rachel Green,1,scared
+26,It's some of Richard's hair! What do I do with this?,Es ist ein Teil von Richards Haaren! Was soll ich damit machen?,Monica Geller,11,scared
+26,Getting it away from me would be job one.,"Es von mir wegzubekommen, wäre die erste Aufgabe.",Ross Geller,9,neutral
+26,"It's weird, but you know what I don't wanna throw this away. I mean this is like all I have left of him, gross, drain hair. Ooh!","Es ist seltsam, aber weißt du was, ich will das nicht wegwerfen. Ich meine, das ist alles, was ich noch von ihm habe, ekliges, abgetropftes Haar. Ooh!",Monica Geller,27,scared
+26,"Ooh. Oh. It looks like, like a tiny little person drowning in your cereal.","Ooh. Ooh. Sieht aus wie ein winzig kleiner Mensch, der in deinem Müsli ertrinkt.",Phoebe Buffay,14,neutral
+26,"God, what is wrong with me.","Gott, was ist nur los mit mir?",Monica Geller,6,sad
+26,You need to get some sleep.,Du musst etwas schlafen.,Ross Geller,6,neutral
+26,I need to get some Richard.,Ich muss zu Richard.,Monica Geller,6,sad
+26,"Monica, you broke up with him for a reason.","Monica, du hast dich nicht ohne Grund von ihm getrennt.",Rachel Green,9,neutral
+26,"I know, I know. I'm just so tired of-of missing him. I'm tired of wondering why hasn't he called. Why hasn't he called!","Ich weiß, ich weiß. Ich bin nur so müde von-zu vermissen ihn. Ich bin es leid, mich zu fragen, warum er nicht angerufen hat. Warum hat er nicht angerufen!",Monica Geller,23,sad
+26,"Maybe, because you told him not to.","Vielleicht, weil du ihm gesagt hast, er soll es nicht tun.",Phoebe Buffay,7,neutral
+26,What are you the memory woman?,"Was bist du, die Erinnerungsfrau?",Monica Geller,6,mad
+26,Their not breaking up. Chandler and Janice. Their not breaking up. He didn't blink or anything.,Sie brechen nicht auf. Chandler und Janice. Sie brechen nicht auf. Er hat nicht geblinzelt oder so.,Joey Tribbiani,16,neutral
+26,"Well, you know I'm not surprised. I mean have you seen them together, they're really cute.","Nun, wissen Sie, ich bin nicht überrascht. Ich meine, haben Sie sie zusammen gesehen, sie sind wirklich süß.",Rachel Green,16,joyful
+26,Cute! This is Janice! You remember Janice?,Niedlich! Das ist Janice! Du erinnerst dich an Janice?,Joey Tribbiani,7,mad
+26,"Yes, Joey, I remember, she's annoying, but you know what she's-she's his girlfriend now. I mean what can we do?","Ja, Joey, ich erinnere mich, sie ist nervig, aber Sie wissen, was sie ist - sie ist jetzt seine Freundin. Ich meine, was können wir tun?",Rachel Green,20,neutral
+26,There you go! That's the spirit I'm looking for! What can we do? Huh? All right who's first? Huh? Ross?,"Da hast du's! Das ist der Geist, den ich gesucht habe! Was können wir tun? Hm? Also, wer ist der Erste? Hm? Ross?",Joey Tribbiani,20,joyful
+26,"Well I'm thinking that Chandler's our friend and Janice makes him happy, so I say we just all be adult about it and accept her.","Ich denke, dass Chandler ist unser Freund und Janice macht ihn glücklich, so dass ich sage, wir alle nur erwachsen sein über sie und akzeptieren sie.",Ross Geller,25,neutral
+26,"Yeah, we'll call that Plan B. All right?","Ja, das nennen wir dann Plan B. In Ordnung?",Joey Tribbiani,8,neutral
+27,"Honey, I was wondering....","Schatz, ich habe mich gefragt: ....",Rachel Green,4,peaceful
+27,Hmm?,Hmm?,Ross Geller,1,peaceful
+27,"Do you still have that, um, Navy uniform?","Hast du immer noch diese, ähm, Navy-Uniform?",Rachel Green,8,joyful
+27,"Nooo, I had to return it to the costume place.","Nein, ich musste sie zu dem Kostümverleih zurückbringen.",Ross Geller,10,sad
+27,Hmm.,Hmm.,Rachel Green,1,peaceful
+27,I think I have an old band uniform from high school.,"Ich glaube, ich habe eine alte Banduniform aus der Highschool.",Ross Geller,11,neutral
+27,"You remember not having sex in high school, right?","Du erinnerst dich, dass du keinen Sex in der High School hattest, oder?",Rachel Green,9,joyful
+27,Yeah.,"Und du, Schatz?",Ross Geller,1,sad
+27,"Well honey, what about you?","Nun, Schatz, was ist mit dir?",Rachel Green,5,sad
+27,What?,Was ist mit dir?,Ross Geller,1,neutral
+27,"I mean do you have any fun, you know, fantasy type things?","Ich meine, hast du irgendwelche lustigen, du weißt schon, Fantasie-Sachen?",Rachel Green,12,peaceful
+27,No.,Nein.,Ross Geller,1,neutral
+27,Come on you gotta have one!,"Komm schon, du musst eine haben!",Rachel Green,6,joyful
+27,Nope.,Nö.,Ross Geller,1,neutral
+27,"Ross, you know what...","Ross, weißt du was...",Rachel Green,4,joyful
+27,What?,"Ja, was denn?",Ross Geller,1,scared
+27,"...if you tell me, I might do it.","...wenn du es mir sagst, dann mache ich es vielleicht.",Rachel Green,8,joyful
+27,"Okay, umm. Did you ever see, um, Return Of The Jedi?","Ok, ähm. Hast du schon mal, ähm, Return of the Jedi gesehen?",Ross Geller,11,scared
+27,Yeah.,"Ja, klar.",Rachel Green,1,neutral
+27,"Do you remember the scene with, um, Jabba the Hut? Well Jabba had as, as his prisoner, um, Princess Leia.","Erinnerst du dich an die Szene mit, ähm, Jabba the Hut? Nun, Jabba hatte als seine Gefangene, ähm, Prinzessin Leia.",Ross Geller,20,peaceful
+27,Oooh!,Oooh!,Rachel Green,1,joyful
+27,"Princess Leia, was wearing this, um, gold bikini thing. It was pretty cool.",Prinzessin Leia trug dieses goldene Bikini-Ding. Das war ziemlich cool.,Ross Geller,13,joyful
+28,Hey!,"Hey, hey!",Chandler Bing,1,joyful
+28,Wheel!,Rad!,Joey Tribbiani,1,joyful
+28,Of!,von!,Chandler Bing,1,joyful
+28,Fortune! This guy is so stupid. It's Count Rushmore!!,Glücksrad! Dieser Typ ist so dumm. Das ist Graf Rushmore!!,Joey Tribbiani,9,mad
+28,"You know, you should really go on this show. All right, listen, I got three tickets to the Rangers tonight. What'd ya' say?","Weißt du, du solltest wirklich in diese Show gehen. Also gut, hör zu, ich habe drei Karten für die Rangers heute Abend. Was hast du gesagt?",Chandler Bing,23,joyful
+28,"I say, 'I am there!' Cool! Aw, is Ross going to?","Ich sage: ""Ich bin dabei! Cool! Ach, wird Ross auch hingehen?",Joey Tribbiani,11,neutral
+28,"No, Janice.","Nein, Janice.",Chandler Bing,2,neutral
+28,"Jan-ice. 'Cause I, just, I feel bad for Ross, you know, we-we always go together, we're like the three hocke-teers.","Janice. Ich habe Mitleid mit Ross, wir gehen immer zusammen, wir sind wie die drei Hockeyspieler.",Joey Tribbiani,20,sad
+28,"You know, I may be way out on a limb here, but do you, do you, have a problem with Janice?","Es mag sein, dass ich mich hier weit aus dem Fenster lehne, aber hast du ein Problem mit Janice?",Chandler Bing,21,neutral
+28,"No, Yeeees. God, how do I say this. . Oh, hi, you know that girl from the Greek restaurant with the hair ?","Nein, jeeee. Gott, wie soll ich das sagen. . Oh, hi, kennst du das Mädchen aus dem griechischen Restaurant mit den Haaren?",Joey Tribbiani,23,mad
+28,"Ooh, that girl that I hate, eww, drives me crazy, eww, eww, oh!","Oh, das Mädchen, das ich hasse, macht mich wahnsinnig.",Chandler Bing,13,mad
+28,"Look, I don't hate Janice, she's-she's just a lot to take, you know.","Ich hasse Janice nicht, sie ist nur schwer zu ertragen, weißt du.",Joey Tribbiani,13,neutral
+28,"Well, there you go.","Nun, da hast du es.",Chandler Bing,4,neutral
+28,"Oh, hey. Come on man, don't look at me like that, she used to drive you nuts before too, remember?","Oh, hey. Komm schon, Mann, sieh mich nicht so an, sie hat dich früher auch verrückt gemacht, weißt du noch?",Joey Tribbiani,20,peaceful
+28,"Well, I'm crazy about her now. I think this could be the real thing. Capital 'R'! Capital 'T'! Don't worry, those are the right letters.","Nun, jetzt bin ich verrückt nach ihr. Ich glaube, das könnte die Richtige sein. Großes 'R'! Großes ""T""! Keine Sorge, das sind die richtigen Buchstaben.",Chandler Bing,25,mad
+28,"Look, what do you want me to say?","Also, was soll ich sagen?",Joey Tribbiani,8,neutral
+28,I want you to say that you like her!,"Ich will, dass du sagst, dass du sie magst!",Chandler Bing,9,mad
+28,"I can't. It's like this chemical thing, you know. Every time she starts laughing, I just wanna pull my arm off just so that I can have something to throw at her.","Das kann ich nicht. Das ist so eine chemische Sache, weißt du. Jedes Mal, wenn sie anfängt zu lachen, möchte ich mir den Arm ausreißen, nur damit ich etwas habe, das ich ihr entgegenwerfen kann.",Joey Tribbiani,32,mad
+28,"Thanks for trying. Oh, and by the way there is no Count Rushmore!","Danke für den Versuch. Oh, und übrigens, es gibt keinen Graf Rushmore!",Chandler Bing,13,mad
+28,"Yeah, then-then who's the guy that painted the faces on the mountain?","Ja, aber wer ist dann der Typ, der die Gesichter auf den Berg gemalt hat?",Joey Tribbiani,12,mad
+29,How could you have told her?,Wie konntest du ihr das sagen?,Ross Geller,6,scared
+29,"Ross, I didn't think it would that big of a deal.","Ross, ich dachte nicht, dass es so eine große Sache wäre.",Rachel Green,11,mad
+29,"Oh, she didn't think it would be that big of deal.","Oh, sie hat nicht gedacht, es wäre so große Sache sein.",Ross Geller,11,mad
+29,"Okay, who are you talking to when you do that?","Okay, mit wem sind Sie reden, wenn Sie das tun?",Rachel Green,10,scared
+29,"Look, that was supposed to be like a private, personal thing between us.","Hör zu, das sollte eine private, persönliche Sache zwischen uns sein.",Ross Geller,13,mad
+29,"Okay, Ross, Phoebe is my girlfriend, okay, we tell each other everything. You know, I mean, come on, guys do the same thing, I mean, what about all that locker room stuff.","Okay, Ross, Phoebe ist meine Freundin, okay, wir sagen einander alles. Wissen Sie, ich meine, kommen Sie, Jungs tun das gleiche, ich meine, was ist mit all dem Umkleideraum Zeug.",Rachel Green,32,mad
+29,"That's different, okay. That's like, uh 'Who dated a stripper?' or 'Who did it on the back of the Staton Island Ferry?'.","Das ist was anderes, okay. Das ist wie, äh, ""Wer ist mit einer Stripperin ausgegangen?"" oder ""Wer hat es auf der Rückseite der Staton Island Ferry getan?"".",Ross Geller,22,mad
+29,Were both of those Joey?,Waren beide von denen Joey?,Rachel Green,5,neutral
+29,"Yeah. Look, you don't, you don't talk about like, you know, your girlfriend and the intimate stuff you, you do with her.","Ja, ja. Man redet nicht über seine Freundin und die intimen Dinge, die man mit ihr macht.",Ross Geller,22,mad
+29,Not even with your best friend.,Nicht mal mit deinem besten Freund.,Rachel Green,6,neutral
+29,Noo!,Nein!,Ross Geller,1,mad
+29,"That is so sad. Your missing out on so much, Ross. I mean, the bonding and the sharing, you know. And-and knowing that someone else is going through the same thing you are.","Das ist so traurig. Du verpasst so viel, Ross. Ich meine, die Bindung und das Teilen, weißt du. Und die Gewissheit, dass jemand anderes dasselbe durchmacht wie du.",Rachel Green,33,sad
+29,"Hmph. So what you, you tell each other everything?",Hm. Ihr erzählt euch also alles?,Ross Geller,9,scared
+29,Pretty much.,So ziemlich alles.,Rachel Green,2,joyful
+29,Did you talk about the night of five times? Do you tell people about the night of five times?,Habt ihr über die Nacht der fünf Male gesprochen? Erzählst du Leuten von der Nacht der fünf Male?,Ross Geller,19,neutral
+29,"Uh, honey, yeah that was with Carol.","Äh, Schatz, ja, das war mit Carol.",Rachel Green,7,joyful
+29,"I know, but it's still worth mentioning, I think.","Ich weiß, aber es ist trotzdem erwähnenswert, denke ich.",Ross Geller,9,scared
+30,"Relax every muscle in your body. Listen to the plinky-plunky music. Okay, now close you eyes, and think of a happy place. Okay, tell me your happy place.","Entspanne jeden Muskel in deinem Körper. Hör dir die plinky-plunky Musik an. Okay, jetzt schließe deine Augen und denke an einen glücklichen Ort. Okay, sag mir deinen glücklichen Ort.",Phoebe Buffay,28,powerful
+30,"Richard's living room, drinking wine.","Richards Wohnzimmer, Wein trinken.",Monica Geller,5,joyful
+30,"All right. No, no, no, not a Richard thing, just put down the glass. And get out!","Ja, gut. Nein, nein, nein, das hat nichts mit Richard zu tun, stell einfach das Glas ab. Und verschwinde!",Phoebe Buffay,17,scared
+30,"I'm sorry, but that's my happy place.","Tut mir Leid, aber das ist mein Lieblingsplatz.",Monica Geller,7,powerful
+30,"Well, okay, fine, use my happy place. Okay, I'm just gonna, I have to ask that you don't move anything.","Ok, gut, dann eben an meinem Lieblingsplatz. Ok, ich muss dich bitten, nichts zu verschieben.",Phoebe Buffay,20,mad
+30,"All right, I'll try not to.","Alles klar, ich werde versuchen, es nicht zu tun.",Monica Geller,6,scared
+30,"Okay, all right, so, your in a meadow, millions of stars in the sky....","Okay, alles klar, also, du bist auf einer Wiese, Millionen von Sternen am Himmel....",Phoebe Buffay,14,peaceful
+30,Do you think breaking up with him was a huge mistake?,"Denkst du, dass es ein großer Fehler war, mit ihm Schluss zu machen?",Monica Geller,11,scared
+30,"All right, there are no questions in the happy place. Okay, just, the warm breeze, and the moonlight flowing through the trees....","Alles klar, es gibt keine Fragen an dem glücklichen Ort. Okay, nur die warme Brise, und das Mondlicht, das durch die Bäume fließt....",Phoebe Buffay,22,peaceful
+30,"I'll bet he's totally over me, I'll bet he's fine.","Ich wette, er ist total über mich hinweg, ich wette, es geht ihm gut.",Monica Geller,10,powerful
+30,"All right, betting and wagering of any kind, are, I'm sure, not permitted in the happy place. Okay. Just-just, you know, the-the lovely waterfalls, and the, the trickling fountains. And the-the calming sounds of the babbling brook....","In Ordnung, Wetten und Wetten jeglicher Art sind, da bin ich mir sicher, an diesem glücklichen Ort nicht erlaubt. Okay, nur... Nur... nur, du weißt schon, die schönen Wasserfälle und die rieselnden Brunnen. Und die beruhigenden Klänge des plätschernden Baches....",Phoebe Buffay,37,peaceful
+30,"Okay, this isn't working. I'm still awake and now I have to pee.","Okay, das klappt nicht. Ich bin immer noch wach und jetzt muss ich pinkeln.",Monica Geller,13,powerful
+31,"So, I hear, you hate me!","Also, ich höre, du hasst mich!",Janice Litman Goralnik,6,mad
+31,"I, ah, I never said hate, I was very careful about that.","Ich, ah, ich habe nie Hass gesagt, ich war sehr vorsichtig damit.",Joey Tribbiani,12,scared
+31,A little birdie told me something about you wanting to rip your arm off and throw it at me.,"Ein kleines Vögelchen hat mir erzählt, dass du dir den Arm ausreißen und ihn nach mir werfen willst.",Janice Litman Goralnik,19,mad
+31,And you got a 'hate' from that?! Your taking a big leap there...,"Und das soll ein ""Hass"" sein?! Du machst da einen großen Sprung...",Joey Tribbiani,13,scared
+31,"All right, fine, fine, fine, fine, fine, We've got to do something about our little situation here Joey. So, this is my idea you and me spending some quality time together.","Also gut, schön, schön, schön, schön, schön. Wir müssen etwas mit unserer kleinen Situation hier machen, Joey. Das ist meine Idee, dass du und ich etwas Zeit miteinander verbringen.",Janice Litman Goralnik,31,sad
+31,But what does that gonna do...,Aber was wird das bringen...,Joey Tribbiani,6,peaceful
+31,For Chandler!,Für Chandler!,Janice Litman Goralnik,2,powerful
+31,Okay. I'm in.,Ok. Ich bin dabei.,Joey Tribbiani,3,joyful
+31,Okay. All right. This is what we're gonna call it 'Joey and Janice's DAY OF FUN!',"Ja, gut. Ja, gut. Wir werden es ""Joey und Janices Tag des Spaßes"" nennen!",Janice Litman Goralnik,16,joyful
+31,Does it have to be a whole day?,Muss es denn ein ganzer Tag sein?,Joey Tribbiani,8,powerful
+31,"Yes, because that's how long it takes to love me.","Ja, denn so lange dauert es, mich zu lieben.",Janice Litman Goralnik,10,peaceful
+31,"Yeah, I know, I sleep in the next room.","Ja, ich weiß, ich schlafe im Zimmer nebenan.",Joey Tribbiani,9,peaceful
+32,We're baack!,Wir sind wieder da!,Janice Litman Goralnik,2,joyful
+32,Hey!,"Hey, was macht ihr da?",Joey Tribbiani,1,joyful
+32,What are you guys doing together?,Was macht ihr denn da zusammen?,Chandler Bing,6,neutral
+32,Joey and Janice's DAY OF FUN!!!,Joey und Janice's TAG DES SPASSES!!!,Janice Litman Goralnik,6,joyful
+32,Really.,"Ja, wirklich.",Chandler Bing,1,neutral
+32,"Yeah, yeah. We went to a Mets game, we got Chinese food, and you know, I love this woman. You have got competition buddy.","Ja, genau. Wir waren bei einem Mets-Spiel, wir haben chinesisch gegessen, und du weißt, ich liebe diese Frau. Du hast Konkurrenz bekommen, Kumpel.",Joey Tribbiani,24,peaceful
+32,"I just came by to give you a kiss, I have to go pick up the baby, so. I'll see you later sweetheart, you too Chandler.","Ich wollte dir nur einen Kuss geben, ich muss das Baby abholen, also. Ich sehe dich später, Schatz, du auch Chandler.",Janice Litman Goralnik,26,joyful
+32,You still can't stand her can you?,"Du kannst sie immer noch nicht ausstehen, oder?",Chandler Bing,7,neutral
+32,"I'm sorry man, I tired, I really did.","Es tut mir leid, Mann, ich müde, ich habe wirklich.",Joey Tribbiani,8,sad
+32,"Well, you know, I appreciate you giving it a shot.","Nun, weißt du, ich schätze es, dass du es versucht hast.",Chandler Bing,10,peaceful
+32,"But, hey, look, you know the good thing is, is that we spent the whole day together and I survived, and what's even more amazing, so did she. It was bat day at Shea Stadium.","Aber das Gute ist, dass wir den ganzen Tag zusammen verbracht haben und ich habe es überlebt und sie auch. Es war Bat Day im Shea Stadium.",Joey Tribbiani,35,joyful
+32,"Well, I guess that's something.","Na, das ist doch was.",Chandler Bing,5,peaceful
+32,"No man, that's huge! Now, I know I can stand to be around her, which means I get to hang out with you, which is kinda the whole point, anyway.","Nein, Mann, das ist riesig! Jetzt weiß ich, dass ich es in ihrer Nähe aushalten kann, was bedeutet, dass ich mit dir rumhängen kann, was ja der Sinn der Sache ist.",Joey Tribbiani,30,neutral
+32,Okay.,"Ja, gut.",Chandler Bing,1,neutral
+32,"Oh, hey, Chandler, we, ah, we stopped by the coffee shop and ran into Ross.","Oh, hey, Chandler, wir, ah, wir waren im Café und haben Ross getroffen.",Joey Tribbiani,15,neutral
+32,Oh God!,"Oh, mein Gott!",Chandler Bing,2,scared
+32,"Hey, if it makes you feel any better, I do it too.","Wenn du dich dann besser fühlst, ich mache das auch.",Joey Tribbiani,12,neutral
+32,Really?,"Ach, wirklich?",Chandler Bing,1,neutral
+32,"Oh yeah, I always picture your Mom when I'm having sex.","Oh ja, ich stelle mir immer deine Mutter vor, wenn ich Sex habe.",Joey Tribbiani,11,joyful
+33,"Hi, Dad, what are you doing here?","Hi, Dad, was machst du denn hier?",Monica Geller,7,joyful
+33,"Well, it's your mother's bridge night so I thought that I would come into the city for a little Monicuddle. Since when did you start smoking cigars?","Es ist der Bridge-Abend deiner Mutter, also dachte ich, ich komme in die Stadt für ein kleines Monicuddle. Seit wann rauchst du Zigarren?",Jack Geller,27,peaceful
+33,"I don't, I just, I just like the smell of them. So, uh, what are you really doing here Dad?","Ich rauche nicht, ich mag nur den Geruch. Also, was machst du wirklich hier, Dad?",Monica Geller,20,neutral
+33,"Well, I just wanted to make sure you were okay.","Nun, ich wollte nur sichergehen, dass es dir gut geht.",Jack Geller,10,peaceful
+33,What makes you think that I might not be okay?,"Wie kommst du darauf, dass es mir nicht gut gehen könnte?",Monica Geller,10,sad
+33,I saw Richard.,Ich habe Richard gesehen.,Jack Geller,3,powerful
+33,Oh.,Ich habe Richard gesehen. Oh.,Monica Geller,1,scared
+33,"So, how are you doing?","Und, wie geht's dir?",Jack Geller,5,neutral
+33,"I'm fine, just a little tired, I'm okay. How's Richard doing?","Mir geht's gut, ich bin nur etwas müde, aber es geht mir gut. Wie geht's Richard?",Monica Geller,11,sad
+33,You don't wanna know.,Das willst du gar nicht wissen.,Jack Geller,4,neutral
+33,"No, I really, really do.","Doch, ich will es wirklich wissen.",Monica Geller,5,peaceful
+33,"Well, he's doing terrible!",Es geht ihm furchtbar.,Jack Geller,4,powerful
+33,Really!,"Ja, wirklich!",Monica Geller,1,joyful
+33,Worse than when he broke up with Barbara.,"Schlimmer als damals, als er mit Barbara Schluss machte.",Jack Geller,8,sad
+33,You're not just saying that are you?,"Das sagst du nicht nur so, oder?",Monica Geller,7,neutral
+33,"No, the man is a mess.","Nein, der Mann ist ein Wrack.",Jack Geller,6,powerful
+33,Was he crying?,Hat er geweint?,Monica Geller,3,neutral
+33,No.,Nein.,Jack Geller,1,neutral
+33,"Well, do you think he was waiting 'til after you left, so he could cry?","Meinst du, er hat gewartet, bis du weg warst, damit er weinen konnte?",Monica Geller,15,neutral
+33,Maybe.,Kann sein.,Jack Geller,1,neutral
+33,I think so.,Ich denke schon.,Monica Geller,3,joyful
+33,"Honey, relationships are hard. Like with your Mom and me. You know after we graduated college we broke up for a while. It seems her Father, your Grandfather, wanted her to travel around Europe, like he did. Of course, he got to do it on Uncle Sam's nickel, because he was also strafing German troop trains at the time. However,","Schatz, Beziehungen sind schwierig. Wie bei deiner Mom und mir. Du weißt, dass wir uns nach dem College eine Zeit lang getrennt haben. Ihr Vater, dein Großvater, wollte wohl, dass sie durch Europa reist, wie er. Natürlich durfte er das auf Kosten von Onkel Sam tun, weil er zu der Zeit auch deutsche Truppenzüge beschoss. Wie auch immer,",Jack Geller,60,peaceful
+34,Yes! Yes! Yes! Yes! Awww!,Ja! Ja! Ja! Ja! Awww!,The Guys,5,joyful
+34,"Hey, it's your Thanksgiving too, y'know, instead of watching football, you could help.","Hey, es ist auch euer Thanksgiving, ihr wisst schon, anstatt Fußball zu schauen, könntet ihr helfen.",Phoebe Buffay,13,neutral
+34,We will.,Das werden wir.,The Guys,2,peaceful
+34,"Okay, Rachel, you wanna put the marshmellows in concentric circles.","Okay, Rachel, Sie wollen die Marshmellows in konzentrischen Kreisen zu setzen.",Monica Geller,10,neutral
+34,"No Mon, you want to put them in concentric circles. I want to do this.","Nein, Mon, Sie wollen sie in konzentrischen Kreisen zu setzen. Ich möchte dies zu tun.",Rachel Green,15,neutral
+34,Every year.,Jedes Jahr.,Monica Geller,2,neutral
+35,We should defiantly play football more often. Maybe there's a like league we could join or something.,"Wir sollten auf jeden Fall öfter Fußball spielen. Vielleicht gibt es eine Liga, in die wir eintreten könnten oder so.",Rachel Green,17,joyful
+35,Isn't there a national football league.,Gibt es nicht eine nationale Fußball-Liga?,Phoebe Buffay,6,neutral
+35,"Yes. Yes, there is, they play on Sundays and Monday nights.","Ja. Ja, die gibt es, sie spielen sonntags und montagabends.",Chandler Bing,11,neutral
+35,Oh shoot! I work Monday nights.,"Oh, Mist! Ich arbeite montagabends.",Rachel Green,6,sad
+35,"Umm, this stuffing is amazing. Do you think we should bring them some?","Diese Füllung ist unglaublich. Meinst du, wir sollten ihnen was mitbringen?",Phoebe Buffay,13,joyful
+35,"When they're hungry enough, they'll come in.","Wenn sie hungrig genug sind, kommen sie schon rein.",Joey Tribbiani,7,neutral
+36,Let go!,Lassen Sie los!,Monica Geller,2,mad
+36,No! You let go!,Nein! Du lässt los!,Ross Geller,4,mad
+36,No!,Nein!,Monica Geller,1,mad
+36,How come it's always us left in the field holding the ball?,"Warum sind es immer wir, die auf dem Feld den Ball halten?",Ross Geller,12,neutral
+36,I don't know. I guess the other people just don't care enough.,"Das weiß ich nicht. Ich schätze, die anderen kümmern sich einfach nicht genug.",Monica Geller,12,mad
+36,Hey! It's starting to snow.,He! Es fängt an zu schneien.,Ross Geller,5,joyful
+36,Gimme the this!,Gib mir das hier!,Ross Geller,3,mad
+36,Let go!,Lass los!,Monica Geller,2,mad
+37,So who's idea was it to put everybody in the diner on skates?,"Wessen Idee war es, dass alle im Diner Schlittschuhe tragen?",Rachel Green,13,neutral
+37,"Oh, some idiot customer put a suggestion in the suggestion box.",Irgendein idiotischer Kunde hat einen Vorschlag in die Vorschlagsbox geworfen.,Monica Geller,11,mad
+37,"Oh my God, they took my idea!","Oh mein Gott, sie haben meine Idee geklaut!",Phoebe Buffay,7,joyful
+37,That was you?!,Das warst du?!,Monica Geller,3,neutral
+37,"Yeah! Okay, here you go.","Das warst du? Ja! Okay, hier gehen Sie.",Phoebe Buffay,5,neutral
+37,"Rachel, I made you a cocoa.","Rachel, ich habe dir einen Kakao gemacht.",Gunther,6,neutral
+37,"Oh my God, are you guys okay?","Oh mein Gott, sind Sie Jungs okay?",Phoebe Buffay,7,scared
+37,Are you all right?,Ist bei euch alles in Ordnung?,Gunther,4,neutral
+37,Oh my.,Oh ja.,Joey Tribbiani,2,sad
+38,Hey.,"Hey, hey.",Chandler Bing,1,joyful
+38,Hey. Y'know with that goatee you kinda look like Satan.,Hey. Mit diesem Ziegenbart siehst du irgendwie aus wie Satan.,Joey Tribbiani,10,neutral
+38,"Oh, so that's why the priest threw holy water on me. Okay, listen, you have to cheer up! Okay? You should come out with Ross and me, I mean anything is better than sitting around here crying all day about Kate.","Oh, deshalb hat der Priester Weihwasser auf mich geschüttet. Okay, hör zu, du musst fröhlicher werden! Du solltest mit Ross und mir ausgehen. Du solltest mit Ross und mir ausgehen. Alles ist besser, als den ganzen Tag hier rumzusitzen und über Kate zu weinen.",Chandler Bing,41,peaceful
+38,"Hey I was crying because, because nobody believed Quincy's theory. Okay?","Hey, ich habe geweint, weil niemand Quincys Theorie geglaubt hat. Okay? Ja.",Joey Tribbiani,11,sad
+38,Hey!,He! He!,Ross Geller,1,joyful
+38,Hey.,"Hey, ich bin im Fernsehen!",Chandler Bing,1,joyful
+38,I'm gonna be on TV!!,Ich werde im Fernsehen sein!!,Ross Geller,5,joyful
+38,No way!,Das gibt's doch nicht!,Chandler Bing,2,joyful
+38,Yeah! They're putting together this panel to talk about these fossils they just found in Peru and The Discovery Channel's gonna film it!,"Doch! Sie stellen dieses Panel zusammen, um über diese Fossilien zu sprechen, die sie gerade in Peru gefunden haben und der Discovery Channel wird es filmen!",Ross Geller,23,powerful
+38,Oh my God! Who's gonna watch that?!,"Oh, mein Gott! Wer wird sich das ansehen? Wer wird sich das ansehen?!",Chandler Bing,7,powerful
+38,Thanks. You ready to go?,Wer wird sich das ansehen?! Danke. Bist du bereit zu gehen?,Ross Geller,5,joyful
+38,Yeah.,"Ja, ich habe ein",Chandler Bing,1,joyful
+38,Saw a girl with that vest.,Ich habe ein Mädchen mit dieser Weste gesehen.,Joey Tribbiani,6,peaceful
+38,Thanks.,Danke.,Chandler Bing,1,powerful
+38,"While most of us think of chocolate bunnies and baskets as traditional Easter gifts. Some people insist on giving live chicks as presents. Unfortunately, the sad fact remains that most of these little guys won't live to see the fourth of July. Because of as a result of improper care, they will be dead.","Während die meisten von uns an Schokoladenhasen und Körbe als traditionelle Ostergeschenke denken. Manche Leute bestehen darauf, lebende Küken zu verschenken. Leider ist es eine traurige Tatsache, dass die meisten dieser kleinen Kerle den vierten Juli nicht mehr erleben werden. Denn aufgrund unsachgemäßer Pflege sind sie dann tot.",Anchorwoman,54,powerful
+38,"Yeah, hi. You guys got any of those baby chicks? 'Cause I was watching this ah, commercial on TV and man, those guys are cute!","Ja, hi. Habt ihr ein paar von diesen Küken? Ich habe nämlich diese Werbung im Fernsehen gesehen, und die sind echt süß!",Joey Tribbiani,25,joyful
+39,Hi!,Hi!,Peter Becker,1,joyful
+39,"Hi! Hey, Pete you're back! Hey, check this out.","Hi! Hey, Pete, du bist wieder da! Hey, sieh dir das an.",Monica Geller,9,joyful
+39,Wow! Skates!,Wahnsinn! Schlittschuhe!,Peter Becker,2,joyful
+39,Wow! You're a lot sturdier that Chandler. He crumpled like a piece of paper. So how was you're trip?,"Wow, das ist ja ein Ding! Du bist viel stabiler als Chandler. Er ist zerknittert wie ein Stück Papier. Und wie war deine Reise?",Monica Geller,19,neutral
+39,Well...,Nun...,Peter Becker,1,neutral
+39,"Oh, what'd ya bring me?! Awww, hotel toiletries from Japan. Oh, these are gonna go in my permanent collection. You want some coffee?","Oh, was hast du mir mitgebracht?! Oh, Hotel-Toilettenartikel aus Japan. Oh, die kommen in meine ständige Sammlung. Willst du etwas Kaffee?",Monica Geller,23,neutral
+39,"Yeah, sure, that'd be great.","Ja, sicher, das wäre toll.",Peter Becker,5,joyful
+39,Regular or decaf?,Normal oder koffeinfrei?,Monica Geller,3,neutral
+39,"Ah, which ever is closest.",Was immer am nächsten ist.,Peter Becker,5,peaceful
+39,Okay.,Was immer am nächsten ist. Okay.,Monica Geller,1,peaceful
+39,So ask me what I did today.,"Also frag mich, was ich heute gemacht habe.",Peter Becker,7,neutral
+39,So what did you do today Pete?,"Also, was hast du heute gemacht, Pete?",Monica Geller,7,neutral
+39,I bought a restaurant and I would like you to be the head chef.,"Ich habe ein Restaurant gekauft und ich möchte, dass du der Chefkoch wirst.",Peter Becker,14,peaceful
+39,What?! Oh.,Was?! Oh...,Monica Geller,2,joyful
+40,Can you believe he just offered me a restaurant?,"Kannst du glauben, dass er mir gerade ein Restaurant angeboten hat?",Monica Geller,9,joyful
+40,What a jerk! You want me to kick his ass?,"Was für ein Idiot! Du willst, dass ich ihm in den Arsch trete?",Rachel Green,10,mad
+40,"I mean this has been like my dream since I got my first Easy Bake Oven and opened Easy Monica's Bakery. I mean I would kill for this job. I mean I can totally do this job, and God knows I paid my dues. But Pete's just doing this because he has a crush on me.","Ich meine, das war mein Traum, seit ich meinen ersten ""Easy Bake Oven"" hatte und ""Easy Monica's Bakery"" eröffnete. Ich meine, ich würde für diesen Job töten. Ich meine, ich kann diesen Job auf jeden Fall machen, und Gott weiß, ich habe meine Beiträge geleistet. Aber Pete macht das nur, weil er in mich verknallt ist.",Monica Geller,56,mad
+40,And you're still not attracted to him at all?,Und du fühlst dich immer noch nicht zu ihm hingezogen?,Rachel Green,9,neutral
+40,"Hmm, no. I mean how can I accept a restaurant from him? I-I-I-I can't. I couldn't even accept a necklace from Stu Vincent in the seventh grade.","Hmm, nein. Ich meine, wie kann ich ein Restaurant von ihm annehmen? Ich... ich... ich kann nicht. Ich konnte nicht einmal eine Halskette von Stu Vincent in der siebten Klasse annehmen.",Monica Geller,27,scared
+40,"Yeah, but Mon that's totally different. He was you're health teacher.","Ja, aber Mon, das ist was ganz anderes. Er war dein Gesundheitslehrer.",Rachel Green,11,peaceful
+40,"Oh, please.","Oh, ich bitte dich.",Monica Geller,2,sad
+40,What? Honey.,Was? Schatz.,Monica Geller,2,scared
+40,"Oh, I am, my side still hurts from when you crashed into me yesterday.","Meine Seite tut noch weh, weil du gestern in mich reingefahren bist.",Rachel Green,14,neutral
+40,"Oh God, I'm so sorry.","Oh Gott, das tut mir so leid.",Monica Geller,5,sad
+40,I know.,"Ja, ich weiß.",Rachel Green,2,neutral
+40,Ow!!,Au!!,Rachel Green,1,mad
+40,Oh God!,"Oh, mein Gott.",Monica Geller,2,sad
+40,"Hey, you guys! Guess what?","Hey, Leute! Wisst ihr was?",Ross Geller,5,joyful
+40,Got a job on a river boat?,Habt ihr einen Job auf einem Flussschiff?,Rachel Green,7,joyful
+40,"Y'know what I didn't wear this suit for a year because you hated it. Well, guess what? You're not my girlfriend anymore so...","Ich habe diesen Anzug ein Jahr lang nicht getragen, weil du ihn gehasst hast. Nun, weißt du was? Du bist nicht mehr meine Freundin, also...",Ross Geller,23,powerful
+40,"Oh I see, so this suit is making a point.","Oh, ich verstehe, der Anzug hat also eine Bedeutung.",Rachel Green,10,powerful
+40,Right.,"Ja, genau.",Ross Geller,1,powerful
+40,"Now that you're on you're own, you're free to look as stupid as you like.","Jetzt, wo du auf dich allein gestellt bist, kannst du so dumm aussehen, wie du willst.",Rachel Green,15,mad
+40,You like it right?,"Du magst es, oder?",Ross Geller,4,powerful
+40,Oh absolutely. I like it even more on you than I did on Colonel Sanders. Ross! Ross! I'm kidding!,"Oh, absolut. Er gefällt mir an dir sogar noch besser als an Colonel Sanders. Ross! Ross! Ich mache nur Spaß!",Monica Geller,19,joyful
+40,"Yeah, come here!","Ja, komm her!",Rachel Green,3,joyful
+40,What-what was it you were gonna tell us?,Was wolltest du uns sagen?,Monica Geller,8,joyful
+40,Yeah. Oh! Was how you invented the cotton gin?!,"Was wolltest du uns erzählen? Ja. Oh! War es, wie du die Baumwollentkörnungsmaschine erfunden hast?!",Rachel Green,9,joyful
+40,"Okay, good bye!","Okay, auf Wiedersehen!",Ross Geller,3,mad
+41,"So um, after you put the suggestion in the box, how long did it take for the roller skating thing to happen.","Also, ähm, nachdem du den Vorschlag in die Schachtel getan hast, wie lange hat es gedauert, bis die Rollschuh-Sache passiert ist.",Chandler Bing,22,neutral
+41,"Umm, oh, about three months.","Ähm, oh, ungefähr drei Monate.",Phoebe Buffay,5,neutral
+41,"Okay, so I guess that's about ah, two weeks before the topless thing kicks in.","Okay, also schätze ich, das sind etwa zwei Wochen, bevor die Oben-ohne-Sache losgeht.",Chandler Bing,15,neutral
+41,Hey!!,Hey!!!,Joey Tribbiani,1,joyful
+41,Hey!,"Hey, ich hab was für dich!",Chandler Bing,1,joyful
+41,I got you something! Open it! Open it!,Ich habe etwas für dich! Mach es auf! Mach es auf! Mach es auf!,Joey Tribbiani,8,joyful
+41,Okay. It's a chicken.,Okay. Es ist ein Huhn.,Chandler Bing,4,mad
+41,"It's cute, huh?","Niedlich, nicht wahr?",Joey Tribbiani,3,joyful
+41,"Whoa-whoa-whoa, you guys, do you know anything about chicks?","Whoa-whoa-whoa, Leute, wisst ihr irgendwas über Hühner?",Phoebe Buffay,9,joyful
+41,Fowl? No. Women? Nooo.,"Hühner? Nein. Frauen? Nein, nein.",Chandler Bing,4,sad
+41,"Okay, well they are a huge responsibility, especially at this age. They require constant care. They-they need just the right food, and lot's and lot's of love.","Okay, nun, sie sind eine große Verantwortung, besonders in diesem Alter. Sie brauchen ständige Pflege. Sie brauchen genau das richtige Futter und viel, viel Liebe.",Phoebe Buffay,27,neutral
+41,"Oh, well no problem there.","Oh, das ist kein Problem.",Joey Tribbiani,5,joyful
+41,Easy Lenny.,"Ruhig, Lenny.",Chandler Bing,2,powerful
+42,Oww!,Aua!,Rachel Green,1,scared
+42,Wow! That aspirin dance really works!,(Lenny) Wow! Dieser Aspirin-Tanz funktioniert wirklich!,Ross Geller,6,joyful
+42,Oww!,Aua!,Rachel Green,1,sad
+42,"Oh my God, is that still...","Oh mein Gott, ist das immer noch...",Ross Geller,6,neutral
+42,"I'm fine, I'm fine.","Mir geht's gut, mir geht's gut.",Rachel Green,4,scared
+42,No you're not.,"Nein, geht es dir nicht.",Ross Geller,3,mad
+42,Yes I am!,"Doch, es geht mir gut!",Rachel Green,3,neutral
+42,Rach!,Rach!,Ross Geller,1,neutral
+42,"Look, I'm fine. Watch. Look at that. Whoa-whoa!","Sehen Sie, ich bin in Ordnung. Schau mal. Sieh dir das an. Whoa-whoa!",Rachel Green,8,scared
+42,"Okay, okay. Look, you have got to go to a doctor! Okay?","Okay, okay. Sieh mal, du musst zu einem Arzt gehen! Nein.",Ross Geller,12,scared
+42,"No. I have got to get ready and go to a dinner at my bosses house. It's a very big deal, there's a lot of people there I have to meet.","Nein. Ich muss mich fertig machen und zu einem Abendessen im Haus meines Chefs gehen. Es ist eine sehr große Sache, es gibt eine Menge Leute dort, die ich treffen muss.",Rachel Green,31,neutral
+42,"And I'm sure you're gonna make a big impression. Hi! I'm Rachel Green. It's nice to meet you. Come on, you probably have a broken rib!","Und ich bin sicher, du wirst einen großen Eindruck machen. Hi! Ich bin Rachel Green. Es ist schön, Sie zu treffen. Komm schon, du hast wahrscheinlich eine gebrochene Rippe!",Ross Geller,26,mad
+42,"Well, I will go to the hospital tomorrow, it'll still be broken then.","Nun, ich werde morgen ins Krankenhaus zu gehen, wird es immer noch gebrochen sein dann.",Rachel Green,13,neutral
+42,Rach...,Rach...,Ross Geller,1,neutral
+42,"But y'know, I could use a hand getting ready.","Aber weißt du, ich könnte Hilfe gebrauchen, um mich fertig zu machen.",Rachel Green,9,neutral
+42,Rachel...,Rachel...,Ross Geller,1,neutral
+42,"Look, either help me or go.","Hör zu, entweder du hilfst mir oder du gehst.",Rachel Green,6,mad
+42,Fine. I'll go.,Also gut. Ich werde gehen.,Ross Geller,3,scared
+42,"Okay, but before you go, could you help me first?","Okay, aber bevor du gehst, könntest du mir zuerst helfen?",Rachel Green,10,neutral
+42,Sure. I'll help you.,Sicher. Ich werde dir helfen.,Ross Geller,4,neutral
+42,"Oh, good! Good! Do you guys know how to get a chick out of a VCR?!","Oh, gut! Das ist gut! Wisst ihr, wie man eine Tussi aus einem Videorekorder holt?!",Chandler Bing,16,joyful
+43,"Y'know what? I cannot do this with my left hand! Would you please, help me with this too?",Wisst ihr was? Ich kann das nicht mit meiner linken Hand machen! Würdet ihr mir bitte auch dabei helfen?,Rachel Green,18,neutral
+43,Ohh.,Ohh.,Ross Geller,1,neutral
+43,Okay. Let's use this brush.,"Ja, gut. Nehmen wir diese Bürste.",Rachel Green,5,neutral
+43,Okay. This stuff?,"Ja, gut. Dieses Zeug?",Ross Geller,3,neutral
+43,Yeah.,"Ja, genau.",Rachel Green,1,neutral
+43,All right.,"Ja, gut.",Ross Geller,2,neutral
+43,"Careful. Light. Okay, do you know how, just sweep it across the lid. Okay? Just sweep it.","Vorsichtig. Licht. Ok, weißt du, wie das geht? Einfach über den Deckel streichen. Okay? Ja. Einfach drüberstreichen.",Rachel Green,17,neutral
+43,Oke-dokey.,Oke-dokey.,Ross Geller,1,neutral
+43,Oh-ho!,Oh-ho!,Rachel Green,1,neutral
+43,Sorry.,"Tut mir leid, aber...",Ross Geller,1,peaceful
+43,Hey! That's just poking me in the eye!,Hey! Das sticht mir nur ins Auge!,Rachel Green,8,mad
+43,"Sorry, I'm sorry. Close, close, close...","Entschuldigung, tut mir leid. Mach zu, mach zu, mach zu...",Ross Geller,6,sad
+43,"Okay, just sweep it.","Okay, wisch es einfach weg.",Rachel Green,4,powerful
+43,I'm sweeping...,Ich wische...,Ross Geller,2,neutral
+43,Right.,Okay.,Rachel Green,1,neutral
+43,"Sweep, sweep....","Fegen, fegen....",Ross Geller,2,neutral
+43,"Okay, now make it even, 'cause we don't...","Okay, jetzt mach es gerade, weil wir nicht...",Rachel Green,8,powerful
+43,What? What?,"was? Was? Wir wollen nicht, dass es zu viel ist.",Ross Geller,2,scared
+43,"We don't want it-it to be too much, we want it to be subtle.","Wir wollen nicht, dass es zu viel ist, wir wollen, dass es dezent ist.",Rachel Green,14,mad
+43,"No. No, y'know you don't, you don't wear enough of this. What?","Nein. Nein, weißt du, du trägst nicht genug davon. Du trägst zu wenig davon. Was?",Ross Geller,12,neutral
+43,"Since when, since when do you think I don't wear enough of this?","Seit wann denkst du, dass ich nicht genug davon trage?",Rachel Green,13,mad
+43,"Well I, close your eyes, I just think you're gonna like this a little better, 'cause, close-close...","Schließ die Augen. Ich glaube, das hier gefällt dir besser, denn...",Ross Geller,17,neutral
+43,Blow it.,Leck mich.,Rachel Green,2,mad
+43,"Sorry. 'Cause umm, I think this will make you a little more sophisticated.","Entschuldigung. Denn ich denke, das wird dich ein wenig kultivierter machen.",Ross Geller,13,joyful
+43,Sophisticated like a hooker?,Anspruchsvoll wie eine Nutte?,Rachel Green,4,mad
+44,Hey!,"Hey, hey!",Monica Geller,1,joyful
+44,Hey!,"Hey, rate mal, was ich heute Abend mache.",Phoebe Buffay,1,joyful
+44,"Hey, guess what I'm doing tonight.","Hey, rate mal, was ich heute Abend mache.",Monica Geller,6,joyful
+44,What?,"Rate mal, was ich heute Abend mache. Was?",Phoebe Buffay,1,sad
+44,I'm checking out the restaurant with Pete.,Ich schaue mir mit Pete das Restaurant an.,Monica Geller,7,joyful
+44,"Ohh, Monica, I am so excited for you.","Ohh, Monica, ich freue mich so für dich.",Phoebe Buffay,8,joyful
+44,I know.,"Ja, ich weiß.",Monica Geller,2,neutral
+44,"Ooh, I have to tell you something.","Oh, ich muss dir etwas sagen.",Phoebe Buffay,7,neutral
+44,What?,Ich muss dir was sagen. - Was?,Monica Geller,1,neutral
+44,But I can't tell you.,Aber ich kann es dir nicht sagen.,Phoebe Buffay,5,powerful
+44,"Okay, but wouldn't it be easier if you had to tell me something that you could tell me.","Wäre es nicht einfacher, wenn du mir etwas sagen müsstest, was du mir sagen kannst?",Monica Geller,18,peaceful
+44,"Well, sure in a perfect world. But, no, I promised I wouldn't tell, and I swore to like all my gods.","Nun, sicher in einer perfekten Welt. Aber nein, ich habe versprochen, es nicht zu sagen, und ich habe es wie alle meine Götter geschworen.",Phoebe Buffay,21,peaceful
+44,Okay. Does it have to do with Ross and Rachel?,Das ist gut. Hat es etwas mit Ross und Rachel zu tun?,Monica Geller,10,scared
+44,No.,Nein.,Phoebe Buffay,1,neutral
+44,Does it have to do with Joey?,Hat es mit Joey zu tun?,Monica Geller,7,scared
+44,No.,Nein.,Phoebe Buffay,1,neutral
+44,Does it have to do with-with Chandler and that sock that he keeps by his bed?,"Hat es mit Chandler und der Socke zu tun, die er neben seinem Bett aufbewahrt?",Monica Geller,16,scared
+44,"No, but let's come back to that later!","Nein, aber darauf kommen wir später zurück!",Phoebe Buffay,8,powerful
+45,Does it involve travel?,Hat es mit Reisen zu tun?,Monica Geller,4,neutral
+45,Noo!,Noo!,Phoebe Buffay,1,neutral
+45,Does it involve clogs?,Hat es mit Holzschuhen zu tun?,Monica Geller,4,neutral
+45,"Oh, wait, wait. Clogs, or claws?","Oh, warten Sie, warten Sie. Clogs oder Klauen?",Phoebe Buffay,6,neutral
+45,Clogs.,Clogs.,Monica Geller,1,neutral
+45,No.,Nein.,Phoebe Buffay,1,neutral
+45,Claws?!,Klauen?!,Monica Geller,1,scared
+45,No.,Nein.,Phoebe Buffay,1,peaceful
+45,"Okay, so it doesn't involve Ross or Rachel or Chandler or Joey. But, what about Pete?","Ok, es geht also nicht um Ross oder Rachel oder Chandler oder Joey. Aber, was ist mit Pete?",Monica Geller,16,scared
+45,No!,Nein!,Phoebe Buffay,1,joyful
+45,What is it?! What about Pete?,Was ist mit ihm?! Was ist mit Pete?,Monica Geller,6,neutral
+45,I don't know!,Was ist mit Pete? Ich weiß es nicht!,Phoebe Buffay,3,neutral
+45,"Okay, I feel like I'm talking to Lassie. All right, Phoebe would you just tell me!","Ok, ich habe das Gefühl, ich rede mit Lassie. Ok, Phoebe, würdest du es mir einfach sagen?",Monica Geller,16,neutral
+45,I can't!!,Ich kann nicht!!,Phoebe Buffay,2,neutral
+45,"Okay, I gotta go.","Ok, ich muss los.",Monica Geller,4,neutral
+45,"I, but you're so close! No!","Ich, aber du bist so nah! Nein!",Phoebe Buffay,6,neutral
+45,"Okay, does it involve something to do with Pete's computer company?","Ok, hat es etwas mit Petes Computerfirma zu tun?",Monica Geller,11,neutral
+45,"Oh, just go. You're never gonna get it!","Oh, geh einfach. Du wirst es nie bekommen!",Phoebe Buffay,8,neutral
+46,"I know. See, yes. That's Yasmine Bleeth, she's a completely different kind of chick. I love you both. But in very different ways.","Ich weiß, ich weiß. Siehst du, ja. Das ist Yasmine Bleeth, sie ist eine ganz andere Art von Tussi. Ich liebe euch beide. Aber auf sehr unterschiedliche Weise.",Chandler Bing,23,joyful
+46,Hey!,He! He!,Joey Tribbiani,1,joyful
+46,Hey!,"Hey, hey!",Chandler Bing,1,joyful
+46,Ohhh. Ahh! What are you doing?! I thought you were gonna take her back to the store today.,"Ohhh. Ahh! Was machst du denn da?! Ich dachte, du wolltest sie heute zurück in den Laden bringen.",Joey Tribbiani,18,scared
+46,"I did! But the store wouldn't take her back! So then I took her to the shelter, and you know what I found out?","Wollte ich auch! Aber der Laden wollte sie nicht zurücknehmen! Also habe ich sie ins Tierheim gebracht, und weißt du, was ich herausgefunden habe?",Chandler Bing,24,neutral
+46,"If they can't find a home for her, they kill her! And I'm not gonna let that happen to little Yasmine!","Wenn sie kein Zuhause für sie finden, töten sie sie! Und ich werde nicht zulassen, dass das der kleinen Yasmine passiert!",Chandler Bing,21,scared
+46,"Okay, good, good, good, 'cause, good, 'cause I was kinda having second thoughts too.","Okay, gut, gut, gut, denn, gut, denn ich hatte auch so meine Zweifel.",Joey Tribbiani,14,joyful
+46,Okay. And it's not just chicks y'know? It's all kinds of other animals!,"Ja, gut. Und es sind nicht nur Küken, weißt du? Es sind alle möglichen anderen Tiere!",Chandler Bing,13,powerful
+46,"That's horrible! Well, you did the right thing man.","Das ist ja furchtbar! Nun, du hast das Richtige getan, Mann.",Joey Tribbiani,9,powerful
+46,"Thanks, I'm glad you see it that way.","Danke, ich bin froh, dass du das auch so siehst.",Chandler Bing,8,joyful
+46,"Ohhh-hoo, funny story!","Ohhh-hoo, lustige Geschichte!",Chandler Bing,3,joyful
+47,"I don't believe this! Wow, look at this refrigerator! It's gigantic! I mean I could live in this thing! I'd be cold, but I'm always cold. Oh my God, look at these spider burners! I love spider burners.","Ich glaub's einfach nicht! Wow, sieh dir diesen Kühlschrank an! Der ist ja gigantisch! Ich meine, ich könnte in diesem Ding leben! Ich würde frieren, aber mir ist immer kalt. Oh mein Gott, sieh dir diese Spinnenbrenner an! Ich liebe Spinnenbrenner.",Monica Geller,38,joyful
+47,So you like it?,"Und, gefällt es dir?",Peter Becker,4,joyful
+47,"Oh, it is sooo perfect. Thank you so much.","Oh, es ist sooo perfekt. Ich danke dir vielmals.",Monica Geller,9,joyful
+47,"Oh, you're welcome.","Oh, gern geschehen.",Peter Becker,3,joyful
+47,Did you just smell my hair?,Hast du gerade an meinen Haaren gerochen?,Monica Geller,6,scared
+47,"Nooo. Uh-huh, no way. What? No.","Nein, nein. Uh-huh, auf keinen Fall. Was? Nein. Nein.",Peter Becker,6,scared
+47,Oh God.,"Oh, mein Gott.",Monica Geller,2,scared
+47,What?,"Du hast noch Gefühle für mich, oder?",Peter Becker,1,scared
+47,You still have feelings for me don't you?,"Du hast noch Gefühle für mich, oder?",Monica Geller,8,scared
+47,"Now, nooo! I'm just excited about the restaurant, that's all.","Nein! Ich bin nur aufgeregt wegen des Restaurants, das ist alles.",Peter Becker,10,joyful
+47,Pete.,Pete.,Monica Geller,1,powerful
+47,"Okay, I love you. Is that so bad?","Okay, ich liebe dich. Ist das so schlimm?",Peter Becker,8,joyful
+47,"No, it's not bad. It's not bad at all. It's-it's really nice.","Nein, es ist nicht schlimm. Es ist überhaupt nicht schlimm. Es ist... es ist wirklich schön.",Monica Geller,12,joyful
+47,"Look, the only who stands to get hurt is me. And I'm okay with that.","Schau, der Einzige, der verletzt wird, bin ich. Und das ist okay für mich.",Peter Becker,15,peaceful
+47,"You may be okay about getting hurt, but I am not okay with being the one who hurts you. That's why I can't take this job.","Du magst damit einverstanden sein, verletzt zu werden, aber ich bin nicht damit einverstanden, derjenige zu sein, der dich verletzt. Deshalb kann ich diesen Job nicht annehmen.",Monica Geller,26,joyful
+47,What?,Und wir sollten wahrscheinlich,Peter Becker,1,neutral
+47,"And well, we probably shouldn't see each other anymore. I'm sorry.","Und nun, wir sollten uns wahrscheinlich nicht mehr sehen. Es tut mir leid, aber...",Monica Geller,11,sad
+47,"Okay, yeah. I mean... If that's, if that's really what you want, okay.","Okay, ja. Ich meine... Wenn es das ist, was du wirklich willst, okay.",Peter Becker,13,sad
+47,"Okay, bye.","Okay, tschüss.",Monica Geller,2,neutral
+47,I'm sorry things didn't work out...,"Es tut mir leid, dass es nicht geklappt hat...",Peter Becker,6,sad
+47,"All right shut up for a second and let me just see something. Oh, wow!","Halt mal kurz die Klappe und lass mich was sehen. Oh, wow!",Monica Geller,15,peaceful
+48,What 'cha doing?,Was machst du da?,Joey Tribbiani,3,joyful
+48,Having a swim.,Ich gehe schwimmen.,Chandler Bing,3,peaceful
+48,What about the chick?,Was ist mit der Tussi?,Joey Tribbiani,4,neutral
+48,Chicks don't swim.,Küken schwimmen nicht.,Chandler Bing,3,peaceful
+48,Are you sure?,Bist du dir da sicher?,Joey Tribbiani,3,scared
+48,I don't know. Should we try it?,Ich weiß nicht so recht. Sollen wir's versuchen?,Chandler Bing,7,joyful
+48,Sure.,"Ja, klar.",Joey Tribbiani,1,joyful
+48,"See, I told you they don't swim.","Siehst du, ich habe dir gesagt, dass sie nicht schwimmen.",Chandler Bing,7,neutral
+48,Wait. Give him a minute.,Wartet mal. Gib ihm noch eine Minute.,Joey Tribbiani,5,peaceful
+48,"Noo! Oh, it's okay, it's okay, baby, baby, baby.","Nein! Oh, ist schon gut, ist schon gut, Baby, Baby, Baby.",Chandler Bing,9,scared
+49,Hi!,Hi!,Ross Geller,1,joyful
+49,Hi!,Hi!,Bonnie,1,joyful
+49,Rachel was just helping me out. My head got all sunburned.,Rachel hat mir nur geholfen. Mein Kopf hat einen Sonnenbrand bekommen.,Bonnie,11,neutral
+49,Awww.,Oh.,Ross Geller,1,peaceful
+49,Thanks a million.,Tausend Dank.,Bonnie,3,neutral
+49,"Oh, you're welcome a million.","Oh, gern geschehen, eine Million.",Rachel Green,5,peaceful
+49,"Okay, I'll see you in our room.","Ok, wir sehen uns dann in unserem Zimmer.",Bonnie,7,neutral
+49,Yeah.,"Ja, wir sehen uns in unserem Zimmer.",Ross Geller,1,peaceful
+49,Oh my God.,"Oh, mein Gott. Ich weiß.",Rachel Green,3,scared
+49,I know.,"Ich weiß, ich weiß.",Ross Geller,2,neutral
+49,"Okay, I gotta go.","Okay, ich muss los.",Ross Geller,4,scared
+49,Whoa! What?! Why?!,Whoa! Was?! Was?! Warum?!,Rachel Green,3,scared
+49,"Well, I-I gotta go break up with Bonnie.","Nun, ich muss mit Bonnie Schluss machen.",Ross Geller,8,powerful
+49,Here?! Now?!,Hier?! Jetzt?!,Rachel Green,2,scared
+49,"Well, yeah. I can't-I can't stay here all night, and if I go in there she's-she's gonna wanna... do stuff.","Nun, ja. Ich kann nicht... Ich kann nicht die ganze Nacht hier bleiben, und wenn ich da reingehe, wird sie... Sie wird was machen wollen.",Ross Geller,20,scared
+49,"Well, can't you tell her that you are not in the mood?","Nun, kannst du ihr nicht sagen, dass du nicht in der Stimmung bist?",Rachel Green,12,neutral
+49,"No, she likes that. Yeah. Faking sleep doesn't work either, I can't tell you how many mornings I woke up with her...","Nein, sie mag das. Sie mag das. Ja. Schlaf vortäuschen funktioniert auch nicht. Ich kann dir nicht sagen, wie oft ich morgens mit ihr aufgewacht bin...",Ross Geller,22,scared
+49,Whoa-ho.,Whoa-ho.,Rachel Green,1,scared
+49,"Whoa-oh, okay! Yeah, why am I telling you that?","Oh-oh, okay! Ja, warum erzähle ich dir das?",Ross Geller,9,scared
+49,I don't know.,Ich weiß es nicht. Ich weiß es nicht.,Rachel Green,3,neutral
+49,"Yeah, yeah. It wasn't every morning.","Ja, ja, ja, ja. Es war nicht jeden Morgen.",Ross Geller,6,neutral
+49,"Oh, making it worse!","Oh, das macht es noch schlimmer!",Rachel Green,4,mad
+49,Okay.,Das macht es noch schlimmer. Okay.,Ross Geller,1,neutral
+50,So I guess you'd like to know how it all happened.,"Ich schätze, du würdest gerne wissen, wie das alles passiert ist.",Phoebe Abbott,11,powerful
+50,"I-I mean I, well I think I can figure it out. I guess y'know I was born, and everyone started lying their asses off!","Ich meine, ich denke, ich kann es herausfinden. Ich wurde geboren und alle fingen an, sich den Arsch abzulügen.",Phoebe Buffay,24,powerful
+50,"Noo! No! It wasn't like that I... Remember how I told you how Lily, Frank, and I we were, we were close. Well, we were, we were very close.","Nein! Nein! Es war nicht so, dass ich... Erinnerst du dich, wie ich dir erzählt habe, wie Lily, Frank und ich uns nahe standen? Nun, das waren wir, wir waren uns sehr nahe.",Phoebe Abbott,29,sad
+50,How close?,Wie nahe?,Phoebe Buffay,2,scared
+50,"Well, the-the three of us we were, kind of umm, a couple.","Nun, wir drei waren so eine Art, ähm, Paar.",Phoebe Abbott,12,powerful
+50,I don't even know how that would work!,"Ich weiß nicht einmal, wie das funktionieren soll!",Phoebe Buffay,8,powerful
+50,"Well, we were...","Nun, wir waren...",Phoebe Abbott,3,joyful
+50,I'm not asking!,Ich frage nicht!,Phoebe Buffay,3,peaceful
+50,"Well, any how, some how I got pregnant, and, and I was scared. I was stupid and sellfish, and I was 18 years old. I mean, you remember what it's like to be eighteen years old?","Nun, wie auch immer, irgendwie wurde ich schwanger, und ich hatte Angst. Ich war dumm und selbstsüchtig, und ich war 18 Jahre alt. Ich meine, weißt du noch, wie es ist, 18 Jahre alt zu sein?",Phoebe Abbott,36,scared
+50,"Yeah. Let's see, my had Mom killed herself, and my Dad had run off, and I was living in a Gremlin with a guy named Cindy who talked to his hand.","Ja, klar. Meine Mutter hatte sich umgebracht, mein Vater war abgehauen, und ich lebte in einem Gremlin mit einem Typen namens Cindy, der mit seiner Hand sprach.",Phoebe Buffay,31,mad
+50,"Well, I'm so sorry. I thought I was leaving you with the best parents in the world, I didn't even hear about your Mom and Dad til a couple of years ago, and by then you were already grown up. I don't know, you're here, and I would, I would really, I would like to get to know you.","Nun, es tut mir so leid. Ich dachte, ich lasse dich mit den besten Eltern der Welt zurück, dabei habe ich erst vor ein paar Jahren von deiner Mutter und deinem Vater gehört, und da warst du schon erwachsen. Ich weiß nicht, du bist hier und ich würde, ich würde dich wirklich gerne kennenlernen.",Phoebe Abbott,59,sad
+50,"Yeah, well, everybody does! I'm a really cool person. And y'know you had 29 years to find that out, but you didn't even try! Y'know what, you walked out on me, and I'm just, I'm gonna do the same thing to you.","Ja, das möchte jeder! Ich bin ein wirklich cooler Mensch. Und du hattest 29 Jahre Zeit, das herauszufinden, aber du hast es nicht mal versucht! Weißt du was, du hast mich verlassen, und ich werde dasselbe mit dir machen.",Phoebe Buffay,42,powerful
+50,Wait!,"Warte, warte!",Phoebe Abbott,1,sad
+50,I don't ever want to see you again!,Ich will dich nie wieder sehen!,Phoebe Buffay,8,sad
+50,"Umm, where's my purse?","Ähm, wo ist meine Handtasche?",Phoebe Buffay,4,scared
+51,Shoot! We're out of soda.,Verdammt! Wir haben keine Limonade mehr.,Monica Geller,5,mad
+51,"Oh, I'll go out and get you some.","Oh, ich werde rausgehen und dir welche holen.",Chandler Bing,8,joyful
+51,Really?!,Wirklich?!,Monica Geller,1,scared
+51,"Nope! Because I'm not your boyfriend. Hey Pheebs, how did it go?","Nö! Weil ich nicht dein Freund bin. Hey, Phoebe, wie ist es gelaufen?",Chandler Bing,12,scared
+51,"Well, umm, my Mom's friend, Phoebe, is actually my birth Mom.","Nun, ähm, die Freundin meiner Mutter, Phoebe, ist eigentlich meine leibliche Mutter.",Phoebe Buffay,11,peaceful
+51,I found a dried up seashores.,Ich fand eine ausgetrocknete Meeresküste.,Chandler Bing,6,neutral
+51,"Sweety, what are you talking about?","Sweety, was redest du da?",Monica Geller,6,scared
+51,"Oh, my new Mom, who-who's a big, fat abandoner!","Oh, meine neue Mom, die eine große, fette Verlasserin ist!",Phoebe Buffay,9,peaceful
+51,"Whoa, wait, Pheebs, wait a second! Don't you wanna stay here and talk about it?","Whoa, warte, Pheebs, warte eine Sekunde! Willst du nicht hierbleiben und darüber reden?",Joey Tribbiani,15,peaceful
+51,"No. I'm just, I wanna, I need to be alone.","Nein, ich will nur, ich muss allein sein.",Phoebe Buffay,10,powerful
+51,Monica!,Monica!,Phoebe Buffay,1,joyful
+51,Oh.,Ach.,Monica Geller,1,neutral
+52,It's over.,Es ist vorbei.,Ross Geller,2,mad
+52,"Oh, was it awful?","Oh, war es schrecklich?",Rachel Green,4,joyful
+52,"Well, it was loong. I didn't even realise how late it was, until I noticed the 5 o'clock shadow on her head. Anyway, she didn't want to stay. I called a cab; she just left.","Na ja, es war lang. Ich habe gar nicht gemerkt, wie spät es war, bis ich den 5-Uhr-Schatten auf ihrem Kopf sah. Wie auch immer, sie wollte nicht bleiben. Ich habe ein Taxi gerufen, sie ist einfach gegangen.",Ross Geller,35,sad
+52,I wrote you a letter.,Ich habe dir einen Brief geschrieben.,Rachel Green,5,neutral
+52,Ohh! Thank you! I like mail.,Ohh! Danke! Ich mag Post.,Ross Geller,6,joyful
+52,"It's just some things I've been thinking about. Some things about us, and before we can even think about the two of us getting back together, I just need to know how you feel about this stuff.","Es sind nur ein paar Dinge, über die ich nachgedacht habe. Einige Dinge über uns, und bevor wir überhaupt darüber nachdenken können, wieder zusammenzukommen, muss ich einfach wissen, wie du über diese Dinge denkst.",Rachel Green,37,peaceful
+52,"Okay. Wow, it's-it's 5:30 in the morning. So, I'd better get cracking on this baby.","Ja, okay. Wow, es ist 5:30 Uhr am Morgen. Also, ich fange besser an, mich um das Baby zu kümmern.",Ross Geller,15,joyful
+52,"Well, I'll be waiting for you, just come up when you're done.","Nun, ich werde auf dich warten, komm einfach hoch, wenn du fertig bist.",Rachel Green,12,neutral
+52,"Okay, I'll be up in, 18 pages. Front and back. Very exciting.","Okay, ich werde in 18 Seiten fertig sein. Vorder- und Rückseite. Sehr aufregend.",Ross Geller,12,joyful
+53,Oh. Oh-oh.,(lacht) Oh. Oh-oh.,Ross Geller,2,neutral
+53,Hey! What happened to you? Why didn't you come up?,Hey! Was ist mit dir passiert? Warum bist du nicht raufgekommen?,Rachel Green,10,powerful
+53,Done!,Erledigt!,Ross Geller,1,scared
+53,You just finished?,Du bist gerade fertig geworden?,Rachel Green,3,mad
+53,"Well, I wanted to be thorough. I mean this-this is clearly very, very important to you, to us! And so I wanted to read every word carefully, twice!","Nun, ich wollte gründlich sein. Ich meine, das... das ist offensichtlich sehr, sehr wichtig für dich, für uns! Und deshalb wollte ich jedes Wort sorgfältig lesen, zweimal!",Ross Geller,28,scared
+53,"So umm, does it?","Also, ähm, ist es das?",Rachel Green,4,scared
+53,I'm sorry.,Tut mir leid. Tut es das?,Ross Geller,2,scared
+53,Does it?,Tut es das?,Rachel Green,2,scared
+53,"Does it? Does it? Yeah, I wanted to give that whole 'Does it?' part just another glance.","Tut es das? Tut es das? Ja, ich wollte diesen ganzen ""Tut es das?""-Teil nur noch einmal überfliegen.",Ross Geller,17,scared
+53,"What are you talking about, Ross, you just said that you read it twice! Look, y'know what, either it does or it doesn't, and if you have to even think about it...","Was redest du da, Ross, du hast gerade gesagt, dass du es zweimal gelesen hast! Schauen Sie, wissen Sie was, entweder es tut oder es tut nicht, und wenn Sie haben, auch darüber nachzudenken ...",Rachel Green,32,mad
+53,"No, Rach, no. I don't, I don't, I don't have to think about it, in fact, I've decided, I've decided that, that it.......does.","Nein, Rachel, nein. Ich habe nicht, ich habe nicht, ich muss nicht darüber nachdenken, in der Tat, ich habe beschlossen, ich habe beschlossen, dass, dass es ....... tut.",Ross Geller,23,scared
+53,Are you sure?,Bist du dir sicher?,Rachel Green,3,joyful
+53,"Oh, sure! I'm sure.","Oh, sicher! Ich bin mir sicher.",Ross Geller,4,scared
+53,I know.,Ich weiß es.,Rachel Green,2,joyful
+54,"All right, there's a nuclear holocaust, I'm the last man on Earth. Would you go out with me?","In Ordnung, es gibt einen nuklearen Holocaust, ich bin der letzte Mensch auf der Erde. Würdest du mit mir ausgehen?",Chandler Bing,18,joyful
+54,Ennnh.,Ennnh.,Monica Geller,1,neutral
+54,I've got canned goods.,Ich habe Dosenware.,Chandler Bing,4,neutral
+54,"Hey, you guys! Take a look at this! Check this baby out, dug me a hole!","He, Leute! Seht euch das an! Seht euch das Baby an, hat mir ein Loch gegraben!",Joey Tribbiani,16,peaceful
+54,"Excellent hole, Joe.","Tolles Loch, Joe.",Chandler Bing,3,neutral
+54,Oh no! No!! My hole!!,Oh nein! Nein!! Mein Loch!!,Joey Tribbiani,5,powerful
+54,Ow!! Ow!!!,Au!! Aua!!!,Monica Geller,2,powerful
+54,What?! What?!! What is it?!,Was?! Was?! Was ist das?!,Joey Tribbiani,5,scared
+54,"Jellyfish sting! Oh, it hurts! It hurts!! It hurts!!","Ein Quallenstich! Oh, das tut weh! Es tut weh!! Es tut weh!!",Monica Geller,9,neutral
+54,"Well, can we help?! You want us to take you back to the house?!",Können wir dir helfen? Sollen wir dich zurück zum Haus bringen?,Chandler Bing,14,powerful
+54,It's like two miles!,Das sind ungefähr zwei Meilen!,Monica Geller,4,peaceful
+54,"Yeah, and I'm a little tired from digging the hole.","Ja, und ich bin ein bisschen müde vom Graben des Lochs.",Joey Tribbiani,10,peaceful
+54,Oh damn the jellyfish. Damn all the jellyfish!,"Oh, verdammt, die Quallen. Verdammt seien die Quallen!",Monica Geller,8,neutral
+54,We've got to do something!,Wir müssen etwas tun.,Chandler Bing,5,peaceful
+54,"Well, there's really only one thing you can do.","Es gibt eigentlich nur eine Sache, die du tun kannst.",Joey Tribbiani,9,powerful
+54,What?! What is it?!,Was denn?! Was ist es denn?,Monica Geller,4,peaceful
+54,You're gonna have to pee on it.,Du wirst darauf pinkeln müssen.,Joey Tribbiani,7,neutral
+54,What?!! Gross!!,Was?!! Ekelhaft!!,Monica Geller,2,neutral
+54,"Don't blame me, I saw it on The Discovery Channel.","Nimm's mir nicht übel, ich hab's auf dem Discovery Channel gesehen.",Joey Tribbiani,10,peaceful
+54,"Y'know what, he's right. There's something like uh, ammonia in that, that like kills the pain.","Weißt du was, er hat recht. Da ist etwas wie, äh, Ammoniak drin, das den Schmerz tötet.",Chandler Bing,16,powerful
+54,Well forget it! It doesn't hurt that baaad!!!!,"Ach, vergiss es! Es tut gar nicht so weh !!!!",Monica Geller,8,neutral
+54,If you want some privacy you can use my hole.,"Wenn du etwas Privatsphäre willst, kannst du mein Loch benutzen.",Joey Tribbiani,10,neutral
+55,"Well, I'm ready to get the hell out of here! Oh. Are you? Are you?!! Ohh! That's so great!! Ooh, not for Bonnie. But for you, yay! Ohh.","Nun, ich bin bereit, von hier zu verschwinden! Oh... Bist du das? Bist du das?!! Ohh! Das ist so toll!! Ooh, nicht für Bonnie. Aber für dich, juhu! Ohh.",Phoebe Buffay,28,joyful
+55,Hey!,JEREMY: Hey.,Ross Geller,1,peaceful
+55,How was the beach?,Wie war's am Strand?,Rachel Green,4,peaceful
+55,"Nothing, I don't know.","Nichts, ich weiß es nicht.",Monica Geller,4,sad
+55,What happened?,Was war los?,Ross Geller,2,neutral
+55,Nothing. I'm gonna take a shower.,"Ach, nichts. Ich gehe jetzt duschen.",Monica Geller,6,neutral
+55,Me too!!,Ich auch!,Chandler Bing,2,neutral
+55,Me too.,"Ja, ich auch.",Joey Tribbiani,2,neutral
+55,"Okay, I'm gonna put this in the car.","Okay, ich werde das ins Auto packen.",Phoebe Buffay,8,peaceful
+55,"Ooh, I have to go pack. It really does?","Oh, ich muss packen gehen. Muss es das wirklich?",Rachel Green,9,powerful
+55,It does. It really and truly does.,"Ja, das tut es. Das tut es wirklich und wahrhaftig.",Ross Geller,7,scared
+55,It so does not!!!,Das tut es nicht!!!,Ross Geller,4,powerful
+56,"She wants me to take responsibility for everything that went wrong in our relationship. I mean she goes on for five pages about, about how I was unfaithful to her! WE WERE ON A BREAK!!!!!","Sie will, dass ich die Verantwortung für alles übernehme, was in unserer Beziehung schief gelaufen ist. Ich meine, sie redet fünf Seiten lang davon, dass ich ihr untreu war! WIR HATTEN EINE PAUSE!!!!!",Ross Geller,35,mad
+56,"Oh my God! If you say that one more time, I'm gonna break up with you!","Oh, mein Gott! Wenn du das noch einmal sagst, werde ich mit dir Schluss machen!",Chandler Bing,16,mad
+56,"Fine! Fine! But this break-up was not all my fault, and she, she says here, ""If you accept full responsibility..."" Full responsibility! ""...I can begin to trust you again. Does that seem like something you can do. Does it?!!""","Na schön! Gut! Aber diese Trennung war nicht allein meine Schuld, und sie sagt hier, ""Wenn du die volle Verantwortung übernimmst..."" Die volle Verantwortung! ""...kann ich anfangen, dir wieder zu vertrauen. Scheint das etwas zu sein, was du tun kannst. Ist es das?!""",Ross Geller,39,mad
+56,No?,Nein?,Joey Tribbiani,1,neutral
+56,"Look, Ross, you have what you want, you're back with Rachel. If you bring this up now you're gonna wreck the best thing that even happened to you.","Schauen Sie, Ross, Sie haben, was Sie wollen, Sie sind wieder mit Rachel. Wenn du das jetzt ansprichst, machst du das Beste kaputt, was dir je passiert ist.",Chandler Bing,28,mad
+56,"Yeah, I know. I mean, no, you're right. Yeah I guess I'll let it go. But you-you understand how-how hard it is to forget about this.","Ja, ja, ich weiß. Ich meine, nein, du hast Recht. Ja, ich schätze, ich werde es sein lassen. Aber du... du verstehst, wie schwer es ist, das zu vergessen.",Ross Geller,26,neutral
+56,"Sure, it's hard to forget! But that doesn't mean you have to talk about it! A lot of things happened on that trip that we should never, ever talk about.","Sicher, es ist schwer zu vergessen! Aber das bedeutet nicht, dass du darüber reden musst! Auf dieser Reise sind viele Dinge passiert, über die wir niemals sprechen sollten.",Joey Tribbiani,30,mad
+56,What the hell happened on that beach?!,Was zum Teufel ist an diesem Strand passiert?!,Ross Geller,7,mad
+56,"It's between us and the sea, Ross!","Das ist zwischen uns und dem Meer, Ross!",Joey Tribbiani,7,mad
+57,"Hi, Ursula.","Hallo, Ursula.",Phoebe Buffay,2,neutral
+57,Hey!,"Hallo, Ursula!",Ursula Buffay,1,joyful
+57,"Okay, well umm, I know that we haven't talked in a long time, but umm okay, our Mom is not our birth Mom. This-this other lady is our birth Mom.","Ich weiß, dass wir lange nicht miteinander gesprochen haben, aber unsere Mom ist nicht unsere leibliche Mom. Diese andere Frau ist unsere leibliche Mutter.",Phoebe Buffay,30,scared
+57,"Right, okay, the one that lives in Montuak, umm-hmm.","Richtig, okay, die, die in Montuak lebt, ähm-hmm.",Ursula Buffay,9,powerful
+57,You know her?!,Du kennst sie?!,Phoebe Buffay,3,mad
+57,"No, I umm, I read about her in Mom's suicide note.","Nein, ich habe über sie in Moms Abschiedsbrief gelesen.",Ursula Buffay,11,powerful
+57,"There-there was a suicide note?! Well, do you still have it?","Da... da war ein Abschiedsbrief?! Nun, hast du ihn noch?",Phoebe Buffay,11,mad
+57,Hang on.,Warte mal kurz.,Ursula Buffay,2,mad
+57,I can't believe you didn't tell me there was a suicide note!,"Ich kann nicht glauben, dass du mir nicht gesagt hast, dass es einen Abschiedsbrief gab!",Phoebe Buffay,12,mad
+57,Yeah. So how have you been doing?,"Und wie ist es dir ergangen? Also, wie ist es dir ergangen?",Ursula Buffay,7,neutral
+57,"I, umm, shut up!","Ich, ähm, halte die Klappe!",Phoebe Buffay,4,mad
+57,"""Good-bye Phoebe and Ursula. I'll miss you. P.S. Your Mom lives in Montauk."" You just wrote this!","""Auf Wiedersehen, Phoebe und Ursula. Ich werde euch vermissen. P.S. Eure Mom wohnt in Montauk."" Das hast du gerade geschrieben!",Phoebe Buffay,17,mad
+57,"Well, it's pretty much the gist. Well, except for the poem. You read the poem, right?","Nun, das ist so ziemlich das Wesentliche. Na ja, bis auf das Gedicht. Du hast das Gedicht gelesen, oder?",Ursula Buffay,16,powerful
+57,Noooo!!,Neeein!!,Phoebe Buffay,1,mad
+57,"All right, hang on!","In Ordnung, warte mal!",Ursula Buffay,4,powerful
+58,"""...fuchsia and mauvvve. Those are the 66 colours of my bedroommmm."" Thank you, thank you. Ohh, and I invite you to count the colours in your bedroom. Except for you. You go away.","""...fuchsia und mauvvve. Das sind die 66 Farben meines Schlafzimmers."" Danke schön, danke schön. Ohh, und ich lade dich ein, die Farben in deinem Schlafzimmer zu zählen. Außer bei dir. Du gehst weg.",Phoebe Buffay,33,joyful
+58,"I'll go in a second, I-I just wanted to tell you that there hasn't been a day where I didn't regret giving you up.","Ich gehe gleich. Ich wollte dir nur sagen, dass es nicht einen Tag gab, an dem ich es nicht bereut habe, dich weggegeben zu haben.",Phoebe Abbott,24,peaceful
+58,"Okay, bye.","Okay, tschüss.",Phoebe Buffay,2,neutral
+58,"No, I'm not done. I-I-I just want you to know that I, the reason I didn't look you up was, well I was afraid that you'd react, just well like, the way, the way you're reacting right now, and can't we just, y'know, start from here?","Nein, ich bin noch nicht fertig. Ich wollte dir nur sagen, dass ich dich nicht besucht habe, weil ich Angst hatte, dass du so reagierst, wie du jetzt reagierst. Können wir nicht einfach von vorne anfangen?",Phoebe Abbott,46,sad
+58,No.,Nein.,Phoebe Buffay,1,neutral
+58,"Sorry. But just one last thing. Y'know you came looking for family. I'm family, I'm it. Now, now I'm done.","Nein. Tut mir leid. Aber nur noch eine Sache. Du weißt, dass du auf der Suche nach einer Familie bist. Ich bin eine Familie. Ich bin es. So, jetzt bin ich fertig.",Phoebe Abbott,20,powerful
+58,"But, it's not like we're losing anything. Y'know?","Aber es ist ja nicht so, als ob wir etwas verlieren würden. Verstehst du?",Phoebe Buffay,8,neutral
+58,"Yeah, I guess you're right.","Ja, ich schätze, du hast recht.",Phoebe Abbott,5,peaceful
+58,It's not like we-we know each other or anything. Or that have anything in common.,"Es ist ja nicht so, dass wir uns kennen oder so. Oder dass wir etwas gemeinsam hätten.",Phoebe Buffay,15,sad
+58,"Well, I don't know. I mean it's not like we don't have anything in common. I mean I like uh, pizza.","Nun, ich weiß es nicht. Ich meine, es ist nicht so, dass wir nichts gemeinsam haben. Ich meine, ich mag, äh, Pizza.",Phoebe Abbott,21,joyful
+58,I-I like pizza!,Ich-ich mag Pizza!,Phoebe Buffay,3,joyful
+58,"You do?! Wait, I like umm, the Beetles.","Das tust du?! Warte, ich mag, ähm, die Beetles.",Phoebe Abbott,8,powerful
+58,"Oh my God, so do I!","Oh mein Gott, ich auch!",Phoebe Buffay,6,powerful
+58,"I knew it, wow!!","Ich wusste es, wow!!",Phoebe Abbott,4,powerful
+58,"Wait-wait-wait, wait! Puppies. Cute or ugly?","Warte, warte, warte, warte! Welpen. Niedlich oder hässlich?",Phoebe Buffay,6,scared
+58,"Ohh, so cute.","Ohh, so süß.",Phoebe Abbott,3,peaceful
+58,"Uh-huh, well! But umm, still I'm-I'm mad at you.","Uh-huh, gut! Aber, ähm, ich bin immer noch sauer auf dich.",Phoebe Buffay,9,mad
+58,I know. I'm mad at me too.,"Ja, ich weiß. Ich bin auch sauer auf mich.",Phoebe Abbott,7,mad
+58,"Well umm, do you wanna get something to eat? I'm kinda hungry.","Nun, ähm, möchtest du etwas essen? Ich habe irgendwie Hunger.",Phoebe Buffay,12,scared
+58,Hey! Me too!,Hey! Ich auch!,Phoebe Abbott,3,powerful
+58,"All right, stop it. Now you're just doing it to freak me out.","Okay, hör auf damit. Jetzt tust du das nur, um mich zu verunsichern.",Phoebe Buffay,13,neutral
+59,"Oh-hooo, I missed you.","Oh-hooo, ich habe dich vermisst.",Rachel Green,4,sad
+59,I missed you too.,Ich habe dich auch vermisst.,Ross Geller,4,sad
+59,"Ooh, I was soo nervous about that letter. But the way you owned up to everything, it just showed me how much you've grown. Y'know?","Oh, ich war so nervös wegen des Briefes. Aber die Art, wie du alles zugegeben hast, hat mir gezeigt, wie sehr du gewachsen bist. Du weißt schon?",Rachel Green,25,scared
+59,I suppose.,Ich denke schon.,Ross Geller,2,powerful
+59,"You have! Ross, you should give yourself credit. I mean my Mom never thought this would work out. It was all, ""Once a cheater, always a cheater.""","Das hast du! Ross, du solltest dich selbst loben. Ich meine, meine Mutter hätte nie gedacht, dass das funktionieren würde. Es war alles, ""Einmal ein Betrüger, immer ein Betrüger.""",Rachel Green,27,powerful
+59,Umm-hmm.,Mhm-hm.,Ross Geller,1,mad
+59,"Ooh, I just wish we hadn't lost those four months, but if time was what you needed just to gain a little perspective...","Oh, ich wünschte, wir hätten diese vier Monate nicht verloren, aber wenn du Zeit brauchst, um eine neue Perspektive zu gewinnen...",Rachel Green,23,powerful
+59,WE WERE ON A BREAK!!!!!!!,WIR WAREN AUF EINER PAUSE!!!!!!!,Ross Geller,5,powerful
+59,Coffee house?,Kaffeehaus?,Chandler Bing,2,powerful
+59,You bet.,Aber sicher.,Monica Geller,2,powerful
+59,"And for the record, it took two people to break up this relationship!!","Und fürs Protokoll, es brauchte zwei Leute um diese Beziehung zu beenden!!",Ross Geller,13,powerful
+59,"Yeah! You and that girl from that copy place, which yesterday you took full responsibility for!!","Yeah! Du und das Mädchen aus dem Kopierladen, für das du gestern die volle Verantwortung übernommen hast!!",Rachel Green,16,powerful
+59,I didn't know what I was taking full responsibility for! Okay?! I didn't finish the whole letter!,"Ich wusste nicht, wofür ich die volle Verantwortung übernehmen sollte! Okay?! Ich habe nicht den ganzen Brief zu Ende geschrieben!",Ross Geller,17,powerful
+59,What?!!,Was?!,Rachel Green,1,scared
+59,I fell asleep!,Ich bin eingeschlafen!,Ross Geller,3,powerful
+59,You fell asleep?!,Du bist eingeschlafen?!,Rachel Green,3,powerful
+59,"It was 5:30 in the morning, and you had rambled on for 18 pages. Front and back!! Oh-oh-oh, and by the way, Y-O-U-apostrophe-R-E means 'you are,' Y-O-U-R means 'your!'","Es war 5:30 Uhr morgens, und du hast 18 Seiten lang geschwafelt. Vorne und hinten!! Oh-oh-oh, und übrigens, Y-O-U-apostrophe-R-E bedeutet ""du bist"", Y-O-U-R bedeutet ""dein""!",Ross Geller,29,powerful
+59,Y'know I can't believe I even thought about getting back together again! We are so over!!,"Weißt du, ich kann nicht glauben, dass ich überhaupt daran gedacht habe, wieder zusammenzukommen! Mit uns ist es so was von vorbei!!",Rachel Green,16,joyful
+59,FINE BY ME!!,VON MIR AUS GERNE!!,Ross Geller,3,joyful
+59,"Oh, oh, and hey-hey-hey, those little spelling tips will come in handy when you're at home on Saturday nights playing Scrabble with Monica!!","Oh, oh, und hey-hey-hey, diese kleinen Rechtschreibtipps werden sich als nützlich erweisen, wenn du Samstagabends zu Hause bist und mit Monica Scrabble spielst!!",Rachel Green,23,powerful
+59,Hey!!,Hey!!,Monica Geller,1,sad
+59,Sorry!! I just feel bad about all that sleep you're gonna miss wishing you were with me!,"Entschuldigung!! Ich habe nur ein schlechtes Gewissen, weil du nicht schlafen kannst, wenn du bei mir bist.",Rachel Green,17,powerful
+59,"Oh, no-no-no don't you worry about me falling asleep. I still have your letter!!!","Oh, nein, nein, nein, mach dir keine Sorgen, dass ich einschlafe. Ich habe immer noch deinen Brief.",Ross Geller,14,powerful
+59,"And hey! Just so you know, it's not that common! It doesn't happen to every guy! And it is a big deal!!","Und hey! Nur damit du es weißt, es ist nicht so gewöhnlich! Das passiert nicht jedem Kerl! Und es ist eine große Sache!!",Rachel Green,22,peaceful
+59,I KNEW IT!!!!,ICH WUSSTE ES!!!!,Chandler Bing,3,peaceful
+60,Gin.,Gin.,Monica Geller,1,neutral
+60,"We were playing Gin? Y'know if we were a couple, we could play this game naked.","Wir haben Gin gespielt? Weißt du, wenn wir ein Paar wären, könnten wir das Spiel nackt spielen.",Chandler Bing,16,joyful
+60,Will you stop!,Hörst du wohl auf!,Monica Geller,3,mad
+60,Okay. All right.,"Ja, gut. Ist ja gut.",Chandler Bing,3,powerful
+60,"Okay, all right, I think you're great, I think you're sweet, and you're smart, and I love you. But you will always be the guy who peed on me.","Ok, ich finde dich toll, du bist süß und klug, und ich liebe dich. Aber du wirst immer der Typ sein, der mich angepinkelt hat.",Monica Geller,29,powerful
+61,Gin.,Gin.,Monica Geller,1,joyful
+61,"We were playing Gin? Y'know if we were a couple, we could play this game naked.","Wir haben Gin gespielt? Weißt du, wenn wir ein Paar wären, könnten wir das Spiel nackt spielen.",Chandler Bing,16,joyful
+61,Will you stop!,Hörst du jetzt auf?,Monica Geller,3,scared
+61,Okay. All right.,Also gut. Ist ja gut.,Chandler Bing,3,neutral
+61,"Okay, all right, I think you're great, I think you're sweet, and you're smart, and I love you. But you will always be the guy who peed on me.","Ok, ich finde dich toll, du bist süß und klug, und ich liebe dich. Aber du wirst immer der Typ sein, der mich angepinkelt hat.",Monica Geller,29,peaceful
+62,"So, thank you for the delicious dinner.","Also, danke für das köstliche Abendessen.",Cheryl,7,joyful
+62,You're welcome for a delicious dinner.,"Gern geschehen, für das köstliche Abendessen.",Ross Geller,6,powerful
+62,Hey what are you guys looking at?,"Hey, was guckt ihr denn so?",Phoebe Buffay,7,neutral
+62,Ross and the most beautiful girl in the world.,Ross und das schönste Mädchen der Welt.,Chandler Bing,9,scared
+62,"Yeah, come to papa.","Ja, komm zu Papa.",Phoebe Buffay,4,joyful
+62,I know!,"Ja, ich weiß!",Ross Geller,2,powerful
+62,"Probably the only time I'll ever say this, but did you see the ass on her?","Wahrscheinlich ist es das einzige Mal, dass ich das sage, aber habt ihr ihren Arsch gesehen?",Monica Geller,16,peaceful
+62,"Where did you, when did you, how did you... How did you get a girl like that?","Wo hast du, wann hast du, wie hast du ... Wie hast du so ein Mädchen bekommen?",Chandler Bing,17,joyful
+62,"Yeah, so what is she, like a... like a spokesmodel, or an aerobics instructor, what?","Ja, also was ist sie, so was wie ein... wie ein Werbemodel, oder eine Aerobic-Trainerin, was?",Rachel Green,15,joyful
+62,"Actually she's a paleontology doctoral candidate, specializing in the centazoic era.","Eigentlich ist sie eine Doktorandin der Paläontologie, spezialisiert auf das Zentazoikum.",Ross Geller,11,powerful
+62,"Okay, but that's, like, the easiest era.","Okay, aber das ist, wie, die einfachste Zeit.",Chandler Bing,7,powerful
+62,"I've seen her at work, but I always figured, ah-huh? But, uh, I made her dinner. We had a great time. And we're going out again tomorrow.","Ich habe sie bei der Arbeit zu sehen, aber ich dachte immer, ah-huh? Aber, äh, ich habe ihr Abendessen gemacht. Wir hatten eine tolle Zeit. Und wir gehen morgen wieder aus.",Ross Geller,27,powerful
+62,Well maybe she and her friends are just having a contest to see who can bring home the biggest geek.,"Vielleicht veranstalten sie und ihre Freunde einen Wettbewerb, wer den größten Freak mit nach Hause bringen kann.",Rachel Green,20,peaceful
+62,Fine by me; hope she wins.,"Von mir aus; ich hoffe, sie gewinnt.",Ross Geller,6,joyful
+63,Huh...,Huh...,Ross Geller,1,joyful
+63,"Um, would you like to come in?",Willst du mit reinkommen?,Cheryl,7,peaceful
+63,Did homo-erectus hunt with wooden tools?,Hat der Homoerectus mit Holzwerkzeugen gejagt?,Ross Geller,6,joyful
+63,According to recent findings!,Nach neuesten Erkenntnissen!,Cheryl,4,neutral
+63,Here Mitzi! Here Mitzi!,"Hier, Mitzi! Hier Mitzi!",Cheryl,4,scared
+63,Mitzi is.....,Mitzi ist.....,Ross Geller,2,scared
+63,"My hamster. I hope she's okay, I haven't seen her in a while. Have a seat.","Mein Hamster. Ich hoffe, es geht ihr gut, ich habe sie schon eine Weile nicht mehr gesehen. Setz dich doch.",Cheryl,16,peaceful
+63,"Uh... Oh hey, do you, uh ...do you have any, um, Cinnamon Fruit Toasties?","Äh... Oh, hey, haben Sie, ähm... haben Sie Zimt-Frucht-Toasties?",Ross Geller,14,scared
+63,What?,Ja. Was?,Cheryl,1,scared
+63,"Well, I do! Why don't we go back to my place, light a couple of candles, break open a box of Cinnamon Fruit Toasties, uh...","Nun, ich habe welche! Warum gehen wir nicht zu mir, zünden ein paar Kerzen an, öffnen eine Schachtel Zimt-Frucht-Toasties...",Ross Geller,25,scared
+63,I'd rather not.,Ich würde lieber nicht.,Cheryl,3,peaceful
+63,"Oh, yeah, why not?","Oh, ja, warum nicht?",Ross Geller,4,scared
+63,"Okay, um, don't take this the wrong way, but your place kinda has a weird smell.","Okay, ähm, versteh das nicht falsch, aber deine Wohnung riecht irgendwie komisch.",Cheryl,16,neutral
+64,"Oh, is everything in the car?","Oh, ist alles im Auto?",Monica Geller,6,neutral
+64,Yes. Did you settle the bill?,Ja. Hast du die Rechnung beglichen?,Phoebe Buffay,6,neutral
+64,No. I hate this part.,Nein. Ich hasse diesen Teil.,Monica Geller,5,powerful
+64,"Oh, look what we almost left.","Oh, sieh mal, was wir fast vergessen hätten.",Phoebe Buffay,6,peaceful
+64,"No, that's not mine.","Nein, das ist nicht meins.",Monica Geller,4,neutral
+64,"Oh, all right. Oh! Look what we almost took!","Oh, na gut. Oh! Schauen Sie, was wir fast genommen!",Phoebe Buffay,9,joyful
+64,"Excuse me, Mrs. Burkart? Well, we're all cleaned up in the kitchen.","Entschuldigen Sie, Mrs. Burkart? Nun, wir sind alle in der Küche aufgeräumt.",Monica Geller,12,mad
+64,"Oh, good. Thank you.","Oh, gut. Oh, gut. Danke.",Mrs. Burkart,4,joyful
+64,"Um, and, well there's the.. the the small matter of...","Ähm, und, na ja, da ist noch die... die Kleinigkeit von...",Monica Geller,10,neutral
+64,Dear?,Schatz?,Mrs. Burkart,1,joyful
+64,Just the matter of ...payment?,Nur die Sache mit der... Bezahlung?,Monica Geller,5,neutral
+64,Jack used to handle the finances!,Jack hat sich um die Finanzen gekümmert!,Mrs. Burkart,6,sad
+65,"But Mon, you have to get our money!","Aber Monica, du musst unser Geld besorgen!",Phoebe Buffay,8,neutral
+65,"Oh, Phoebe, she couldn't stop crying! With those thick glasses, her tears looked giant.","Oh, Phoebe, sie konnte nicht aufhören zu weinen! Mit diesen dicken Brillengläsern, sahen ihre Tränen riesig aus.",Monica Geller,14,sad
+65,"I know, it's tough. You know what the first thing I did after my mother's funeral was?","Ich weiß, es ist hart. Weißt du, was das Erste war, was ich nach der Beerdigung meiner Mutter getan habe?",Phoebe Buffay,17,peaceful
+65,What?,Was denn?,Monica Geller,1,neutral
+65,"Pay the caterer! Look, I've had a lot of jobs, okay, and there are some people who just always try to get out of paying. It's either, you know, ""that massage wasn't long enough, or, ""I don't recognize any of those songs,"" or, you know, ""these sombreros aren't big enough. Bad little white girl!""","Den Caterer bezahlen! Ich hatte schon viele Jobs, und es gibt Leute, die immer versuchen, sich vor der Bezahlung zu drücken. Entweder heißt es: ""Die Massage war nicht lang genug"", oder: ""Ich kenne diese Lieder nicht"", oder: ""Die Sombreros sind nicht groß genug. Böses kleines weißes Mädchen!""",Phoebe Buffay,54,peaceful
+65,Okay. So what do you.... you think she's faking?,Okay. Also was denkst du.... sie vortäuscht?,Monica Geller,9,sad
+65,"Well, it seems like there weren't any tears 'til you showed her the bill.","Nun, es scheint, als hätte sie nicht geweint, bis du ihr die Rechnung gezeigt hast.",Phoebe Buffay,14,peaceful
+65,"Phoebe, she sounded pretty upset to me.","Phoebe, für mich klang sie ziemlich aufgebracht.",Monica Geller,7,sad
+65,"You're a grand ol' flag, you're a high-flying flag, and forever in peace may you wave....","Du bist eine große alte Fahne, du bist eine hochfliegende Fahne, und für immer in Frieden mögest du winken....",Mrs. Burkart,16,joyful
+65,She seems fine now.,Jetzt scheint es ihr gut zu gehen.,Phoebe Buffay,4,peaceful
+65,...emblem of the land I love. The home of....,"...Emblem des Landes, das ich liebe. Die Heimat von....",Mrs. Burkart,9,joyful
+66,"So, you just left? Her place was really that bad?",Also bist du einfach gegangen? War ihre Wohnung wirklich so schlimm?,Joey Tribbiani,10,powerful
+66,You know how you throw your jacket on a chair at the end of the day?,"Weißt du, wie du deine Jacke am Ende des Tages auf einen Stuhl wirfst?",Ross Geller,16,powerful
+66,Yeah.,"Ja, genau so.",Joey Tribbiani,1,neutral
+66,"Well, like that, only instead of a chair, it's a pile of garbage. And instead of a jacket, it's a pile of garbage. And instead of the end of the day, it's the end of time, and garbage is all that has survived! Here.","Nun, so wie das, nur dass es statt eines Stuhls ein Haufen Müll ist. Und anstelle einer Jacke ist es ein Haufen Müll. Und anstelle des Endes des Tages ist es das Ende der Zeit, und der Müll ist alles, was überlebt hat! Hier.",Ross Geller,44,powerful
+66,"Wow. Thanks. So, uh, what happened?","Wow! Ich danke dir. Also, äh, was ist passiert?",Joey Tribbiani,6,joyful
+66,What do you mean? Nothing happened! I had to get out of there.,"Was meinst du, was passiert ist? Nichts ist passiert! Ich musste da raus.",Ross Geller,13,scared
+66,"All right, so... next time, you take her to your place.","Alles klar, also... das nächste Mal, nimmst du sie mit zu dir.",Joey Tribbiani,11,scared
+66,"No, I tried that. She says it has a weird smell.","Nein, das habe ich versucht. Sie sagt, es riecht komisch.",Ross Geller,11,powerful
+66,What kind of smell?,Was für einen Geruch?,Joey Tribbiani,4,powerful
+66,I don't know. Soap?,Ich weiß es nicht. Es riecht nach Seife?,Ross Geller,4,scared
+66,"All right, listen, Ross... you like this girl, right?","Alles klar, hören Sie, Ross ... Sie mögen dieses Mädchen, oder?",Joey Tribbiani,9,scared
+66,Yeah.,(Ross) Ja.,Ross Geller,1,peaceful
+66,"You wanna see her again, right?","Du willst sie doch wieder sehen, oder?",Joey Tribbiani,6,sad
+66,Yeah.,"Ja, ja.",Ross Geller,1,peaceful
+66,So you're gonna have to do it in the mess!,"So sind Sie gonna haben, um es in der Messe zu tun!",Joey Tribbiani,10,powerful
+66,"Yeah, okay you're right.","Ja, okay, du hast Recht.",Ross Geller,4,joyful
+66,Yeah.,Du hast recht. Ja.,Joey Tribbiani,1,neutral
+66,"I mean, uh, who... who cares about a little sloppiness?","Ich meine, äh, wen stört schon eine kleine Schlamperei?",Ross Geller,10,sad
+66,Yeah!,"Ja, das ist...",Joey Tribbiani,1,peaceful
+66,"It's, uh... it's endearing, really.","Es ist, äh... es ist liebenswert, wirklich.",Ross Geller,5,peaceful
+66,All right! Now you go get that beautiful pig! Oink!,Das war's! Jetzt holst du dir das schöne Schwein! Oink!,Joey Tribbiani,10,peaceful
+67,"Okay, all right. I just spent the entire afternoon looking for a present for Kathy that would be better than the rabbit.","Ok, ist ja gut. Ich habe den ganzen Nachmittag damit verbracht, ein Geschenk für Kathy zu finden, das besser ist als das Kaninchen.",Chandler Bing,22,peaceful
+67,Any luck?,Hattest du Glück?,Rachel Green,2,joyful
+67,"Oh, yeah. Yeah, I found this great place called ""Invisible things for Kathy."" Can you give me a hand with all this stuff?","Oh, ja, ja. Ja, ich fand diesen tollen Ort namens ""Unsichtbare Dinge für Kathy."" Kannst du mir mit dem ganzen Zeug helfen?",Chandler Bing,23,powerful
+67,"All right, look. Why don't you just return the book, let Joey give her the clock pen, and you give her something worse than that. Like... a regular pen.","Na gut, hör zu. Warum gehst du nicht einfach zurück das Buch, lassen Joey geben ihr die Uhr Stift, und Sie geben ihr etwas schlechter als das. Wie ... einen normalen Stift.",Rachel Green,29,powerful
+67,"She's really going to love this, you know? The bottom line is I want her to have it, even if I don't get to be the one who gives it to her.","Sie wird das wirklich lieben, weißt du? Ich will, dass sie ihn bekommt, auch wenn ich ihn ihr nicht schenken kann.",Chandler Bing,32,powerful
+67,"Aw, honey, that's so sweet.","Oh, Schatz, das ist so süß.",Rachel Green,5,joyful
+67,Yeah? You don't think it's just pathetic?,Das ist so süß. - Ja? Findest du es nicht einfach nur erbärmlich?,Chandler Bing,7,peaceful
+67,Oh! Pathetic!,Oh! Erbärmlich!,Rachel Green,2,powerful
+67,Hey! I'm meeting Kathy in ten minutes! I've been looking all over for you!,Hey! Ich treffe Kathy in zehn Minuten! Ich habe dich schon überall gesucht!,Joey Tribbiani,14,powerful
+67,Where?,Und wo?,Chandler Bing,1,powerful
+67,"Our place, the hall! I...","In unserer Wohnung, im Flur! I...",Joey Tribbiani,5,joyful
+67,I got something for her. It's a book!,Ich habe etwas für sie. Es ist ein Buch!,Chandler Bing,8,joyful
+67,A book? Is it like a book that's also a safe?,"Ein Buch? Ist es ein Buch, das auch ein Safe ist?",Joey Tribbiani,11,neutral
+67,"No, it's a book that's just a book, okay? It's an early edition of the Velveteen Rabbit. It was her favorite book as a kid. So, uh, just... let me know if she likes it, okay?","Nein, es ist ein Buch, das nur ein Buch ist, okay? Es ist eine frühe Ausgabe der Velveteen Rabbit. Es war ihr Lieblingsbuch, als sie ein Kind war. So, äh, nur ... lassen Sie mich wissen, wenn sie es mag, okay?",Chandler Bing,36,neutral
+67,"You got it. Thanks man. Thanks for doing this, I owe you one. Oh, hey! There wasn't any change from that twenty, was there?","Du bekommst es. Danke, Mann. Danke, dass du das machst, ich schulde dir was. Oh, hey! Es gab kein Wechselgeld von den Zwanzigern, oder?",Joey Tribbiani,24,powerful
+67,"No, it came out to an even twenty.","Nein, es sind glatte 20 geworden.",Chandler Bing,8,neutral
+67,Wow. That's almost as much as a new book.,Das ist fast so viel wie ein neuer Das ist fast so viel wie ein neues Buch.,Joey Tribbiani,9,scared
+68,"Jeepers, creepers, where'd you get those peepers? Jeepers, creepers, where'd you get those eyes?","Guck mal, Gänsehaut, wo hast du die Gucker her? Meine Güte, woher hast du denn diese Augen?",Mrs. Burkart,14,joyful
+68,"You didn't get the money, did you?","Du hast das Geld nicht bekommen, oder?",Phoebe Buffay,7,powerful
+68,"Maybe I can try at intermission? Phoebe, come on... you know what? Let's just go!","Vielleicht kann ich es in der Pause versuchen? Phoebe, komm schon... weißt du was? Lass uns einfach gehen!",Monica Geller,15,joyful
+68,"No! Hey, we're not leaving until we get paid! I don't know who she thinks she is! Enough is enough! Hey, widow?","Nein! Hey, wir gehen nicht, bis wir bezahlt werden! Ich weiß nicht, was sie denkt, wer sie ist! Genug ist genug! Hey, Witwe?",Phoebe Buffay,22,powerful
+68,Come on along and listen to...,Kommen Sie mit und hören Sie zu...,Mrs. Burkart,6,scared
+68,"Okay, Widow!","Okay, Witwe!",Phoebe Buffay,2,scared
+68,...the lullabye of...,...das Wiegenlied von...,Mrs. Burkart,3,sad
+68,"Excuse me. Excuse me! Thanks. Um, clearly this is a very, very hard time for you. Um, but, um, we provided a service, and we deserve to be paid because you ate that service, and, um, we are not leaving here until we're paid every penny. 'Cause you know what, lady? We're part time caterers, and we have no place else to go.","Verzeihen Sie, bitte. Verzeihung, bitte! Ich danke Ihnen. Ähm, das ist eindeutig eine sehr, sehr schwere Zeit für Sie. Aber wir haben eine Dienstleistung erbracht, die wir verdienen, weil Sie sie gegessen haben. Und wir gehen nicht, bevor wir nicht jeden Penny bekommen haben. Denn wissen Sie was, Lady? Wir sind Teilzeit-Caterer und wir können nirgendwo anders hin.",Phoebe Buffay,63,scared
+68,All right. I'll get my bag.,Also gut. Ich hole meine Tasche. Ich werde meine Tasche holen.,Mrs. Burkart,6,mad
+68,Good.,Ich hole meine Tasche. Gut.,Phoebe Buffay,1,joyful
+68,I'm gonna leave some cards here. Please think of us for you next event.,Ich werde ein paar Karten hier lassen. Bitte denken Sie bei Ihrem nächsten Event an uns.,Monica Geller,14,peaceful
+69,So you want to come inside?,Willst du mit reinkommen?,Cheryl,6,neutral
+69,Yes. Yes I do.,"Ja. Ja, will ich.",Ross Geller,4,scared
+69,I'll be right back. Make yourself comfortable.,Ich bin gleich wieder da. Machen Sie es sich bequem.,Cheryl,7,neutral
+69,Guess who?,"Raten Sie mal, wer?",Cheryl,2,joyful
+69,Department of Sanitation?,Das Gesundheitsamt?,Ross Geller,3,joyful
+69,It's me!,"Ja, ich bin's.",Cheryl,2,joyful
+69,Oh! Ah. Aw!,Oh! Ah. Ah!,Ross Geller,3,joyful
+69,What?,(Cheryl) Was?,Cheryl,1,neutral
+69,"Ah, Cheryl!","Ah, Cheryl!",Ross Geller,2,scared
+69,"Oh, Ross!","Oh, Ross!",Cheryl,2,joyful
+69,Wait! No! No! It's my hamster! It's Mitzi!,Warte! Nein! Nein! Das ist mein Hamster! Es ist Mitzi!,Cheryl,8,scared
+69,"Oh my god! I'm so sorry, Cheryl. I must have freaked out.","Oh, mein Gott! Es tut mir so leid, Cheryl. Ich muss ausgeflippt haben.",Ross Geller,12,scared
+69,"Oh, thank god, it's not Mitzi. It's just a rat.","Oh, Gott sei Dank, es ist nicht Mitzi. Es ist nur eine Ratte.",Cheryl,10,peaceful
+70,I did it! Oh! I finished it! I did it all by myself! And there's nobody to hug!,Ich habe es geschafft! Oh! Ich habe es beendet! Ich habe es ganz alleine geschafft! Und es gibt niemanden zum Umarmen!,Rachel Green,18,joyful
+70,Move!,Weg da!,Gunther,1,powerful
+70,"Hey! Hey, you guys, I finished the crossword all by myself! Hug me!","Hey! Hey, Leute, ich habe das Kreuzworträtsel ganz alleine gelöst! Umarmt mich!",Rachel Green,13,joyful
+70,Uh... yay!,Uh... juhu!,Phoebe Buffay,2,joyful
+70,Thanks!,"Oh, danke!",Rachel Green,1,joyful
+70,"Oh, that's great! Congratulations!","Oh, das ist großartig! Ich gratuliere euch!",Monica Geller,4,joyful
+70,"Thank you! Hey, how'd the catering go?","Vielen Dank. Danke. Hey, wie ist das Catering gelaufen?",Rachel Green,7,joyful
+70,"Oh, it was great! The widow wouldn't pay, so Phoebe yelled at her 'til she did.","Oh, es war großartig! Die Witwe wollte nicht zahlen, also schrie Phoebe sie an, bis sie es tat.",Monica Geller,16,joyful
+70,Yeah. I'm a hard ass.,Ja. Ich bin ein harter Hund.,Phoebe Buffay,5,mad
+70,And I'm a wuss. And we should be partners.,Und ich bin ein Weichei. Und wir sollten Partner sein.,Monica Geller,9,mad
+70,Yeah. Hard Ass and Wuss. We could fight crime!,Ja. Harter Arsch und Weichei. Wir könnten Verbrechen bekämpfen!,Phoebe Buffay,9,joyful
+70,"Wait a minute, Phoebe! We should be partners. We should be catering partners. I mean, think about it! You're not working right now, and we have such a great time together!","Warten Sie eine Minute, Phoebe! Wir sollten Partner sein. Wir sollten Catering-Partner sein. Ich meine, denken Sie darüber nach! Sie sind nicht gerade arbeiten, und wir haben so eine tolle Zeit zusammen!",Monica Geller,31,joyful
+70,Okay!,Okay! Ich kann kochen und,Phoebe Buffay,1,joyful
+70,I can cook and you can take care of the money.,Ich kann kochen und du kannst dich um das Geld kümmern.,Monica Geller,11,joyful
+70,Yeah. Oh! It'll be like I have a wife in the fifties!,"Ja, klar. Oh! Es wird so sein, als hätte ich eine Frau in den Fünfzigern!",Phoebe Buffay,12,joyful
+70,Aah!,Aah!,Both,1,joyful
+71,Hey!,(MIT NORMALER STIMME) Hey!,Ross Geller,1,joyful
+71,Hey!,"Hey! Tut mir leid, dass ich zu spät bin.",Chandler Bing,1,joyful
+71,"I'm sorry I'm late, did I miss anything?","Tut mir leid, dass ich zu spät bin, habe ich was verpasst?",Ross Geller,8,neutral
+71,Joey stuffing 15 Oreos in his mouth.,Joey stopft sich 15 Kekse in den Mund.,Phoebe Buffay,7,joyful
+71,15? Your personal best!,15? Ihre persönliche Bestleistung!,Ross Geller,4,peaceful
+71,Where were you?,Wo warst du denn?,Phoebe Buffay,3,powerful
+71,"Oh, on a date. Yeah, I met this girl on the train going to a museum upstate.","Oh, auf ein Datum. Ja, ich traf dieses Mädchen auf den Zug gehen zu einem Museum im Hinterland.",Ross Geller,17,peaceful
+71,"Oh, yeah! How did you meet her?","Oh, ja, genau! Wie hast du sie kennengelernt?",Chandler Bing,7,peaceful
+71,"Oh, which museum?","Oh, welches Museum?",Phoebe Buffay,3,powerful
+71,"No, answer his.","Nein, antworte ihm.",Phoebe Buffay,3,peaceful
+71,"Okay, it was just me and her at the back of the train, and I sat near the door, so she'd have to pass by me if she wanted to switch cars. She was totally at my mercy.","Okay, es war nur ich und sie am Ende des Zuges, und ich saß in der Nähe der Tür, so dass sie an mir vorbeigehen musste, wenn sie den Wagen wechseln wollte. Sie war mir völlig ausgeliefert.",Ross Geller,38,joyful
+71,Were you so late because you were burring this woman?,"Warst du so spät dran, weil du diese Frau begraben musstest?",Chandler Bing,10,neutral
+71,"No, I'm getting back down 'cause she lives in Poughkeepsie. She seems really great, but she's like totally great, but she lives two and a half hours away.","Nein, ich komme wieder runter, weil sie in Poughkeepsie wohnt. Sie scheint wirklich toll zu sein, aber sie wohnt zweieinhalb Stunden entfernt.",Ross Geller,28,peaceful
+71,How can she be great if she's from Poughkeepsie? That joke would've killed in Albany.,"Wie kann sie toll sein, wenn sie aus Poughkeepsie ist? Dieser Witz wäre in Albany ein Hit gewesen.",Chandler Bing,15,peaceful
+71,"Done! I did it! Heh, who's stupid now?",Erledigt! Ich habe es geschafft! Wer ist jetzt der Dumme?,Joey Tribbiani,8,powerful
+72,"I say, Drew! Are you seeing anybody right now? Og-ee-op, I'm not asking for me, I'm... I mean... No, I'm-I'm not gay, I'm not asking you out. I'm not-I'm not-I'm not gay!","Ich sage, Drew! Bist du gerade mit jemandem zusammen? Og-ee-op, ich frage nicht nach mir, ich bin... Ich meine... Nein, ich bin nicht schwul, ich bitte dich nicht um ein Date. Ich bin nicht... Ich bin nicht... Ich bin nicht schwul!",Chandler Bing,32,scared
+72,I didn't think you were gay. I do now.,"Ich habe nicht gedacht, dass du schwul bist. Jetzt tue ich es.",Drew,9,peaceful
+72,"See my friend-my friend, Rachel, she wants to be set up.","Meine Freundin, Rachel, will verkuppelt werden.",Chandler Bing,11,scared
+72,"Ahh, I just got out of a big relationship, I'm not looking for any thing serious.","Ahh, ich habe gerade eine große Beziehung hinter mir, ich bin nicht auf der Suche nach etwas Ernstem.",Drew,16,scared
+72,"Oh, y'know what, that might be okay even if it was just kind of a fling, that might be all right with Rachel.","Oh, weißt du was, das könnte okay sein, auch wenn es nur eine Art von Affäre war, das könnte für Rachel in Ordnung sein.",Chandler Bing,23,neutral
+72,"Whoa-whoa-whoa-whoa! Is this, hot Rachel, that you took to the Christmas party, Rachel?","Ist das die heiße Rachel, mit der du auf der Weihnachtsfeier warst?",Mike,13,joyful
+72,"Oh, by the way, that is her full name.","Oh, übrigens, das ist ihr voller Name.",Chandler Bing,9,neutral
+72,Oh wow! I'm free for her!,"Oh, wow! Ich bin frei für sie!",Mike,6,joyful
+72,"Oh, wait a second! I didn't say I wasn't free!","Oh, warte eine Sekunde! Ich habe nicht gesagt, ich war nicht frei!",Drew,10,neutral
+72,"Hey, Chandler, why don't we talk this over at the Ranger game tomorrow?","Hey, Chandler, wieso besprechen wir das nicht morgen beim Ranger-Spiel?",Mike,13,neutral
+72,"Hold on, y'know I just got a box of Cubans, maybe I bring them by your office around uh, five?",Ich habe eine Schachtel kubanische Zigaretten. Vielleicht bringe ich sie dir um fünf vorbei.,Drew,20,powerful
+72,"Oh well, that's uh, a little later than I uh, generally care to stay, but sure!","Das ist ein bisschen später, als ich normalerweise bleiben möchte, aber sicher!",Chandler Bing,16,joyful
+72,"Maybe, before the game we could enjoy some eight year old some small batch Basel Hadens.",Vielleicht können wir vor dem Spiel noch ein paar acht Jahre alte Basler Hadens genießen.,Mike,16,joyful
+72,"Well, I don't really know what that is, but let's!!","Nun, ich weiß nicht wirklich, was das ist, aber lass uns!!",Chandler Bing,10,joyful
+73,"Oh, wow! I should get going. I-I got a date tonight.","Oh, wow! Ich sollte jetzt gehen. Ich habe heute Abend ein Date.",Ross Geller,11,joyful
+73,Oh yeah! With who?,"Oh, ja! Mit wem? Mit wem denn?",Chandler Bing,4,scared
+73,You know that girl I told you about who lives up in Poughkeepsie?,"Du erinnerst dich an das Mädchen, von dem ich dir erzählt habe, das oben in Poughkeepsie lebt?",Ross Geller,13,peaceful
+73,Yeah.,"Ja, die.",Chandler Bing,1,powerful
+73,"Not her. Yeah, this is someone else I meet, and I-I can't decide between the two of them. Y'know the one from Poughkeepsie, even though she's a two hour train ride away, is really pretty, really smart, and-and a lot of fun. But this other girl, well, she lives right uptown. Y'know she's, well she's-she's just as pretty, I guess she's smart, she's not fun.","Nicht mit ihr. Ja, das ist jemand anderes, den ich getroffen habe, und ich kann mich nicht zwischen den beiden entscheiden. Die aus Poughkeepsie, obwohl sie zwei Stunden Zugfahrt entfernt ist, ist wirklich hübsch, wirklich klug, und - und eine Menge Spaß. Aber das andere Mädchen, nun ja, sie wohnt direkt im Norden der Stadt. Weißt du, sie ist, na ja, sie ist genauso hübsch, ich schätze, sie ist klug, aber sie ist nicht lustig.",Ross Geller,65,peaceful
+73,"If she's no fun, why do you want to date her at all?","Wenn sie keinen Spaß macht, warum willst du dann überhaupt mit ihr ausgehen?",Phoebe Buffay,13,joyful
+73,"Well, I-I want to give her another chance, y'know? She lives so close. And, at the end of the date, the other time, she-she said something that was-if she was kidding was very funny. On the other hand, if she wasn't kidding, she's not fun, she's stupid, and kind of a racist.","Nun, ich will ihr noch eine Chance geben, weißt du? Sie wohnt so nah. Und am Ende der Verabredung, das andere Mal, hat sie etwas gesagt, das, wenn sie einen Scherz gemacht hat, sehr lustig war. Andererseits, wenn sie keinen Scherz gemacht hat, ist sie nicht lustig, sie ist dumm und irgendwie eine Rassistin.",Ross Geller,52,peaceful
+73,Hey!,"Hey, hey!",Joey Tribbiani,1,joyful
+73,Hey!,He! He!,Ross Geller,1,joyful
+73,"Hey, man!","He, Mann!",Chandler Bing,2,peaceful
+73,"Hey! Ooh, how was your first day working at the restaurant?","Hey! Ooh, wie war dein erster Tag im Restaurant?",Phoebe Buffay,11,peaceful
+73,Damn!,"Oh, verdammt!",Joey Tribbiani,1,powerful
+74,Hey.,Hey! Hey!,Joey Tribbiani,1,neutral
+74,Hey.,"Hey, was ist mit deiner schicken",Monica Geller,1,neutral
+74,"Hey, what happened to your fancy chef's jacket?","Hey, was ist mit deiner schicken Kochjacke passiert?",Joey Tribbiani,8,neutral
+74,"They baked it. I can't take this anymore. I'm gonna call a meeting tonight, I'm gonna fire you tonight.",Sie haben sie gebacken. Ich kann das nicht mehr ertragen. Ich werde heute Abend ein Meeting einberufen. Ich werde dich heute Abend feuern.,Monica Geller,19,mad
+74,You got it! Oh-oh!,Du hast es geschafft! Oh-oh!,Joey Tribbiani,4,scared
+74,What are you doing?!,Was machst du denn da?!,Monica Geller,4,mad
+74,It's still a tiny bit on fire there.,Es brennt immer noch ein wenig.,Joey Tribbiani,8,scared
+74,Thanks. I think you got it!,"Das brennt noch ein bisschen. Danke. Ich glaube, du hast es geschafft!",Monica Geller,6,neutral
+75,Chandler!! You have the best taste in men!,Chandler!! Du hast den besten Geschmack bei Männern!,Rachel Green,8,joyful
+75,"Well, like father, like son.","Nun, wie der Vater, so der Sohn.",Chandler Bing,5,joyful
+75,Patrick and I had such a great time last night! I mean I think this could maybe turn into something serious.,"Patrick und ich hatte so eine tolle Zeit letzte Nacht! Ich meine, ich denke, das könnte vielleicht in etwas Ernstes verwandeln.",Rachel Green,21,joyful
+75,Really?! I-I thought you weren't looking for something serious? I thought you were looking for some kind of a fling.,"Ach, wirklich?! Ich dachte, du wärst nicht auf der Suche nach etwas Ernstem? Ich dachte, du wärst auf der Suche nach einer Art Affäre.",Chandler Bing,20,joyful
+75,"Well, y'know, possibly. You didn't tell him that, though? Right?","Nun, du weißt schon, möglicherweise. Das hast du ihm aber nicht gesagt, oder? Oder?",Rachel Green,10,scared
+75,"Ummmmmmmm, no.","Ummmmmmmm, nein.",Chandler Bing,2,scared
+75,You told this guy that I was looking for a fling?! You don't tell the guy that!,"Du hast diesem Kerl erzählt, dass ich auf der Suche nach einer Affäre bin?! Das hat man dem Kerl nicht gesagt!",Rachel Green,17,mad
+75,Why not?! I'd be thrilled if I heard that some hot girl was just looking to get-oh I see.,"Warum nicht?! Ich wäre begeistert, wenn ich hören würde, dass ein heißes Mädchen nur auf der Suche nach einer... oh, ich verstehe.",Chandler Bing,19,neutral
+75,"Oh, between you telling him that I wanted to have a fling and me putting out on the first date-oh, he's so gonna get the wrong idea.","Wenn du ihm sagst, dass ich eine Affäre will, und ich mich beim ersten Date oute, kommt er auf falsche Gedanken.",Rachel Green,27,mad
+76,"Hey, Joey, could you pass the cheese?","Hey, Joey, könntest du mir den Käse reichen?",Monica Geller,7,joyful
+76,"Yeah. Listen uh, I'd prefer it if you didn't call me Joey. Since I don't know anyone here, I thought it'd be cool to try out a cool work nickname.","Ja, klar. Hören Sie, äh, ich würde es vorziehen, wenn Sie mich nicht Joey nennen. Da ich hier niemanden kenne, dachte ich, es wäre cool, einen coolen Arbeits-Spitznamen auszuprobieren.",Joey Tribbiani,30,scared
+76,"Hey, dragon! Here's your tips from Monday and Tuesday.","Hey, Drache! Hier ist Ihre Tipps von Montag und Dienstag.",A Waiter,9,peaceful
+76,There's like-there's like 300 bucks in this one!,Da sind ungefähr 300 Mäuse drin!,Joey Tribbiani,8,joyful
+76,"Yeah, people get pretty generous around the holidays. And it never hurts to wear tight trousers.","Ja, die Leute werden an den Feiertagen ziemlich großzügig. Und es schadet nie, enge Hosen zu tragen.",The Waiter,16,scared
+76,"Okay. Could the waiters gather around to hear tonight's specials? Okay, first there is a Chilean Sea Bass prepared with a Mango relish on a bag-Why is nobody writing these down?","Und es schadet nie, enge Hosen zu tragen. Okay. Könnten sich die Kellner versammeln, um die heutigen Spezialitäten zu hören? Okay, zuerst gibt es einen chilenischen Seebarsch, zubereitet mit einem Mango-Relish auf einer Tüte - warum schreibt sich das niemand auf?",Monica Geller,31,mad
+76,Because we can remember them.,Weil wir sie uns merken können.,The Waiter,5,neutral
+76,Because your all gonna make up fake specials and make me cook them like you did the other night?,"Weil ihr alle gefälschte Spezialitäten erfinden und mich dazu bringen wollt, sie zu kochen, wie ihr es neulich Abend getan habt?",Monica Geller,19,mad
+76,"Well, sure, that too.","Na klar, das auch.",The Waiter,4,powerful
+76,"Okay, forget the specials for a minute. Umm, all right here's the thing, for the last two weeks I have umm, tried really hard to create a positive atmosphere...","Okay, vergesst die Spezialitäten für eine Minute. In den letzten zwei Wochen habe ich mich wirklich bemüht, eine positive Atmosphäre zu schaffen...",Monica Geller,29,peaceful
+76,Can't hear you!,Ich kann dich nicht hören!,The Waiter,3,powerful
+76,"A positive atmosphere! But I-I-I have had it up to here. From now on, it is gonna be my way, or the highway! All right? Does anybody have a problem with that?!! Hey new guy! I said, does anybody have a problem with that?!","Eine positive Atmosphäre! Aber ich habe es bis hierher geschafft. Von jetzt an geht es nach meiner Pfeife, oder nach der Autobahn! Ist das klar? Hat jemand ein Problem damit?! Hey Neuling! Ich sagte, hat jemand ein Problem damit?!",Monica Geller,44,mad
+76,No ma'am.,"Nein, Ma'am.",Joey Tribbiani,2,joyful
+76,"Hey! He has a name, it's Dragon. Do you wanna know your name? Check your hat. We did the hat right?","Hey! Er hat einen Namen, er heißt Dragon. Willst du deinen Namen wissen? Schau auf deinen Hut. Haben wir den Hut richtig gemacht?",The Waiter,21,neutral
+77,What the hell happened?!,Was zum Teufel ist passiert?!,Monica Geller,4,scared
+77,"I am so-so-so sorry. I was gonna do it! Really! But I was standing there with 327 dollars in one hand and 238 dollars in the other hand, and I was thinking, ""Wow! It's been a long time since I had... 327 + 238 dollars!""","Es tut mir so, so, so leid. Ich wollte es machen! Ich wollte es tun! Wirklich! Aber ich stand da mit 327 Dollar in der einen und 238 Dollar in der anderen Hand und dachte: ""Wow! Es ist schon lange her, dass ich... 327 + 238 Dollar!""",Joey Tribbiani,45,sad
+77,"Joey, we had a deal. That-that's why you're here! I've got to fire you!","Joey, wir hatten eine Abmachung. Das-das ist, warum Sie hier sind! Ich habe, um Sie zu feuern!",Monica Geller,14,mad
+77,"And I gotta pay rent! Look, how-how about this? You don't fire me, instead I stay here, I gain their trust, and they'll start listening to all the nice things I've been saying about you.","Und ich muss die Miete bezahlen! Schauen Sie, wie-wie wäre es damit? Du feuerst mich nicht, stattdessen bleibe ich hier, gewinne ihr Vertrauen und sie werden anfangen, all die netten Dinge zu hören, die ich über dich gesagt habe.",Joey Tribbiani,35,scared
+77,What kinda things have you been saying?,Was für Dinge hast du denn gesagt?,Monica Geller,7,neutral
+77,"Well nothing yet, they really hate you and I want to fit in.","Nun, noch nichts, sie hassen dich wirklich und ich will mich anpassen.",Joey Tribbiani,13,neutral
+78,"Happy, happy Chanukah, Chandler and Monica. Very merry...","Frohes, frohes Chanukka, Chandler und Monica. Sehr fröhlich...",Phoebe Buffay,8,joyful
+78,"Oh, y'know, y'know what Pheebs?","Oh, weißt du, weißt du was, Pheebs?",Chandler Bing,5,neutral
+78,What?,Ich bin kein Jude.,Phoebe Buffay,1,neutral
+78,"I'm not Jewish, so...","Ich bin nicht jüdisch, also...",Chandler Bing,4,neutral
+78,"So! Ross doesn't really decorate his tree with floss, but you don't hear him complaining do you? God!","Also! Ross schmückt seinen Baum zwar nicht mit Zahnseide, aber er beschwert sich auch nicht, oder? Oh Gott!",Phoebe Buffay,18,neutral
+78,Bad dream?,Hast du schlecht geträumt?,Chandler Bing,2,neutral
+78,I wasn't sleeping.,Ich habe nicht geschlafen.,Ross Geller,3,neutral
+78,"Oh yeah, then uh, what was Phoebe's song about?","Ach ja, und worum ging es in Phoebes Lied?",Chandler Bing,9,neutral
+78,"The one with the cat. I gotta go, I've got another date.","Das mit der Katze. Ich muss los, ich habe noch ein Date.",Ross Geller,12,neutral
+78,"So, did you pick one yet?","Und, hast du dir schon eins ausgesucht?",Phoebe Buffay,6,neutral
+78,"No, it turns out that the one from uptown was making a joke. But it was a different joke than I thought-it wasn't that funny. So I'm still torn.","Nein, es stellte sich heraus, dass derjenige aus der Stadt einen Witz gemacht hat. Aber es war ein anderer Witz, als ich dachte, er war nicht so lustig. Also bin ich immer noch hin- und hergerissen.",Ross Geller,29,neutral
+78,"Well look, you don't really like the one from uptown and you're too exhausted from dating the one up in Poughkeepsie, so I say you just end them both. Okay? You take a train up to Poughkeepsie and break up with her, and on your way back you break up with uptown. And then by the time you get home tonight, you're done!","Du magst die aus Uptown nicht und bist zu erschöpft von der aus Poughkeepsie, also beende sie beide. Okay? Du nimmst den Zug nach Poughkeepsie. Du nimmst den Zug nach Poughkeepsie und machst mit ihr Schluss, und auf dem Rückweg machst du mit Uptown Schluss. Und wenn du dann heute Abend nach Hause kommst, bist du fertig!",Phoebe Buffay,63,neutral
+78,"Y'know, you're right. Thank you.","Weißt du, du hast recht. Du hast Recht. Danke.",Ross Geller,5,neutral
+78,"Umm, well I had a similar problem when I lived in Prague.","Ich hatte ein ähnliches Problem, als ich in Prag lebte.",Phoebe Buffay,12,neutral
+78,Prague?,Prag?,Chandler Bing,1,neutral
+78,There's sooo much you don't know.,"Da gibt es so viel, was du nicht weißt.",Phoebe Buffay,6,neutral
+79,"Chandler! Patrick just uh, ended things with me. Did you or did you not tell him that I was looking for a serious relationship?","Chandler! Patrick hat gerade die Sache mit mir beendet. Haben Sie oder haben Sie ihm nicht sagen, dass ich war auf der Suche nach einer ernsthaften Beziehung?",Rachel Green,24,neutral
+79,I did! I absolutely did!,Ich habe! Das habe ich absolut!,Chandler Bing,5,scared
+79,You idiot!!,Du Idiot!,Rachel Green,2,mad
+79,"I'm sure you're right, but why?","Ich bin mir sicher, dass du recht hast, aber warum?",Chandler Bing,6,scared
+79,You don't tell a guy that you're looking for a serious relationship! You don't tell the guy that! Now you scared him away!,"Man sagt einem Kerl nicht, dass man nach einer ernsthaften Beziehung sucht! Das sagt man dem Kerl nicht! Jetzt hast du ihn verscheucht!",Rachel Green,23,mad
+79,"Oh, man. I'm sorry, I'm so-so sorry.","Oh, Mann. Es tut mir leid, es tut mir so--so leid.",Chandler Bing,7,sad
+79,"Y'know, you should never be allowed to talk to people!","Weißt du, es sollte dir nicht erlaubt sein, mit Leuten zu reden!",Rachel Green,10,mad
+79,I know! I know!,"Ich weiß, ich weiß! Ich weiß, ich weiß!",Chandler Bing,4,sad
+79,"Oh! See just I'm right back where I started! Aww, this sucks! Being alone, sucks!","Oh! Siehst du, ich bin wieder genau da, wo ich angefangen habe! Aww, das ist scheiße! Alleine zu sein, ist scheiße!",Rachel Green,15,mad
+79,"Well, y'know, you're-you're gonna meet somebody! You're a great catch! Y'know when I was telling all those guys about you, I didn't have to lie once.","Nun, weißt du, du... du wirst jemanden kennenlernen! Du bist ein toller Fang. Weißt du, als ich all den Jungs von dir erzählt habe, musste ich nicht einmal lügen.",Chandler Bing,26,powerful
+79,Really?,Ich musste kein einziges Mal lügen. Wirklich?,Rachel Green,1,joyful
+79,"Yeah! You graduated Magma Ku Laude, right?","Wirklich? Ja! Du hast deinen Abschluss mit ""Magma Ku Laude"" gemacht, richtig?",Chandler Bing,7,neutral
+79,No.,Nein.,Rachel Green,1,neutral
+79,"Oh, it doesn't matter. Hey, y'know what, I've got two tickets to tonight's Rangers game, you wanna come with me?","Oh, das ist nicht wichtig. Ich habe zwei Karten für das Rangers-Spiel heute Abend. Willst du mitkommen?",Chandler Bing,20,peaceful
+79,Cute guys in little shorts? Sure.,"Süße Jungs in kurzen Shorts? Ja, klar.",Rachel Green,6,joyful
+79,"Well, actually it's a hockey team, so it's angry Canadians with no teeth.","Nun, eigentlich ist es ein Hockeyteam, also sind es wütende Kanadier ohne Zähne.",Chandler Bing,13,joyful
+79,Well that sounds fun too.,Das klingt auch lustig.,Rachel Green,5,joyful
+79,Have you ever been with a woman?,Hattest du schon mal was mit einer Frau?,Chandler Bing,7,peaceful
+79,"What?! Chandler, what is the matter with you?!","Was?! Chandler, was ist los mit dir?!",Rachel Green,8,mad
+79,So there is no good time to ask that question.,"Es gibt also keinen guten Zeitpunkt, um diese Frage zu stellen.",Chandler Bing,10,scared
+80,I need more swordfish. Can you get me some more swordfish?,Ich brauche mehr Schwertfisch. Können Sie mir etwas mehr Schwertfisch?,Monica Geller,11,powerful
+80,I don't speak English.,Ich spreche kein Englisch.,Kitchen Worker,4,mad
+80,You did a minute ago!,Vor einer Minute haben Sie es getan!,Monica Geller,5,powerful
+80,"Well, I don't know what to tell ya!","Ich weiß nicht, was ich Ihnen sagen soll.",Kitchen Worker,8,mad
+80,Fine!,Na schön!,Monica Geller,1,mad
+80,"Okay! Very funny! Somebody let me out please?! Come on, I'm cold! And covered in marinara sauce! Come on! Let me out!","Gut! Sehr witzig! Kann mich bitte jemand rauslassen?! Komm schon, mir ist kalt! Und bedeckt mit Marinara-Sauce! Kommt schon, lasst mich raus! Lasst mich raus!",Monica Geller,22,mad
+80,"You found that handle, did ya?","Du hast den Griff gefunden, nicht wahr?",The Waiter,6,powerful
+80,That's not funny.,Das ist nicht lustig.,Monica Geller,3,mad
+80,Well that's not true.,"Nun, das ist nicht wahr.",The Waiter,4,powerful
+80,"I'm a good person. And I'm a good chef, and I don't deserve to have marinara sauce all over me! Y'know what, if you want me to quit this bad, then all you have to do is...","Ich bin ein guter Mensch. Und ich bin ein guter Koch, und ich verdiene es nicht, Marinara-Sauce auf mir zu haben! Wissen Sie was, wenn Sie wollen, dass ich so schlecht zu beenden, dann alles, was Sie tun müssen, ist ...",Monica Geller,37,scared
+80,Hey! Chef Geller! Y'know that little speech you made the other day? Well I got a problem with it!,"Hey! Chef Geller! Sie wissen, dass kleine Rede, die Sie den anderen Tag gemacht? Nun, ich habe ein Problem mit ihm!",Joey Tribbiani,19,powerful
+80,You do?,Sie haben?,Monica Geller,2,mad
+80,"You bet I do! I just ah, wasn't listening then, that's all.","Und ob ich das habe! Ich habe nur, ah, nicht zugehört, das ist alles.",Joey Tribbiani,12,powerful
+80,Well if you want a problem? I'll give you a problem!,"Nun, wenn du ein Problem haben willst? Ich werde dir ein Problem geben!",Monica Geller,11,powerful
+80,What are you gonna do? You're gonna fire me?,Was werden Sie tun? Willst du mich feuern?,Joey Tribbiani,9,scared
+80,You bet your ass I'm gonna fire you! Get out of my kitchen! Get out!! All right! Anybody else got a problem? How 'bout you Chuckles? You think this is funny now?,"Darauf kannst du deinen Arsch verwetten, dass ich dich feuern werde! Raus aus meiner Küche! Raus hier!! Ist ja gut! Hat sonst noch jemand ein Problem? Wie wär's mit dir, Chuckles? Glaubst du, das ist jetzt lustig?",Monica Geller,32,mad
+80,No.,Nein.,The Waiter,1,scared
+80,How about if I dance around all covered in sauce? Huh? You think it's funny now?,"Wie wär's, wenn ich mit Soße bedeckt herumtanze? Hm? Findest du das jetzt lustig?",Monica Geller,16,mad
+80,"No, it's really good.","Nein, es ist wirklich gut.",The Waiter,4,joyful
+80,"Good! Now, take those salads to table 4, And you! Get the swordfish! And you! Get a haircut!",Sehr gut! Und jetzt bringt die Salate zu Tisch 4. Und du! Nimm den Schwertfisch! Und du! Lassen Sie sich die Haare schneiden!,Monica Geller,18,powerful
+81,"Last stop, Montreal. This stop is Montreal.",Letzter Halt: Montreal. Diese Haltestelle ist Montreal.,The Conductor,7,neutral
+81,What?,Was? Ich habe mit mir gewettet.,Ross Geller,1,neutral
+81,"I made a bet with myself that you have beautiful eyes. Now that I see them, I win.","Ich habe mit mir selbst gewettet, dass du schöne Augen hast. Und jetzt, wo ich sie sehe, habe ich gewonnen.",Woman On Train,18,joyful
+81,What?,Wir sind an meiner Haltestelle.,Ross Geller,1,neutral
+81,We're at my stop. But would you like to have coffee?,Wir sind an meiner Haltestelle. Aber möchtest du einen Kaffee trinken?,Woman On Train,11,joyful
+81,Are we really in Montreal?!,Sind wir wirklich in Montreal?!,Ross Geller,5,joyful
+81,"Yes we are. So, coffee?","Ja, sind wir. Also, Kaffee?",Woman On Train,5,joyful
+81,"Coffee sounds great. Wait, so, so you live in Montreal?","Kaffee klingt gut. Warte, also, du lebst in Montreal?",Ross Geller,10,joyful
+81,"Oh, no. But it's just a two hour ferry ride to Nova Scotia.","Oh, nein. Aber es ist nur eine zweistündige Fahrt mit der Fähre nach Nova Scotia.",Woman On Train,13,neutral
+82,Well I guess I should've thought about my wife and kids before I talked back to chef Geller!,"Nun, ich denke, ich sollte über meine Frau und Kinder gedacht haben, bevor ich wieder zu sprechen Chef Geller!",Joey Tribbiani,18,neutral
+82,Thanks.,Dank.,Monica Geller,1,neutral
+82,Yep! Looks like it's gonna be a leeeeean Christmas at the Dragon house this year.,Yep! Sieht aus wie es ist gonna be a leeeeean Weihnachten im Haus der Drachen in diesem Jahr.,Joey Tribbiani,15,joyful
+82,Enough!,Genug!,Monica Geller,1,mad
+82,Lean-lean-lean!,Lean-lean-lean!,Joey Tribbiani,1,sad
+83,So what did he decide? Does your Uncle Nathan get an invite or not?,"Also, wie hat er sich entschieden? Bekommt dein Onkel Nathan eine Einladung oder nicht?",Emily Waltham,14,scared
+83,"Ohh, God, nobody likes him, and he's so cheap, he'd never fly to London in a million years. Yeah, invite him? Hey, did I do these neat enough?","Oh Gott, niemand mag ihn, und er ist so geizig, dass er niemals nach London fliegen würde. Ja, ihn einladen? Hey, habe ich die ordentlich genug gemacht?",Ross Geller,28,scared
+83,"Yeah, they're fine.","Ja, die sind gut.",Emily Waltham,3,joyful
+83,Yeah?,"Ja, die sind gut. Ja?",Ross Geller,1,peaceful
+83,"If anyone asks, we'll just say Ben addressed them. Oh! So you invited Rachel then?","Wenn jemand fragt, sagen wir einfach, dass Ben sie angesprochen hat. Oh! Du hast also Rachel eingeladen?",Emily Waltham,15,powerful
+83,Sure. Why not?,Klar. Warum nicht?,Ross Geller,3,peaceful
+83,Really?,"Ach, wirklich?",Emily Waltham,1,scared
+83,Yeah?,Wirklich? Ja.,Ross Geller,1,peaceful
+83,I don't think I'd be comfortable with any of my old lovers there.,"Ich glaube nicht, dass ich mich mit einem meiner alten Liebhaber dort wohl fühlen würde.",Emily Waltham,13,powerful
+83,"Wait-wait-wait, do you, do you think, maybe we shouldn't invite her?","Warte, warte, warte, denkst du, wir sollten sie vielleicht nicht einladen?",Ross Geller,11,peaceful
+83,"Oh, no-no, y'know I absolutely adore Rachel it's just that, well it might be a awkward for you. But it's absolutely your decision. More tea?","Oh, nein, nein, du weißt, dass ich Rachel absolut verehre, es ist nur so, dass, nun ja, es könnte für dich unangenehm sein. Aber es ist absolut deine Entscheidung. Noch Tee?",Emily Waltham,25,sad
+83,Yeah sure.,"Ja, klar.",Ross Geller,2,peaceful
+83,Earl Grey?,Earl Grey?,Emily Waltham,2,mad
+83,"Huh? Yeah, fine, invite whoever you want.","Hm? Ja, gut, lade ein, wen immer du willst.",Ross Geller,7,peaceful
+84,"I don't want to be single, okay? I just... I just- I just wanna be married again!","Ich will nicht allein sein, okay? Ich will nur... Ich will einfach nur wieder verheiratet sein!",Ross Geller,17,mad
+84,And I just want a million dollars!,Und ich will einfach nur eine Million Dollar!,Chandler Bing,7,peaceful
+84,Rachel?!,Rachel?!,Monica Geller,1,scared
+84,"Oh God Monica hi! I just went to your building and you weren't there and then this guy with a big hammer said you might be here and you are, you are!","Oh Gott, Monica, hi! Ich bin gerade zu deinem Gebäude gegangen und du warst nicht da und dann hat dieser Typ mit einem großen Hammer gesagt, dass du hier sein könntest und das bist du, das bist du!",Rachel Green,32,mad
+84,"Okay, everybody, this is Rachel, another Lincoln High survivor. This is everybody, this is Chandler, and Phoebe, and Joey, and- you remember my brother Ross?","Okay, alle, das ist Rachel, eine weitere Lincoln High Überlebende. Das sind Chandler und Phoebe und Joey und... Erinnerst du dich an meinen Bruder Ross?",Monica Geller,25,powerful
+84,"Hi, sure!","Hi, klar!",Rachel Green,2,peaceful
+84,Hi.,Hi.,Ross Geller,1,neutral
+85,"You know you probably didn't know this, but back in high school, I had a, um, major crush on you.","Du wusstest es wahrscheinlich nicht, aber in der Highschool war ich sehr in dich verknallt.",Ross Geller,20,peaceful
+85,I knew.,Das wusste ich.,Rachel Green,2,neutral
+85,You did! Oh.... I always figured you just thought I was Monica's geeky older brother.,"Das wusstest du! Oh.... Ich dachte immer, du denkst, ich wäre Monicas älterer Bruder.",Ross Geller,15,powerful
+85,I did.,Das habe ich.,Rachel Green,2,peaceful
+85,"Oh. Listen, do you think- and try not to let my intense vulnerability become any kind of a factor here-but do you think it would be okay if I asked you out? Sometime? Maybe?","Oh. Hör zu, denkst du - und versuch nicht, meine starke Verletzlichkeit zu einem Faktor werden zu lassen - aber denkst du, es wäre okay, wenn ich dich um ein Date bitten würde? Irgendwann mal? Irgendwann? Vielleicht?",Ross Geller,34,powerful
+85,"Yeah, maybe...","Ja, vielleicht...",Rachel Green,2,powerful
+85,"Okay... okay, maybe I will...","Okay... okay, vielleicht werde ich...",Ross Geller,5,powerful
+86,"See, I see.... big passion in your future.","Siehst du, ich sehe.... große Leidenschaft in deiner Zukunft.",Ross Geller,8,powerful
+86,Really?,Echt jetzt?,Rachel Green,1,neutral
+86,I do.,Ich tue.,Ross Geller,2,neutral
+86,"Oh Ross, you're so great.","Oh Ross, du bist so großartig.",Rachel Green,5,joyful
+86,It's never gonna happen.,Das wird nie passieren.,Joey Tribbiani,4,neutral
+87,"Hey, I have a question. Well, actually, it's not so much a question as.. more of a general wondering... ment.","Hey, ich habe eine Frage. Nun, eigentlich ist es nicht so sehr eine Frage als... mehr eine allgemeine Frage ... ment.",Ross Geller,20,neutral
+87,Okay.,"Ja, gut.",Rachel Green,1,neutral
+87,"Okay. Umm, for a while now, I've been wanting to, um....","Ja, okay. Umm, seit einer Weile möchte ich, um....",Ross Geller,11,neutral
+87,Ohhh!!!!,Ohhh!!!!,Rachel Green,1,scared
+87,"Yes, yes, that's right...","Ja, ja, das ist richtig...",Ross Geller,4,neutral
+87,"Oh, look at the little cat! Look at it!","Oh, schau dir die kleine Katze an! Sieh sie dir an!",Rachel Green,9,joyful
+87,What? Ow!,Was ist das? Aua!,Ross Geller,2,scared
+87,"I'm on top of the world, looking down on creation and the only explanation I can find...","Ich bin auf dem Gipfel der Welt, schaue auf die Schöpfung herab und die einzige Erklärung, die ich finde...",Joey Tribbiani,17,joyful
+88,"All right, listen, missy. If you want this cart, you're gonna have to take me with it!","Also gut, hör zu, Fräulein. Wenn du den Wagen willst, musst du mich mitnehmen!",Rachel Green,17,mad
+88,Yes! Did you see that?,Ja! Hast du das gesehen?,Rachel Green,5,joyful
+88,"You were incredible! Brand new woman, ladies and gentlemen.","Du warst unglaublich! Eine ganz neue Frau, meine Damen und Herren.",Ross Geller,9,joyful
+88,I could not have done this without you.,Ich hätte das nicht ohne dich machen können.,Rachel Green,8,powerful
+88,"Ok, um, uh, more clothes in the dryer? I'm fine, I'm fine.","Ok, ähm, ähm, mehr Wäsche in den Trockner? Mir geht's gut, mir geht's gut.",Ross Geller,12,peaceful
+89,You had no right to tell me you ever had feelings for me.,"Du hattest kein Recht, mir zu sagen, dass du jemals Gefühle für mich hattest.",Ross Geller,13,mad
+89,What?,"Du hattest kein Recht, mir zu sagen, dass du Gefühle für mich hast. - Was?",Rachel Green,1,sad
+89,I was doing great with Julie before I found out about you.,"Mir ging es gut mit Julie, bevor ich das mit dir herausfand.",Ross Geller,12,mad
+89,"Hey, I was doin' great before I found out about you. You think it's easy for me to see you with Julie?","Hey, mir ging es auch gut, bevor ich das mit dir herausfand. Glaubst du, es ist einfach für mich, dich mit Julie zu sehen?",Rachel Green,22,mad
+89,"The point is I... I don't need this right now, OK. It, it's too late, I'm with somebody else, I'm happy. This ship has sailed.","Der Punkt ist, ich... Ich brauche das jetzt nicht, OK. Es ist zu spät, ich bin mit jemand anderem zusammen, ich bin glücklich. Das Schiff ist abgefahren.",Ross Geller,25,mad
+89,"Alright, fine, you go ahead and you do that, alright Ross.","In Ordnung, gut, mach weiter und mach das, in Ordnung Ross.",Rachel Green,11,mad
+89,Fine.,Na schön.,Ross Geller,1,mad
+89,'Cause I don't need your stupid ship.,Denn ich brauche dein blödes Schiff nicht.,Rachel Green,7,mad
+89,Good.,Das ist gut.,Ross Geller,1,mad
+89,Good.,"Ja, gut.",Rachel Green,1,mad
+90,Ross do you realise this is the first time in my life I'm doing something I actually care about. This is the first time in my life I'm doing something that I'm actually good at. I mean. if you don't get that...,"Ross, ist dir klar, dass ich zum ersten Mal in meinem Leben etwas tue, das mir wirklich etwas bedeutet? Das ist das erste Mal in meinem Leben, dass ich etwas tue, in dem ich wirklich gut bin. Ich meine, wenn du das nicht verstehst...",Rachel Green,42,powerful
+90,"No, hey, I get that, okay, I get that big time. And I'm happy for ya, but I'm tired of having a relationship with your answering machine! Okay, I don't know what to do anymore.","Nein, hey, ich verstehe das, okay, ich verstehe das sehr gut. Und ich freue mich für dich, aber ich bin es leid, eine Beziehung mit deinem Anrufbeantworter zu haben! Okay, ich weiß nicht mehr, was ich tun soll.",Ross Geller,35,sad
+90,Well neither do I!,"Nun, ich auch nicht!",Rachel Green,4,peaceful
+90,Is this about Mark?,Geht es um Mark?,Ross Geller,4,scared
+90,Oh my God.,"Geht es um Mark? Oh, mein Gott.",Rachel Green,3,scared
+90,"Okay, it's not, it's not.","Okay, ist es nicht, ist es nicht.",Ross Geller,5,mad
+90,"Oh my God. I cannot keep having this same fight over and over again, Ross, no, you're, you're, you're making this too hard.","Oh, mein Gott. Ich kann diesen Ich kann nicht immer wieder den gleichen Streit haben, Ross, nein, du bist, du bist, du machst es zu schwer.",Rachel Green,23,powerful
+90,"Oh I'm, I'm making this too hard. Okay, what do you want me to do.","Oh, ich mach's mir zu schwer. Okay, was willst du, dass ich tun soll.",Ross Geller,15,peaceful
+90,"I don't know, I don't know. Urrrgh! Look, maybe we should take a break.","Ich weiß es nicht, ich weiß es nicht. Urrrgh! Schau, vielleicht sollten wir eine Pause machen.",Rachel Green,14,scared
+90,"Okay, okay, fine, you're right. Let's ah, let's take a break, let's cool off, okay, let's get some frozen yogart, or something..","Okay, okay, gut, du hast Recht. Machen wir eine Pause, kühlen wir uns ab, holen wir uns Frozen Yogart oder so...",Ross Geller,22,powerful
+90,No. A break from us.,Nein. Eine Pause von uns.,Rachel Green,5,sad
+91,Do I know why we're rushing?,"Weiß ich, warum wir es so eilig haben?",Chloe,6,scared
+91,"Yeah, y'know the ah, the girlfriend I told you about last night? Well it turns out she ah, she wants to get back together with me. Oh, I found it!!","Ja, die Freundin, von der ich dir gestern Abend erzählt habe. Nun, es hat sich herausgestellt, dass sie wieder mit mir zusammenkommen will. Oh, ich habe es gefunden!!",Ross Geller,30,peaceful
+91,That's so great for you guys!,"Das ist so toll für euch, Leute!",Chloe,6,joyful
+91,Yeah!,Das ist so toll für euch! Ja!,Ross Geller,1,scared
+91,"Good luck, with your girlfriend.","Viel Glück, mit deiner Freundin.",Chloe,5,joyful
+91,"Oh, thank you. Hey, hey. Rachel!!!!","Oh, danke schön. Hey, hey. Rachel!!!!",Ross Geller,6,scared
+91,"Hi. Ohhh, you got my message.","Hi. Ohhh, du hast meine Nachricht bekommen.",Rachel Green,6,joyful
+91,"Yeah, oh hey, you are right on time.","Ja, oh hey, du bist genau pünktlich.",Ross Geller,8,scared
+91,So what do you say? Can I be your girlfriend again?,Also was sagst du? Kann ich wieder deine Freundin sein?,Rachel Green,11,peaceful
+91,"Yes, you can, very much.","Ja, kannst du, sehr gerne.",Ross Geller,5,powerful
+91,Ahhhh!!,Ahhhh!!,Ross Geller,1,scared
+92,"Y'know what, I want you to leave! Get outta here!","Weißt du was, ich will, dass du gehst! Verschwinde von hier!",Rachel Green,10,mad
+92,No!!,Nein!!,Ross Geller,1,mad
+92,Just get out! Now!!,Geh einfach raus! Jetzt!!,Rachel Green,4,mad
+92,No!! No!! I wanna stay. I wanna talk about this.,Nein!! Nein!! Ich will bleiben. Ich will darüber reden.,Ross Geller,10,powerful
+92,Okay! All right! How was she?,Ich will darüber reden. Okay! Also gut! Wie war sie?,Rachel Green,6,neutral
+92,Uh-oh.,Oh-oh.,Chandler Bing,1,scared
+92,What?,Was ist?,Ross Geller,1,neutral
+92,Was she good?,War sie gut?,Rachel Green,3,neutral
+92,Don't answer that.,Antworte nicht darauf.,Joey Tribbiani,3,neutral
+92,"Come on Ross! You said you wanted to talk about it, let's talk about it!! How was she?","Komm schon, Ross! Du hast gesagt, du willst darüber reden, also lass uns darüber reden!! Wie war sie?",Rachel Green,18,mad
+92,She was...,Sie war...,Ross Geller,2,scared
+92,Awful! Horrible!,Schrecklich! Schrecklich!,Joey Tribbiani,2,mad
+92,She was not good. Not good.,Sie war nicht gut. Nicht gut.,Chandler Bing,6,neutral
+92,She was nothing compared to you.,Sie war nichts im Vergleich zu dir.,Joey Tribbiani,6,neutral
+92,"She, she was different.","Sie, sie war anders.",Ross Geller,4,peaceful
+92,Ewwwww!,Igittigitt!,Joey Tribbiani,1,neutral
+92,Uh-oh.,Oh-oh.,Chandler Bing,1,scared
+92,Good different?,Gut anders?,Rachel Green,2,neutral
+92,Nobody likes change.,Niemand mag Veränderungen.,Ross Geller,3,neutral
+92,"What? Okay, okay, okay, okay.","Wie bitte? Okay, okay, okay, okay.",Ross Geller,5,neutral
+93,You seem to really like her.,Du scheinst sie wirklich zu mögen.,Rachel Green,6,joyful
+93,"Yeah, I really do. Yeah, but what am I gonna do, I mean we-we both agreed that it was gonna be a two-week thing, y'know no commitment.","Ja, das tue ich wirklich. Ja, aber was soll ich tun, ich meine, wir beide haben vereinbart, dass es eine zweiwöchige Sache sein wird, weißt du, keine Verpflichtung.",Ross Geller,27,neutral
+93,"Ross, that girl just spent the entire evening talking to your friends, asking to hear stories about you, looking through Monica's photo albums, I mean you don't do that if you're just in it for two weeks.","Ross, das Mädchen hat den ganzen Abend mit deinen Freunden geredet, wollte Geschichten über dich hören, hat Monicas Fotoalben durchgeblättert.",Rachel Green,37,neutral
+93,You think?,Meinst du?,Ross Geller,2,neutral
+93,"Yeah, you got like 14 hours until she has to be at the airport, and you're sitting here in the hallway with a 28-year-old cheerleader with a fat lip.","Ja, du hast noch 14 Stunden, bis sie am Flughafen sein muss, und du sitzt hier im Flur mit einer 28-jährigen Cheerleaderin mit einer dicken Lippe.",Rachel Green,29,neutral
+93,"Hey, you're right.","Hey, du hast recht.",Ross Geller,3,joyful
+93,Yeah.,"Ja, du hast recht.",Rachel Green,1,joyful
+94,Who's this from?,Von wem ist das?,Rachel Green,3,neutral
+94,"Oh, that's Ross's.","Oh, das ist von Ross.",Chandler Bing,3,joyful
+94,Oh... Oh my God. He remembered.,"Oh... Oh, mein Gott. Er hat sich erinnert.",Rachel Green,6,powerful
+94,Remembered what?,Woran erinnert?,Phoebe Buffay,2,neutral
+94,"It was like months ago. We were walking by this antique store, and I saw this pin in the window, and I told him that it was just like one my grandmother had when I was a little girl. Oh! I can't believe he remembered!","Es ist schon Monate her. Wir gingen durch dieses Antiquitätengeschäft, und ich sah diese Pin in das Fenster, und ich sagte ihm, dass es genau wie eine, die meine Großmutter hatte, als ich ein kleines Mädchen war. Oh! Ich kann nicht glauben, dass er sich daran erinnert!",Rachel Green,45,joyful
+94,"Oh, it's so pretty. This must have cost him a fortune.","Oh, sie ist so hübsch. Das muss ihn ein Vermögen gekostet haben.",Phoebe Buffay,11,joyful
+94,I can't believe he did this.,"Ich kann nicht glauben, dass er das getan hat.",Monica Geller,6,joyful
+94,"Come on, Ross? Remember back in college, when he fell in love with Carol and bought her that ridiculously expensive crystal duck?","Komm schon, Ross? Weißt du noch, wie er sich auf dem College in Carol verliebte und ihr die teure Kristallente kaufte?",Chandler Bing,22,joyful
+94,What did you just say?,Was hast du gerade gesagt?,Rachel Green,5,scared
+94,F-hah.... flennin....,F-hah.... flennin....,Chandler Bing,2,scared
+94,Oh.... my God.,Oh.... mein Gott.,Rachel Green,3,joyful
+95,"Rach, I got a message from you.","Rach, ich habe eine Nachricht von dir bekommen.",Ross Geller,7,joyful
+95,"Oh my God. Oh my God Ross, no, hang up the phone, give me the phone Ross, give me the phone, give me the phone, give me the. . .","Oh mein Gott, Ross. Oh mein Gott Ross, nein, leg auf, gib mir das Telefon Ross, gib mir das Telefon, gib mir das Telefon, gib mir das... .",Rachel Green,30,scared
+95,You're over me?,Du bist über mich hinweg?,Ross Geller,3,sad
+95,Ohhhhhhhh God.,Ohhhhhhhh Gott.,Rachel Green,2,peaceful
+95,"Wha... you're uh, you're, you're over me?","Was... du bist, äh, du bist, du bist über mich hinweg?",Ross Geller,7,sad
+95,"Ohh, ohh.","Ohh, ohh.",Rachel Green,2,sad
+95,"When, when were you... under me?","Wann, wann warst du... unter mir?",Ross Geller,6,scared
+95,"Well, basically, lately, I've uh, I've uh, sort of had feelings for you.","Nun, im Grunde genommen habe ich in letzter Zeit irgendwie Gefühle für dich gehabt.",Rachel Green,13,scared
+95,"OK, I need to lie down.","Okay, ich muss mich hinlegen.",Ross Geller,6,scared
+96,"He broke up with Julie. Well, go hug her, for god's sakes.","Er hat mit Julie Schluss gemacht. Nun, geh und umarme sie, um Himmels willen.",Joey Tribbiani,12,mad
+96,Really?,Wirklich? Ja.,Rachel Green,1,neutral
+96,"Really. It's always been you, Rach.","Ja, wirklich. Du warst es schon immer, Rach.",Ross Geller,6,neutral
+96,"Oh, god.","Oh, mein Gott.",Rachel Green,2,scared
+96,Ohhh.,Ohhh.,Chandler Bing,1,sad
+97,"Y'know, hey! You're the one who ended it, remember?","Weißt du, hey! Du bist diejenige, die es beendet hat, erinnerst du dich?",Ross Geller,9,mad
+97,"Yeah, because I was mad at you, not because I stopped loving you!","Ja, weil ich sauer auf dich war, nicht weil ich aufgehört habe, dich zu lieben!",Rachel Green,13,scared
+97,You still love me?,Du liebst mich immer noch?,Ross Geller,4,scared
+97,Noo.,Nein.,Rachel Green,1,mad
+97,"What does this mean? What do you, I mean do you wanna, get back together?","Was hat das zu bedeuten? Willst du, ich meine, willst du wieder mit mir zusammenkommen?",Ross Geller,15,scared
+97,"Noo! Maybe! I, I don't know.","Nein! Vielleicht doch. Ich, ich weiß nicht.",Rachel Green,6,scared
+97,What?!,Was denn?!,Ross Geller,1,mad
+97,"I just, I feel, I-I just...","Ich fühle, ich fühle, ich fühle...",Rachel Green,6,neutral
+98,"All right, check it out. Check this out. It says here that there's a place you can go to rent videos of all the museums! ""It's almost as good as being there.""","In Ordnung, sieh dir das an. Sieh dir das an. Hier steht, dass es einen Ort gibt, an dem man Videos von allen Museen ausleihen kann! ""Es ist fast so gut, als wäre man vor Ort.""",Chandler Bing,32,joyful
+98,It's better! You can't go to a museum in your underwear!,Es ist besser! Du kannst nicht in deiner Unterwäsche ins Museum gehen!,Joey Tribbiani,11,joyful
+98,"Well, You could, but... probably just the one time.","Nun, man könnte, aber... wahrscheinlich nur das eine Mal.",Chandler Bing,9,joyful
+98,"I bet we could get videos of all the sites, get a VCR in our hotel room... we'd never even have to go outside!","Ich wette, wir könnten uns Videos von allen Sehenswürdigkeiten besorgen, uns einen Videorekorder ins Hotelzimmer stellen... wir müssten nicht einmal rausgehen!",Joey Tribbiani,24,joyful
+98,"If we do that, we gotta get Die Hard.","Wenn wir das tun, müssen wir Die Hard bekommen.",Chandler Bing,9,joyful
+98,Oh-ho! I bet the British version is gooooood!,"Oh-ho! Ich wette, die britische Version ist gaaaaanz toll!",Joey Tribbiani,8,joyful
