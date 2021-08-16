@@ -39,6 +39,7 @@ python EmoMain.py \
 - Code supports four datasets as mentioned earlier. You can select one of them using emoset option.
 - You can enable or disable speaker embedding using --speaker_embedding option.
 - There are some other arguments in the EmoMain.py file, e.g., the decay rate for learning rate, batch size, number of epochs. You can find out and change them if necessary.
+- Code support German version of Three datasets, Friends, EmotionPush and EmoryNLP. You can select the German version using emoset option.
 
 
 
