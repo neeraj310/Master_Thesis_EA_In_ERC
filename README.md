@@ -1,7 +1,3 @@
-Please download the directory in the following repository:
-
- https://github.com/neeraj310/Master_Thesis_EA_In_ERC/
-
 ERC is a task that aims at predicting emotion of each utterance in a conversation. The following is an excerpt of a conversation with each utterance tagged with corresponding emotion and sentiment label.
 ![alt text](example.jpg "Title")
 
@@ -21,7 +17,7 @@ Overview: Though predicting the emotion of a single utterance or sentence, i.e. 
 In this work, we have implemented ’HiTransformer’, a transformer-based context and speaker-sensitive model proposed by [Qingbiao et al.](https://arxiv.org/ftp/arxiv/papers/2002/2002.07551.pdf).  Firstly, we utilize a pre-trained bidirectional transformer encoder BERT to generate local utterance represen-tations. BERT has been shown to be a powerful representation learning model in many NLP applications and can exploit contextual information more efficiently than RNNs and CNNs. Another high-level transformer is used to capture the global context information in conversations. To make our model speaker-sensitive, we introduce speaker embedding into our model.After obtaining the contextual utterance embedding vectors with a hierarchical transformerframework, we feed them into the fully connected layers for classification. Dropout is appliedon the fully connected layers to prevent overfitting and softmax layer is used to obtain a prob-ability distribution over the output classes.
 
 # Datasets
-One of the major challenges in emotion recognition in conversations task is to find a good la-beled dataset. However, there are a few standard famous datasets that are used by researchers for this task. We use following datasets for benchmarking our implementa-tion.
+One of the major challenges in emotion recognition in conversations task is to find a good la-beled dataset. However, there are a few standard famous datasets that are used by researchers for this task. We use following datasets for benchmarking our implementation.
 - Friends: This  dataset  is  annotated  from  the  scripts  of  Friends  TV  sitcom,  andeach dialogue in the dataset consists of a scene of multiple speakers. This dataset consists of 1000 dialogues, which are split into three parts: 720 for training, 80 forvalidation, and 200 dialogues for testing. Each utterance is tagged with an emotionlabel from a set of 8 emotions, anger, joy, sadness, neutral, surprise, disgust, fear,and non-neutral.
  
 - EmotionPush:  The dataset consists of private conversations between friends onFacebook and includes 1000 dialogues, which are split into 720, 80, and 200 dia-logues for training, validation, and testing, respectively. Each utterance is taggedwith an emotion label from a set of emotions as in the Friends dataset.
