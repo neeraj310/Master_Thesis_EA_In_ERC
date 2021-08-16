@@ -9,6 +9,25 @@ import torch
 import numpy as np
 import torch.nn.functional as F
 from transformers import DistilBertModel, DistilBertForSequenceClassification, DistilBertConfig
+from transformers import AutoModel, AutoTokenizer
+from transformers import AutoConfig, AutoModelForPreTraining, AutoModelForSequenceClassification
+
+'''
+  This class makes use of DistilBert model to model word level input and capture the context of utterance level embeddings.
+  It makes use of pretrained language model which is equivalent to introducing external data into the model and helps our
+  model obtain better utterance embedding
+  Parameters
+    ----------
+    args: Structure of various flags used in the code. 
+    droput : Dropout  
+  
+  Returns
+    -------
+  sentence_embeds : Tensor
+     Tensor containing the utterance level embeddings.
+     
+'''
+
 
 class sentence_embeds_model(torch.nn.Module):
     """
@@ -17,12 +36,21 @@ class sentence_embeds_model(torch.nn.Module):
     
     def __init__(self, args, dropout = 0.1):
         super(sentence_embeds_model, self).__init__()
-        
-        self.transformer = DistilBertModel.from_pretrained('distilbert-base-uncased', dropout=dropout, 
-                                                           output_hidden_states=True)
-        
-        self.embedding_size = 2 * self.transformer.config.hidden_size
         self.args = args
+        if args.emoset == 'friends_german':
+            if args.use_distilbert:
+                print('Dataset Name {}  Use DistilBert Flag  {} Model being used {}'.format(args.emoset, args.use_distilbert, 'distilbert-base-german-cased' ))
+                self.transformer = DistilBertModel.from_pretrained('distilbert-base-german-cased', dropout=dropout, 
+                                                           output_hidden_states=True)
+            else:
+                print('Dataset Name {}  Use DistilBert Flag  {} Model being used {}'.format(args.emoset, args.use_distilbert, 'dbmdz/bert-base-german-uncased' ))
+                self.transformer = AutoModel.from_pretrained("dbmdz/bert-base-german-uncased", output_hidden_states=True)
+                                                           
+        else:
+            self.transformer = DistilBertModel.from_pretrained('distilbert-base-uncased', dropout=dropout, 
+                                                           output_hidden_states=True)
+        self.embedding_size = 2 * self.transformer.config.hidden_size
+     
       
         
     def layerwise_lr(self, lr, decay):
@@ -30,10 +58,19 @@ class sentence_embeds_model(torch.nn.Module):
         returns grouped model parameters with layer-wise decaying learning rate
         """
         bert = self.transformer
-        num_layers = bert.config.n_layers
-        opt_parameters = [{'params': bert.embeddings.parameters(), 'lr': lr*decay**num_layers}]
-        opt_parameters += [{'params': bert.transformer.layer[l].parameters(), 'lr': lr*decay**(num_layers-l+1)} 
+        
+        if self.args.emoset == 'friends_german' and not self.args.use_distilbert:
+            num_layers = bert.config.num_hidden_layers
+            opt_parameters = [{'params': bert.embeddings.parameters(), 'lr': lr*decay**num_layers}]
+            opt_parameters += [{'params': bert.encoder.layer[l].parameters(), 'lr': lr*decay**(num_layers-l+1)} 
                             for l in range(num_layers)]
+        else:
+            num_layers = bert.config.n_layers
+            print('num_layers = {}'.format(num_layers))
+            opt_parameters = [{'params': bert.embeddings.parameters(), 'lr': lr*decay**num_layers}]
+            opt_parameters += [{'params': bert.transformer.layer[l].parameters(), 'lr': lr*decay**(num_layers-l+1)} 
+                            for l in range(num_layers)]
+     
         return opt_parameters
                
     def forward(self, input_ids = None, attention_mask = None, input_embeds = None):
@@ -54,13 +91,35 @@ class sentence_embeds_model(torch.nn.Module):
                                   attention_mask = attention_mask, inputs_embeds = input_embeds)
       
         cls = output[0][:,0]
-        hidden_mean = torch.mean(output[1][-1],1)
+        if self.args.emoset == 'friends_german' and not self.args.use_distilbert:
+            hidden_mean = torch.mean(output[2][-1],1)
+        else:
+            hidden_mean = torch.mean(output[1][-1],1)
         sentence_embeds = torch.cat([cls, hidden_mean], dim = -1)
         sentence_embeds = sentence_embeds.view(-1,utterance_count, self.embedding_size)
        
         return sentence_embeds
     
     
+'''
+  Create contextual sentence embeddings- We model that a conversation may consists of vatiable number of utterances for 
+  dataset Friends/EmotionPush/EmoryNLP whereas for semeval number of utterances per conversation is fixed to 3. 
+    ----------
+    embedding_size: Embedded Layer Size
+    projection_size :Size of fully connected lazer before the bert model. 
+    n_layers : Number of hidden layers in pretrained bert model 
+    emo_dict : Label Encoding
+    max_number_of_speakers_in_dialogue
+    max_number_of_utter_in_dialogue : 25 for Friends/EmotionPush/EmoryNLP and 3 for Semeval. 
+    loss_weights : Tensor containing the weight assigned to different label classes to handle class imblance. 
+  Returns
+    -------
+  logits : Tensor
+     Softmax Probability Distribution
+
+  loss : Scalor
+      
+'''
 class context_classifier_model(torch.nn.Module):
     """
     instantiates the DisitlBertForSequenceClassification model, the position embeddings of the utterances, 
@@ -98,14 +157,16 @@ class context_classifier_model(torch.nn.Module):
                                 n_layers=n_layers,
                                 n_heads = 1,
                                 num_labels=len(self.emo_dict.keys()))
-
+      
         self.context_transformer = DistilBertForSequenceClassification(context_config)
+    
         if not self.args.emoset == 'semeval':
             self.others_label = self.emo_dict['neutral']
         else:
             self.others_label = self.emo_dict['others']
         self.bin_loss_fct = torch.nn.BCEWithLogitsLoss()
         self.context_experiment_flag = False
+   
         
     def bin_loss(self, logits, labels):
         """
@@ -131,7 +192,6 @@ class context_classifier_model(torch.nn.Module):
         """
         returns the logits and the corresponding loss if `labels` are given
         """
-    
         if self.context_experiment_flag == True:
             sentence_embeds = sentence_embeds.transpose(0, 1)
             spkr_emd = spkr_emd.transpose(0,1)
@@ -139,17 +199,14 @@ class context_classifier_model(torch.nn.Module):
             
         else:
             position_ids = torch.arange(sentence_embeds.shape[1], dtype=torch.long, device=sentence_embeds.device)
-        
+    
         position_ids = position_ids.expand(sentence_embeds.shape[:2]) 
-      
         position_embeds = self.position_embeds(position_ids)
         sentence_embeds = self.projection(sentence_embeds) + position_embeds 
- 
         if self.args.speaker_embedding:
             sentence_embeds = torch.cat((sentence_embeds, spkr_emd), dim=2)
             sentence_embeds = sentence_embeds.to(device=self.args.device, dtype=torch.float)
         sentence_embeds = self.drop(self.norm(sentence_embeds))
-      
         if labels is None:
             if not self.emoset == 'semeval':
                 return self.context_transformer(inputs_embeds = sentence_embeds.transpose(0, 1), labels = labels)[0]
@@ -158,7 +215,6 @@ class context_classifier_model(torch.nn.Module):
         else:
             if not self.args.emoset == 'semeval':
                 output =  self.context_transformer(inputs_embeds = sentence_embeds.transpose(0, 1), labels = labels)
-                
             else:
                 output =  self.context_transformer(inputs_embeds = sentence_embeds.flip(1), labels = labels)
         loss = output[0]
