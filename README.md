@@ -1,3 +1,7 @@
+Please download the directory in the following repository:
+
+ https://github.com/neeraj310/Master_Thesis_EA_In_ERC/
+
 ERC is a task that aims at predicting emotion of each utterance in a conversation. The following is an excerpt of a conversation with each utterance tagged with corresponding emotion and sentiment label.
 ![alt text](example.jpg "Title")
 
@@ -26,6 +30,7 @@ One of the major challenges in emotion recognition in conversations task is to f
 
 - Semeval EmoContext:  This dataset includes a training dataset of 30160 dialogues, and two evaluation data sets, Test1 and Test2, containing 2755and 5509 dialogues respectively.  In this dataset, each dialogue consists of 3 utterancesand given a textual dialogue i.e.  an utterance along with two previous turns of context,the goal is to infer the underlying emotion of the 3rd utterance by choosing from fouremotion classes - Happy,  Sad,  Angry and Others.
 
+
 # Train 
 User can train the model using following commqand:
 
@@ -34,12 +39,41 @@ python EmoMain.py \
 --emoset friends \
 --speaker_embedding \
 --random \
+--batch_size \ 
 
 # More Details
 - Code supports four datasets as mentioned earlier. You can select one of them using emoset option.
 - You can enable or disable speaker embedding using --speaker_embedding option.
 - There are some other arguments in the EmoMain.py file, e.g., the decay rate for learning rate, batch size, number of epochs. You can find out and change them if necessary.
 - Code support German version of Three datasets, Friends, EmotionPush and EmoryNLP. You can select the German version using emoset option.
+
+# Codebase
+We have foure notebooks in the repository, one each for four datasets. Each notebook contain the complete code from dataset EDA, preprocessing, dataloader, model implementation, traning and evaluation loops, and result analysis.
+- Friends.ipynb
+- EmotionPush.ipynb
+- EmoryNLP.ipynb
+- Semeval.ipynb \
+Repository also contain the python code to reproduce the experiments mentioed in the notebook. Following is a short introduction to functionality implemnted in each python file. 
+
+==========================================================
+- EmoMain.py
+  This python file contains the initialization routine for important parameters of the implementation. 
+  
+- EmoTrain.py 
+  This python file contains the code for Pytorch lightning framework to execute Training and Evaluation Loops.
+  
+- Utils.py
+  This python file contains the code to read Train/Validation/Test subsets of various datasets in pandas dataframes
+
+- CustomDataloader.py
+  This python file contains the code to initialize the dataloader. 
+
+- Modules.py
+  This python file contains the code for model implementation
+
+
+
+==========================================================
 
 
 
